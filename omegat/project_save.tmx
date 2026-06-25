@@ -675,6 +675,9 @@
       <tuv lang="de-DE">
         <seg>Einfach anschließen und den CO2 Gehalt, die Temperatur und die Luftfeuchtigkeit messen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260625T154110Z">
+        <seg>Απλά συνδέστε τη συσκευή και μετρήστε τα επίπεδα CO2, τη θερμοκρασία και την υγρασία.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1400,6 +1403,9 @@
       <tuv lang="de-DE">
         <seg>Mit dem&lt;x1/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260625T154120Z">
+        <seg>Με το καλώδιο Grove&lt;x1/&gt;, το SCD40 συνδέεται με το Calliope mini μέσω της θύρας Grove A0.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1409,6 +1415,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Mit der CO2-Platine lassen sich drei unterschiedliche Werte messen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260625T154107Z">
+        <seg>Με την πλακέτα CO2 μπορούν να μετρηθούν τρεις διαφορετικές τιμές.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1669,6 +1678,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Schließe die Platine an.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260625T154115Z">
+        <seg>Συνδέστε την πλακέτα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2011,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260625T154114Z">
+        <seg>Χρησιμοποίησε την πλακέτα CO2 για να μετρήσεις την ποιότητα του αέρα.</seg>
       </tuv>
     </tu>
     <tu>
