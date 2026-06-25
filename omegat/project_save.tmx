@@ -1,0 +1,3929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_0766b073d" segtype="sentence" srclang="de-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="de-DE">
+        <seg>(parts per million)&lt;x2/&gt;Teilchen in Millionen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114324Z" creationid="amando" creationdate="20260618T114324Z">
+        <seg>(parts per million)&lt;x2/&gt;deeltjes per miljoen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>
+
+</note>
+      <tuv lang="de-DE">
+        <seg>1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>2x Kniebeugen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103857Z" creationid="amando" creationdate="20260619T103857Z">
+        <seg>2x squats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3 Orangen bereitlegen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095026Z" creationid="amando" creationdate="20260619T095026Z">
+        <seg>Zorg dat je 3 sinaasappels bij de hand hebt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3x Hampelmann hintereinander</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103853Z" creationid="amando" creationdate="20260619T103853Z">
+        <seg>3 keer achter elkaar een sprongje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>9cm</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110957Z" creationid="amando" creationdate="20260619T110957Z">
+        <seg>9 cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134320Z" creationid="amando" creationdate="20260618T134320Z">
+        <seg>&lt;x2/&gt;Zet de onderstaande afbeeldingen van de bakinstructies in de juiste volgorde door ze te nummeren van 1 tot en met 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133235Z" creationid="amando" creationdate="20260618T133235Z">
+        <seg>&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x3/&gt;a) Bringe die einzelnen Schritte in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134423Z" creationid="amando" creationdate="20260618T134423Z">
+        <seg>&lt;x3/&gt;a) Zet de afzonderlijke stappen in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;Tipp: Tippe Dauerhaft in die Suche ein!&lt;x5/&gt;Lasse eine Rakete auf der LED-Matrix steigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100129Z" creationid="amando" creationdate="20260619T100129Z">
+        <seg>&lt;x4/&gt;Tip: typ ‘Duurzaam’ in het zoekveld!&lt;x5/&gt;Laat een raket opstijgen op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;Verwende eine Variable, um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101214Z" creationid="amando" creationdate="20260619T101214Z">
+        <seg>&lt;x4/&gt;Gebruik een variabele om de snelheid van je animatie te bepalen en deze gemakkelijk aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x4/&gt;b) Kreise den Schritt ein, der wiederholt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134427Z" creationid="amando" creationdate="20260618T134427Z">
+        <seg>&lt;x4/&gt;b) Omcirkel de stap die herhaald wordt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x5/&gt;Verwende eine Variable um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133854Z" creationid="amando" creationdate="20260618T133854Z">
+        <seg>&lt;x5/&gt;Gebruik een variabele om de snelheid van je animatie te bepalen en deze gemakkelijk aan te passen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x6/&gt;Du musst wie ein Trickfilmprofi in Einzelbildern denken.&lt;x7/&gt;Bringe die Befehle in die richtige Reihenfolge und&lt;x8/&gt;lasse einen Countdown von 3-2-1-0 anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100913Z" creationid="amando" creationdate="20260619T100913Z">
+        <seg>&lt;x6/&gt;Je moet net als een animatieprofessional in afzonderlijke beelden denken.&lt;x7/&gt;Zet de commando's in de juiste volgorde en&lt;x8/&gt;laat een aftelling van 3-2-1-0 weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>&lt;x6/&gt;Entwickle ein Programm, das folgende Funktionen hat:&lt;x7/&gt;Bodenfeuchtigkeit&lt;x8/&gt; - Prüfe dauerhaft: Ist die Erde zu trocken, soll die RGB-LED rot leuchten, ansonsten soll sie grün leuchten.&lt;x9/&gt;Temperatur&lt;x10/&gt; - Wird Knopf B gedrückt, soll die Temperatur angezeigt werden.&lt;x11/&gt;Helligkeit &lt;x12/&gt;- Wird Knopf A gedrückt, soll angezeigt werden, ob genügend Licht zur Verfügung steht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111141Z" creationid="amando" creationdate="20260619T111141Z">
+        <seg>&lt;x6/&gt;Ontwikkel een programma met de volgende functies:&lt;x7/&gt;Bodemvochtigheid&lt;x8/&gt; - Controleer continu: als de grond te droog is, moet de RGB-LED rood branden; anders moet hij groen branden.&lt;x9/&gt;Temperatuur&lt;x10/&gt; - Als knop B wordt ingedrukt, moet de temperatuur worden weergegeven.&lt;x11/&gt;Helderheid &lt;x12/&gt;- Als knop A wordt ingedrukt, moet worden aangegeven of er voldoende licht beschikbaar is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133051Z" creationid="amando" creationdate="20260618T133051Z">
+        <seg>Vragen&lt;x1/&gt;(enkelvoudig/dubbel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x1/&gt;(mehrfach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133059Z" creationid="amando" creationdate="20260618T133059Z">
+        <seg>Zoekopdrachten&lt;x1/&gt;(meerdere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x2/&gt;(ein-/zweifach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103811Z" creationid="amando" creationdate="20260619T103811Z">
+        <seg>Vragen&lt;x2/&gt;(enkelvoudig/dubbel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abfragen&lt;x2/&gt;(mehrfach)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103815Z" creationid="amando" creationdate="20260619T103815Z">
+        <seg>Zoekopdrachten&lt;x2/&gt;(meerdere)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Abschluss mit einem Strecksprung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104017Z" creationid="amando" creationdate="20260619T104017Z">
+        <seg>Afsluiting met een uitgestrekte sprongje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aktion</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105109Z" creationid="amando" creationdate="20260619T105109Z">
+        <seg>Actie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Alle 25 LEDs können rot leuchten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133406Z" creationid="amando" creationdate="20260618T133406Z">
+        <seg>Alle 25 LED's kunnen rood oplichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Am besten funktioniert es, wenn du bekannte Symbole und Bezeichnungen verwendest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135012Z" creationid="amando" creationdate="20260618T135012Z">
+        <seg>Het werkt het beste als je bekende symbolen en benamingen gebruikt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Andere Wiederholungen sind an eine Bedingung oder ein anderes Ereignis geknüpft.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134513Z" creationid="amando" creationdate="20260618T134513Z">
+        <seg>Andere herhalingen zijn gekoppeld aan een voorwaarde of een andere gebeurtenis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Angenehm fühlt es sich zwischen 30%&lt;x2/&gt;und 70% an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112115Z" creationid="amando" creationdate="20260619T112115Z">
+        <seg>Het voelt prettig aan tussen 30%&lt;x2/&gt;en 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern,&lt;x3/&gt;kannst du es dir viel einfacher machen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101212Z" creationid="amando" creationdate="20260619T101212Z">
+        <seg>In plaats van bij elke pauzecommando steeds weer de snelheid aan te passen,&lt;x3/&gt;kun je het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anstecken und Luftqualität messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113610Z" creationid="amando" creationdate="20260618T113610Z">
+        <seg>Aansluiten en de luchtkwaliteit meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anstecken und messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111001Z" creationid="amando" creationdate="20260619T111001Z">
+        <seg>Aansluiten en meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anweisung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135113Z" creationid="amando" creationdate="20260618T135113Z">
+        <seg>Instructies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Anweisungen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114414Z" creationid="amando" creationdate="20260618T114414Z">
+        <seg>Instructies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auch die Farbe und Anordnung einiger Bauteile hat sich leicht geändert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134931Z" creationid="amando" creationdate="20260618T134931Z">
+        <seg>Ook de kleur en de plaatsing van enkele onderdelen zijn enigszins veranderd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf Seite 58 findest du eine Anleitung, wie du mit einem mobilen Gerät programmierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095359Z" creationid="amando" creationdate="20260619T095359Z">
+        <seg>Op pagina 58 vind je een handleiding voor het programmeren met een mobiel apparaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf dem Monitor ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134713Z" creationid="amando" creationdate="20260618T134713Z">
+        <seg>Op het scherm ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auf der Rückseite kannst du dann den Calliope mini mit einem Klebestreifen oder Gummiband befestigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105531Z" creationid="amando" creationdate="20260619T105531Z">
+        <seg>Aan de achterkant kun je de Calliope mini vervolgens met een plakbandje of een elastiekje vastmaken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Aus dem Lautsprecher ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134717Z" creationid="amando" creationdate="20260618T134717Z">
+        <seg>Uit de luidspreker ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ausgabe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134918Z" creationid="amando" creationdate="20260618T134918Z">
+        <seg>Uitgave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ausgegeben wird die Helligkeit im Wertebereich 0 (dunkel) - 255 (hell).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104844Z" creationid="amando" creationdate="20260619T104844Z">
+        <seg>De helderheid wordt weergegeven op een schaal van 0 (donker) tot 255 (licht).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ausgegeben wird die Lautstärke im Wertebereich 0 - 255.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105105Z" creationid="amando" creationdate="20260619T105105Z">
+        <seg>Het volume wordt weergegeven in het bereik van 0 tot 255.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auswahl des Ausgabeformats</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111116Z" creationid="amando" creationdate="20260619T111116Z">
+        <seg>Keuze van het uitvoerformaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Auswahl&lt;x2/&gt;des Sensors</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111112Z" creationid="amando" creationdate="20260619T111112Z">
+        <seg>Selectie&lt;x2/&gt;van de sensoren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134239Z" creationid="amando" creationdate="20260618T134239Z">
+        <seg>Auteurs:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Aanvullend materiaal, waaronder lesgidsen, programmacodes en oplossingen, is te vinden op de website: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>BASTELN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134623Z" creationid="amando" creationdate="20260618T134623Z">
+        <seg>KNUTSELEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Eis-Thermometer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105523Z" creationid="amando" creationdate="20260619T105523Z">
+        <seg>Maak zelf een ijsthermometer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Orakel und stelle spannende Fragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110903Z" creationid="amando" creationdate="20260619T110903Z">
+        <seg>Maak je eigen orakel en stel spannende vragen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bastel dir ein eigenes Smart-Licht: Klatsche in die Hände und das Licht geht an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105220Z" creationid="amando" creationdate="20260619T105220Z">
+        <seg>Maak je eigen slimme lamp: klap in je handen en het licht gaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Baue dir dein eigenes Calliope mini Orakel und lasse dir die Antworten geben.&lt;x2/&gt;Du programmierst und bestimmst die Antworten!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110756Z" creationid="amando" creationdate="20260619T110756Z">
+        <seg>Maak je eigen Calliope mini-orakel en laat het je de antwoorden geven.&lt;x2/&gt;Jij programmeert het en bepaalt zelf de antwoorden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bausteine eines Computers</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112337Z" creationid="amando" creationdate="20260618T113534Z">
+        <seg>Onderdelen van een computersysteem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bearbeite die folgenden Aufgaben in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103652Z" creationid="amando" creationdate="20260619T103652Z">
+        <seg>Voer de volgende opdrachten uit in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige deinen Calliope mini auf der Pappe, indem du das Gummiband um die Pappscheibe führst und z.B. um einen Grove-Anschluss spannst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110923Z" creationid="amando" creationdate="20260619T110923Z">
+        <seg>Bevestig je Calliope mini op het karton door het elastiekje om de kartonnen schijf te halen en het bijvoorbeeld rond een Grove-aansluiting strak te trekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige ein Gummiband am &lt;x2/&gt;Pin 0&lt;x3/&gt; deines Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110919Z" creationid="amando" creationdate="20260619T110919Z">
+        <seg>Bevestig een elastiekje aan &lt;x2/&gt;pin 0&lt;x3/&gt; van je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Befestige zwei Gummibänder an&lt;x2/&gt;Pin P0 und P3 deines Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105241Z" creationid="amando" creationdate="20260619T105241Z">
+        <seg>Bevestig twee elastiekjes aan&lt;x2/&gt;pin P0 en P3 van je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beim Programmieren werden Algorithmen, die der Computer ausführen soll, in Programme übersetzt, die der Computer versteht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134402Z" creationid="amando" creationdate="20260618T134402Z">
+        <seg>Bij het programmeren worden algoritmen die de computer moet uitvoeren, vertaald naar programma's die de computer begrijpt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich             Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100116Z" creationid="amando" creationdate="20260619T100116Z">
+        <seg>Bij het opstarten verschijnt er een hart op de LED-matrix.&lt;x2/&gt;Laat „Ich                Berlin!“ over de LED-matrix lopen.&lt;x3/&gt;Laat een hart continu knipperen op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich liebe Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.&lt;x4/&gt;Tipp:&lt;x5/&gt; Tippe Dauerhaft in die Suche ein!&lt;x6/&gt;Lasse eine Rakete auf der LED-Matrix steigen.&lt;x7/&gt;Tipp:&lt;x8/&gt; Jetzt musst du denken, wie ein Trickfilmprofi&lt;x9/&gt;-  in Einzelbildern!&lt;x10/&gt;Bring die Programmblöcke in die richtige Reihenfolge&lt;x11/&gt;und lass einen Countdown von 3-2-1-0 anzeigen.&lt;x12/&gt;a) Füge hinter jeder Zahl eine &lt;x13/&gt;Pause&lt;x14/&gt; ein.&lt;x15/&gt;b) &lt;x16/&gt;Verlängere&lt;x17/&gt; die Pausen indem du den Wert der Millisekunden (MS) erhöhst.&lt;x18/&gt;c) &lt;x19/&gt;Speichere&lt;x20/&gt; dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133431Z" creationid="amando" creationdate="20260618T133427Z">
+        <seg>Bij het opstarten verschijnt er een hart op de LED-matrix.&lt;x2/&gt;Laat „Ik hou van Berlijn!“ over de LED-matrix lopen.&lt;x3/&gt;Laat een hart continu op de LED-matrix knipperen.&lt;x4/&gt;Tip:&lt;x5/&gt; Typ ‘Duur’ in de zoekbalk!&lt;x6/&gt;Laat een raket opstijgen op de LED-matrix.&lt;x7/&gt;Tip:&lt;x8/&gt; Nu moet je denken als een animatieprofessional&lt;x9/&gt;-  in afzonderlijke beelden!&lt;x10/&gt;Zet de programmablokken in de juiste volgorde&lt;x11/&gt;en laat een aftelling van 3-2-1-0 weergeven.&lt;x12/&gt;a) Voeg achter elk getal een &lt;x13/&gt;pauze&lt;x14/&gt; in.&lt;x15/&gt;b) &lt;x16/&gt;Verleng&lt;x17/&gt; de pauzes door de waarde in milliseconden (ms) te verhogen.&lt;x18/&gt;c) &lt;x19/&gt;Sla&lt;x20/&gt; je programma op onder de naam „Raketlancering“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Benenne dein Programm und klicke auf “Herunterladen”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133738Z" creationid="amando" creationdate="20260618T133738Z">
+        <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Benenne dein Programm und klicke auf „Herunterladen”.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095416Z" creationid="amando" creationdate="20260619T095416Z">
+        <seg>Geef je programma een naam en klik op ‘Downloaden’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Benutze dafür am besten Klebeband.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105237Z" creationid="amando" creationdate="20260619T105237Z">
+        <seg>Gebruik daarvoor het liefst plakband.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Benutze dafür den Platz auf der nächsten Seite.&lt;x3/&gt;b) Programmiere anhand deines Struktogramms.&lt;x4/&gt;c) Teste im Simulator.&lt;x5/&gt;d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111206Z" creationid="amando" creationdate="20260619T111206Z">
+        <seg>Gebruik daarvoor de ruimte op de volgende pagina.&lt;x3/&gt;b) Programmeer aan de hand van je structogram.&lt;x4/&gt;c) Test het in de simulator.&lt;x5/&gt;d) Zet je programma over naar de Calliope mini en probeer het uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Betrachte deinen Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134747Z" creationid="amando" creationdate="20260618T134747Z">
+        <seg>Kijk eens naar je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bitte gießen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111153Z" creationid="amando" creationdate="20260619T111153Z">
+        <seg>Geef alsjeblieft water!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Bringe die einzelnen Schritte in die richtige Reihenfolge.&lt;x2/&gt;Kreise die Schritte ein, die wiederholt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134517Z" creationid="amando" creationdate="20260618T134517Z">
+        <seg>Zet de afzonderlijke stappen in de juiste volgorde.&lt;x2/&gt;Omcirkel de stappen die herhaald worden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>CO2-Sensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111903Z" creationid="amando" creationdate="20260618T113602Z">
+        <seg>CO₂-sensoren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Calliope mini Bluetooth-Modus</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112242Z" creationid="amando" creationdate="20260619T112242Z">
+        <seg>Calliope mini Bluetooth-modus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dabei spielt die Reihenfolge der Anweisungen eine entscheidende Rolle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134304Z" creationid="amando" creationdate="20260618T134304Z">
+        <seg>Daarbij speelt de volgorde van de instructies een doorslaggevende rol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dafür werden klare und detaillierte Anweisungen benötigt, die nacheinander ausgeführt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134300Z" creationid="amando" creationdate="20260618T134300Z">
+        <seg>Hiervoor zijn duidelijke en gedetailleerde instructies nodig, die stap voor stap moeten worden uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Damit alle Personen aus deinem Team Nachrichten senden und empfangen können, übertrage jeweils den gesamten Programmcode auf alle Calliope mini in deinem Team.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104614Z" creationid="amando" creationdate="20260619T104614Z">
+        <seg>Zorg ervoor dat je de volledige programmacode naar alle Calliope mini’s in je team overbrengt, zodat iedereen in je team berichten kan verzenden en ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Damit der Calliope mini deine Anweisungen versteht, müssen diese in der passenden Sprache geschrieben werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095109Z" creationid="amando" creationdate="20260619T095109Z">
+        <seg>Om ervoor te zorgen dat de Calliope mini je instructies begrijpt, moeten deze in de juiste taal zijn geschreven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Danach erscheint die &lt;x2/&gt;Funk&lt;x3/&gt; &lt;x4/&gt;Kategorie in deiner Bibliothek.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104540Z" creationid="amando" creationdate="20260619T104540Z">
+        <seg>Daarna verschijnt de &lt;x2/&gt;Funk&lt;x3/&gt; &lt;x4/&gt;-categorie in je bibliotheek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Drücken des Knopfes A löst&lt;x2/&gt;das Senden der Nachricht aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104635Z" creationid="amando" creationdate="20260619T104635Z">
+        <seg>Als je op knop A drukt, wordt&lt;x2/&gt;het bericht verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Mikrofon ist der Lautstärkesensor des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105015Z" creationid="amando" creationdate="20260619T105015Z">
+        <seg>De microfoon fungeert als geluidssensor van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Das Programm wird zunächst als .hex-Datei im Download-Ordner gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095418Z" creationid="amando" creationdate="20260619T095418Z">
+        <seg>Het programma wordt eerst als .hex-bestand in de downloadmap opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu brauchst du eine Programmierumgebung - auch Editor genannt.&lt;x2/&gt;Eine passende Programmierumgebung ist der Editor MakeCode.&lt;x3/&gt;Du findest ihn unter folgender Internetadresse:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095110Z" creationid="amando" creationdate="20260619T095110Z">
+        <seg>Daarvoor heb je een programmeeromgeving nodig – ook wel editor genoemd.&lt;x2/&gt;Een geschikte programmeeromgeving is de editor MakeCode.&lt;x3/&gt;Je vindt deze op het volgende internetadres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dazu wird die Calliope mini App benötigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112234Z" creationid="amando" creationdate="20260619T112234Z">
+        <seg>Hiervoor is de Calliope mini-app nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Definiere 5 Farben und ordne jeder Farbe eine Fitnessübung zu - zum Beispiel Kniebeugen, Strecksprung, Hampelmann etc.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104037Z" creationid="amando" creationdate="20260619T104037Z">
+        <seg>Kies 5 kleuren en koppel aan elke kleur een fitnessoefening – bijvoorbeeld squats, sprong met strekbeweging, hink-stap-sprong enz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Deine bearbeiteten Projekte findest du auf der Startseite unter &lt;x2/&gt;„Meine Projekte“&lt;x3/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095216Z" creationid="amando" creationdate="20260619T095216Z">
+        <seg>Je bewerkte projecten vind je op de startpagina onder &lt;x2/&gt;„Mijn projecten“&lt;x3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Den Calliope mini steuern</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095429Z" creationid="amando" creationdate="20260619T095429Z">
+        <seg>De Calliope mini bedienen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Den Inhalt des Rucksacks kannst du ändern und über den Namen des Rucksacks abfragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134009Z" creationid="amando" creationdate="20260618T134009Z">
+        <seg>Je kunt de inhoud van de rugzak wijzigen en deze opvragen via de naam van de rugzak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134632Z" creationid="amando" creationdate="20260618T134632Z">
+        <seg>De Calliope mini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini besitzt eine kleine Antenne, über die Nachrichten zwischen verschiedenen Calliope mini übermittelt werden können.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104507Z" creationid="amando" creationdate="20260619T104507Z">
+        <seg>De Calliope mini heeft een kleine antenne waarmee berichten tussen verschillende Calliope mini's kunnen worden verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini kann mobil per Bluetooth programmiert werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112230Z" creationid="amando" creationdate="20260619T112230Z">
+        <seg>De Calliope mini kan mobiel via Bluetooth worden geprogrammeerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini kann über den Lautsprecher Töne ausgeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104225Z" creationid="amando" creationdate="20260619T104225Z">
+        <seg>De Calliope mini kan geluiden weergeven via de luidspreker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Calliope mini misst die Entfernung - im Geheimen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111444Z" creationid="amando" creationdate="20260619T111444Z">
+        <seg>De Calliope mini meet de afstand – in het geheim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Computer ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134701Z" creationid="amando" creationdate="20260618T134701Z">
+        <seg>De computer ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Computer benötigt diese klaren, eindeutigen Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134410Z" creationid="amando" creationdate="20260618T134410Z">
+        <seg>De computer heeft deze duidelijke, eenduidige instructies nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Inhalt der Variable „receivedString“&lt;x2/&gt;wird auf der LED-Matrix angezeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104639Z" creationid="amando" creationdate="20260619T104639Z">
+        <seg>De inhoud van de variabele „receivedString“&lt;x2/&gt;wordt weergegeven op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Programmbereich kann auch als Bühne angesehen werden, hier entwickelst du dein Programm, in dem du die einzelnen Programmblöcke platzierst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095134Z" creationid="amando" creationdate="20260619T095134Z">
+        <seg>Het programmagedeelte kan ook als een podium worden beschouwd; hier ontwikkel je je programma door de afzonderlijke programmablokken te plaatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Temperatursensor des Calliope mini&lt;x2/&gt;ist im Prozessor integriert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105327Z" creationid="amando" creationdate="20260619T105327Z">
+        <seg>De temperatuursensor van de Calliope mini&lt;x2/&gt;is in de processor geïntegreerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der Text wird über Funk empfangen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104643Z" creationid="amando" creationdate="20260619T104643Z">
+        <seg>De tekst wordt via de radio ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Der integrierte Lagesensor des Calliope mini misst, in welcher Position sich der Calliope mini befindet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105544Z" creationid="amando" creationdate="20260619T105544Z">
+        <seg>De ingebouwde positiesensor van de Calliope mini meet in welke positie de Calliope mini zich bevindt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dicke Luft?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112058Z" creationid="amando" creationdate="20260619T112058Z">
+        <seg>Is er iets aan de hand?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die .hex Datei lässt sich wieder in MakeCode öffnen und bearbeiten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095342Z" creationid="amando" creationdate="20260619T095342Z">
+        <seg>Het .hex-bestand kan weer in MakeCode worden geopend en bewerkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Funkgruppe wird auf „1“ gestellt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104630Z" creationid="amando" creationdate="20260619T104630Z">
+        <seg>De radio wordt op „1“ gezet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Knöpfe (Taster) funktionieren, wie die Tasten auf einer Tastatur.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104049Z" creationid="amando" creationdate="20260619T104049Z">
+        <seg>De knoppen (drukknoppen) werken net als de toetsen op een toetsenbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix beim Calliope mini ist gleichzeitig auch der Lichtsensor, mit dem die Stärke des Umgebungslichts gemessen werden kann.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104819Z" creationid="amando" creationdate="20260619T104819Z">
+        <seg>De LED-matrix van de Calliope mini fungeert tegelijkertijd ook als lichtsensor, waarmee de intensiteit van het omgevingslicht kan worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133402Z" creationid="amando" creationdate="20260618T133402Z">
+        <seg>De LED-matrix is het &lt;x2/&gt;scherm&lt;x3/&gt; van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix ist der Bildschirm des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095536Z" creationid="amando" creationdate="20260619T095536Z">
+        <seg>De LED-matrix is het scherm van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die LED-Matrix kannst du jetzt durch das Fenster sehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105249Z" creationid="amando" creationdate="20260619T105249Z">
+        <seg>Je kunt de LED-matrix nu door het raam zien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Luft, die dich umgibt, spielt eine große Rolle für dein Wohlbefinden.&lt;x2/&gt;Programmiere eine Anzeige, die dich informiert, wenn es zu heiß wird, die Luftfeuchtigkeit zu hoch oder zu niedrig ist und wenn mal wieder gelüftet werden muss.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112008Z" creationid="amando" creationdate="20260619T112008Z">
+        <seg>De lucht om je heen speelt een grote rol in je welzijn.&lt;x2/&gt;Programmeer een display dat je waarschuwt wanneer het te warm wordt, de luchtvochtigheid te hoog of te laag is en wanneer het weer tijd is om te luchten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Sammlung dieser Handlungsanweisungen wird Programm oder Algorithmus genannt.&lt;x2/&gt;In deinem Alltag gibt es viele Abläufe, die du hintereinander ausführst und bei denen du auf die Reihenfolge achten musst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134308Z" creationid="amando" creationdate="20260618T134308Z">
+        <seg>De verzameling van deze instructies wordt een programma of algoritme genoemd.&lt;x2/&gt;In je dagelijks leven zijn er veel handelingen die je achter elkaar uitvoert en waarbij je op de volgorde moet letten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Temperatur wird in Grad Celsius (°C)&lt;x2/&gt;angegeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105356Z" creationid="amando" creationdate="20260619T105356Z">
+        <seg>De temperatuur wordt uitgedrukt in graden Celsius (°C)&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Touch-Pins ermöglichen es, mit den Fingern einen Schaltkreis zu schließen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104254Z" creationid="amando" creationdate="20260619T104254Z">
+        <seg>Met de touch-pinnen kun je met je vingers een stroomkring sluiten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Touch-Pins reagieren auf Berührung und lösen so - wie die Knöpfe - Befehle aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104250Z" creationid="amando" creationdate="20260619T104250Z">
+        <seg>De touch-pins reageren op aanraking en activeren zo – net als de knoppen – opdrachten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die Zukunft vorhersagen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110817Z" creationid="amando" creationdate="20260619T110817Z">
+        <seg>De toekomst voorspellen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Die zufällige Zahl bestimmt die Antwort, die angezeigt wird.&lt;x5/&gt;Ausgabe:&lt;x6/&gt;Die Antwort wird auf der LED-Matrix ausgegeben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110829Z" creationid="amando" creationdate="20260619T110829Z">
+        <seg>Het willekeurige getal bepaalt welk antwoord wordt weergegeven.&lt;x5/&gt;Uitvoer:&lt;x6/&gt;Het antwoord wordt weergegeven op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Diese Farben werden aus den drei Grundfarben rot, grün, blau gemischt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103635Z" creationid="amando" creationdate="20260619T103635Z">
+        <seg>Deze kleuren worden gemengd uit de drie basiskleuren rood, groen en blauw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Display, Hacken, Coden&lt;x2/&gt; – was bedeutet das überhaupt?&lt;x3/&gt;Wir haben eine Webseite mit den am häufigsten benutzten Begriffen zusammengetragen: &lt;x4/&gt;https://calliope.cc/begriffe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112255Z" creationid="amando" creationdate="20260619T112255Z">
+        <seg>Display, hacken, coderen&lt;x2/&gt; – wat betekent dat eigenlijk?&lt;x3/&gt;We hebben een website samengesteld met de meest gebruikte termen: &lt;x4/&gt;https://calliope.cc/begriffe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Dort steht rechts neben dem USB-Anschluss die Versionsnummer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095142Z" creationid="amando" creationdate="20260619T095142Z">
+        <seg>Daar staat rechts naast de USB-aansluiting het versienummer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm auszuführen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133833Z" creationid="amando" creationdate="20260618T133833Z">
+        <seg>Druk op de witte resetknop op je Calliope mini om je programma uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm erneut zu starten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095423Z" creationid="amando" creationdate="20260619T095423Z">
+        <seg>Druk op de witte resetknop op je Calliope mini om je programma opnieuw te starten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Drücke zusätzlich die &lt;x5/&gt;Reset Taste&lt;x6/&gt; für&lt;x7/&gt;1 Sekunde.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112307Z" creationid="amando" creationdate="20260619T112307Z">
+        <seg>Druk bovendien &lt;x5/&gt;op de resetknop&lt;x6/&gt; gedurende&lt;x7/&gt;1 seconde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du findest ihn in der Logik Kategorie.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104733Z" creationid="amando" creationdate="20260619T104733Z">
+        <seg>Je vindt het in de categorie ‘Logica’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst auch die Kugel von außen noch verzieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110932Z" creationid="amando" creationdate="20260619T110932Z">
+        <seg>Je kunt de bal ook van buitenaf nog versieren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst die Projekte im Arbeitsheft mit allen Calliope mini Versionen umsetzen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134935Z" creationid="amando" creationdate="20260618T134935Z">
+        <seg>Je kunt de projecten in het werkboek uitvoeren met alle versies van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst diesen Link speichern oder mit anderen teilen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095348Z" creationid="amando" creationdate="20260619T095348Z">
+        <seg>Je kunt deze link opslaan of met anderen delen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst ein Programm mit einem Rezept vergleichen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134312Z" creationid="amando" creationdate="20260618T134312Z">
+        <seg>Je kunt een programma vergelijken met een recept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst ihn einfach anklicken und an die gewünschte Stelle ziehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104601Z" creationid="amando" creationdate="20260619T104601Z">
+        <seg>Je kunt er gewoon op klikken en het naar de gewenste plek slepen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst jederzeit die Version anpassen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095132Z" creationid="amando" creationdate="20260619T095132Z">
+        <seg>Je kunt de versie op elk moment aanpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst mit Krokodilklemmen die Touch-Pins verlängern.&lt;x9/&gt;Probiere unterschiedliche Materialien aus… Aluminium, Banane, Knete, Besteck.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104413Z" creationid="amando" creationdate="20260619T104413Z">
+        <seg>Je kunt de touch-pinnen verlengen met krokodillenklemmen.&lt;x9/&gt;Probeer eens verschillende materialen uit… aluminium, banaan, klei, bestek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst sie nicht umbenennen, aber jederzeit innerhalb der „Empfangen“-Funktion verwenden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104532Z" creationid="amando" creationdate="20260619T104532Z">
+        <seg>Je kunt ze niet hernoemen, maar je kunt ze op elk moment gebruiken binnen de functie ‘Ontvangen’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du kannst sie zum Beispiel in Transparentpapier wickeln.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110915Z" creationid="amando" creationdate="20260619T110915Z">
+        <seg>Je kunt ze bijvoorbeeld in transparant papier wikkelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du möchtest ein leckeres Marmeladenbrot zum Frühstück?&lt;x2/&gt;Bringe die Anweisungen in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134337Z" creationid="amando" creationdate="20260618T134337Z">
+        <seg>Wil je een lekker broodje met jam als ontbijt?&lt;x2/&gt;Zet de instructies in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Du schätzt die Entfernung und der Calliope mini löst auf und zeigt die gemessene Entfernung an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111448Z" creationid="amando" creationdate="20260619T111448Z">
+        <seg>Je schat de afstand en de Calliope mini voert de berekening uit en geeft de gemeten afstand weer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch Mischen der Farben können viele Farben angezeigt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103639Z" creationid="amando" creationdate="20260619T103639Z">
+        <seg>Door de kleuren te mengen, kunnen veel verschillende kleuren worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Durch einen Klick auf das &lt;x2/&gt;Speichern-Symbol&lt;x3/&gt;kannst du dein Programm als .hex Datei speichern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095340Z" creationid="amando" creationdate="20260619T095340Z">
+        <seg>Door op het &lt;x2/&gt;opslagpictogram&lt;x3/&gt;te klikken, kun je je programma opslaan als een .hex-bestand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Algorithmus ist eine Verarbeitungsvorschrift mit eindeutig ausführbaren Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134406Z" creationid="amando" creationdate="20260618T134406Z">
+        <seg>Een algoritme is een verwerkingsvoorschrift met eenduidige, uitvoerbare instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Computersystem besteht aus vielen Bauteilen, kennst du sie?&lt;x2/&gt;Einige dieser Bauteile sind auch auf dem Calliope mini zu finden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134636Z" creationid="amando" creationdate="20260618T134636Z">
+        <seg>Een computersysteem bestaat uit veel onderdelen, ken je ze?&lt;x2/&gt;Sommige van deze onderdelen zijn ook op de Calliope mini te vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Plan hilft dir bei der Umsetzung deiner Idee und ist nützlich, damit du den Überblick bewahrst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135008Z" creationid="amando" creationdate="20260618T135008Z">
+        <seg>Een plan helpt je bij het uitvoeren van je idee en is handig om het overzicht te behouden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein Text wird über Funk gesendet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104647Z" creationid="amando" creationdate="20260619T104647Z">
+        <seg>Een tekst wordt via de radio verzonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ein neues Projekt starten&lt;x2/&gt;Klicke auf die türkise Schaltfläche mit dem großen „+“ Zeichen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095137Z" creationid="amando" creationdate="20260619T095137Z">
+        <seg>Een nieuw project starten&lt;x2/&gt;Klik op de turquoise knop met het grote „+“-teken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine RGB-LED kann in ganz unterschiedlichen Farben leuchten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101336Z" creationid="amando" creationdate="20260619T101336Z">
+        <seg>Een RGB-led kan in heel verschillende kleuren oplichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eine Variable ist wie ein Rucksack mit Namensschild, den du immer dabei hast und der jederzeit den Inhalt bereithält.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134005Z" creationid="amando" creationdate="20260618T134005Z">
+        <seg>Een variabele is als een rugzak met een naamplaatje, die je altijd bij je hebt en die op elk moment de inhoud bij de hand heeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Einfach anschließen und den CO2 Gehalt, die Temperatur und die Luftfeuchtigkeit messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113623Z" creationid="amando" creationdate="20260618T113623Z">
+        <seg>Gewoon aansluiten en het CO₂-gehalte, de temperatuur en de luchtvochtigheid meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eingabe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134914Z" creationid="amando" creationdate="20260618T134914Z">
+        <seg>Invoer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eingabe:&lt;x2/&gt;Schüttel den Calliope mini.&lt;x3/&gt;Verarbeitung:&lt;x4/&gt;Ein zufällige Zahl zwischen 1 und 3 wird ermittelt und in eine Variable gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110821Z" creationid="amando" creationdate="20260619T110821Z">
+        <seg>Invoer:&lt;x2/&gt;Schud de Calliope mini.&lt;x3/&gt;Verwerking:&lt;x4/&gt;Er wordt een willekeurig getal tussen 1 en 3 gegenereerd en in een variabele opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Eis-Thermometer</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105425Z" creationid="amando" creationdate="20260619T105425Z">
+        <seg>IJsthermometer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Entfernungen messen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111312Z" creationid="amando" creationdate="20260619T111312Z">
+        <seg>Afstanden meten!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Entscheidung/Abfrage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095008Z" creationid="amando" creationdate="20260619T095008Z">
+        <seg>Beslissing/Vraag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Entwickle ein Calliope mini Klavier, das beim Berühren der Touch-Pins 0-3 jeweils eine unterschiedliche Note abspielt, die RGB-LED in verschiedenen Farben leuchten lässt und den Notennamen auf der LED-Matrix anzeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104405Z" creationid="amando" creationdate="20260619T104405Z">
+        <seg>Ontwikkel een Calliope mini-piano die bij het aanraken van de touch-pinnen 0-3 telkens een andere noot laat klinken, de RGB-LED in verschillende kleuren laat oplichten en de naam van de noot op de LED-matrix weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er befindet sich unter dem B-Knopf genau neben dem Touch-Pin mit der Nummer 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104229Z" creationid="amando" creationdate="20260619T104229Z">
+        <seg>Deze bevindt zich onder de B-knop, precies naast de touch-pin met nummer 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Er kann auch feststellen, ob der Calliope mini geschüttelt wird.&lt;x2/&gt;Einen Lagesensor kennst du von einem Handy.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105548Z" creationid="amando" creationdate="20260619T105548Z">
+        <seg>Hij kan ook detecteren of de Calliope mini wordt geschud.&lt;x2/&gt;Je kent een positiesensor wel van een mobiele telefoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergebnis</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104451Z" creationid="amando" creationdate="20260619T104451Z">
+        <seg>Resultaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm auf der rechten Seite:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110800Z" creationid="amando" creationdate="20260619T110800Z">
+        <seg>Vul het structogram aan de rechterkant aan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm um zwei Entscheidungen und formuliere passende Anweisungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095100Z" creationid="amando" creationdate="20260619T095100Z">
+        <seg>Vul het structogram aan met twee beslissingen en formuleer bijbehorende instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ergänze das Struktogramm und füge die einzelnen Schritte in der richtigen Reihenfolge des Saftmachens hinzu.&lt;x2/&gt;• Hälften auspressen&lt;x3/&gt;• 3 Mal wiederholen&lt;x4/&gt;• Orange in der Mitte durchschneiden</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095019Z" creationid="amando" creationdate="20260619T095019Z">
+        <seg>Vul het structogram aan en voeg de afzonderlijke stappen toe in de juiste volgorde voor het maken van sap.&lt;x2/&gt;• De helften uitpersen&lt;x3/&gt;• Dit 3 keer herhalen&lt;x4/&gt;• De sinaasappel in het midden doormidden snijden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle das abgebildete Programm.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133825Z" creationid="amando" creationdate="20260618T133825Z">
+        <seg>Maak het afgebeelde programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle dazu folgende Programme in MakeCode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133230Z" creationid="amando" creationdate="20260618T133230Z">
+        <seg>Maak hiervoor de volgende programma's in MakeCode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle dazu folgende Programme in MakeCode.&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095208Z" creationid="amando" creationdate="20260619T095208Z">
+        <seg>Maak hiervoor de volgende programma's in MakeCode.&lt;x2/&gt;Start de simulator en beschrijf wat er in de simulator gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle den Programmcode anhand des abgebildeten Struktogramms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104917Z" creationid="amando" creationdate="20260619T104917Z">
+        <seg>Maak de programmacode aan de hand van het afgebeelde structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Fitnessprogramm!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104032Z" creationid="amando" creationdate="20260619T104032Z">
+        <seg>Stel een fitnessprogramma samen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, das dauerhaft die Helligkeit misst und diese über die&lt;x2/&gt;LED-Matrix ausgibt.&lt;x3/&gt;Miss die Umgebungslichtstärke an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104823Z" creationid="amando" creationdate="20260619T104823Z">
+        <seg>Maak een programma dat continu de helderheid meet en deze via de&lt;x2/&gt;LED-matrix weergeeft.&lt;x3/&gt;Meet de omgevingshelderheid op verschillende locaties en leg de gemeten waarden vast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, das dauerhaft die Temperatur misst und diese über die LED-Matrix ausgibt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105335Z" creationid="amando" creationdate="20260619T105335Z">
+        <seg>Maak een programma dat continu de temperatuur meet en deze via de LED-matrix weergeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Programm, mit dem du nach Belieben unterschiedliche Nachrichten übertragen kannst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104704Z" creationid="amando" creationdate="20260619T104704Z">
+        <seg>Maak een programma waarmee je naar believen verschillende berichten kunt verzenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm anhand des Programmcodes.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103721Z" creationid="amando" creationdate="20260619T103721Z">
+        <seg>Maak een structogram op basis van de programmacode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm und beachte bei deinem Fitnessprogramm folgende Vorgaben:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103832Z" creationid="amando" creationdate="20260619T103832Z">
+        <seg>Maak een structogram en houd bij je fitnessprogramma rekening met de volgende richtlijnen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein Struktogramm, um einen Regenbogen zu programmieren.&lt;x2/&gt;Verwende dazu folgende Farben: &lt;x3/&gt;rot, orange, gelb, grün, türkis, blau, lila.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103729Z" creationid="amando" creationdate="20260619T103729Z">
+        <seg>Maak een structogram om een regenboog te programmeren.&lt;x2/&gt;Gebruik daarvoor de volgende kleuren: &lt;x3/&gt;rood, oranje, geel, groen, turkoois, blauw, paars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle ein eigenes Struktogramm für das Überqueren einer Straße.&lt;x2/&gt;Verwende folgende Beschreibungen der einzelnen Schritte.&lt;x3/&gt;• Ich gehe zur Ampel.&lt;x4/&gt;• Ich überprüfe das Ampelsignal.&lt;x5/&gt;• Ist das Signal der Ampel grün?&lt;x6/&gt;• Ich überquere die Straße.&lt;x7/&gt;• Ich bleibe stehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095104Z" creationid="amando" creationdate="20260619T095104Z">
+        <seg>Maak een eigen structogram voor het oversteken van een straat.&lt;x2/&gt;Gebruik de volgende beschrijvingen van de afzonderlijke stappen.&lt;x3/&gt;• Ik loop naar het verkeerslicht.&lt;x4/&gt;• Ik kijk naar het verkeerslicht.&lt;x5/&gt;• Is het verkeerslicht op groen?&lt;x6/&gt;• Ik steek de straat over.&lt;x7/&gt;• Ik blijf staan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle folgende Programme in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133444Z" creationid="amando" creationdate="20260618T133444Z">
+        <seg>Maak de volgende programma's in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erstelle folgendes Programm in MakeCode:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104315Z" creationid="amando" creationdate="20260619T104315Z">
+        <seg>Maak het volgende programma in MakeCode:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Erweitere dein Programm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104352Z" creationid="amando" creationdate="20260619T104352Z">
+        <seg>Breid je programma uit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es gibt Abläufe, die durch getroffene Entscheidungen unterschiedlich verlaufen.&lt;x2/&gt;Verbinde die &lt;x3/&gt;Bedingungen (wenn)&lt;x4/&gt; mit der passenden &lt;x5/&gt;Entscheidung (dann).</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134414Z" creationid="amando" creationdate="20260618T134414Z">
+        <seg>Er zijn processen die, afhankelijk van de genomen beslissingen, op verschillende manieren verlopen.&lt;x2/&gt;Koppel de &lt;x3/&gt;voorwaarden (als)&lt;x4/&gt; aan de juiste &lt;x5/&gt;beslissing (dan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es kann über verschiedene Funkgruppen, die in der Programmierung festgelegt werden, gefunkt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104511Z" creationid="amando" creationdate="20260619T104511Z">
+        <seg>Er kan via verschillende radiogroepen worden gecommuniceerd, die tijdens de programmering worden ingesteld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Es lassen sich Texte, Symbole und sogar Animationen anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133410Z" creationid="amando" creationdate="20260618T133410Z">
+        <seg>Er kunnen teksten, symbolen en zelfs animaties worden weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Falte den Karton zum Schluss zusammen und befestige Gummibänder außen am Karton.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105257Z" creationid="amando" creationdate="20260619T105257Z">
+        <seg>Vouw het karton tot slot dicht en bevestig elastiekjes aan de buitenkant van het karton.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Feuchtigkeitssensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111034Z" creationid="amando" creationdate="20260619T111034Z">
+        <seg>Vochtigheidssensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Finde eine Bezeichnung für den Ort und notiere die Messung in Wert 1.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104827Z" creationid="amando" creationdate="20260619T104827Z">
+        <seg>Zoek een naam voor de plaats en noteer de meetwaarde in veld 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Fitness Training</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103828Z" creationid="amando" creationdate="20260619T103828Z">
+        <seg>Fitnesstraining</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Formuliere fünf Anweisungen, die den Ablauf des Zähneputzens beschreiben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134341Z" creationid="amando" creationdate="20260618T134341Z">
+        <seg>Formuleer vijf instructies die beschrijven hoe het tandenpoetsen in zijn werk gaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Funken</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104503Z" creationid="amando" creationdate="20260619T104503Z">
+        <seg>Vonken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Futter in den Napf füllen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095025Z" creationid="amando" creationdate="20260619T095025Z">
+        <seg>Voer in de voerbak doen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Füge beiden Symbolen noch eine passende Farbe hinzu und teste das Projekt auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104110Z" creationid="amando" creationdate="20260619T104110Z">
+        <seg>Geef beide symbolen nog een passende kleur en test het project op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe dafür die folgenden zwei Schritte aus:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104536Z" creationid="amando" creationdate="20260619T104536Z">
+        <seg>Voer hiervoor de volgende twee stappen uit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133632Z" creationid="amando" creationdate="20260618T133632Z">
+        <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test het resultaat op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste sie auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095403Z" creationid="amando" creationdate="20260619T095403Z">
+        <seg>Voer de afzonderlijke stappen in de juiste volgorde uit en test ze op je Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Definiere eine Variable „komplett” mit der maximalen Personenanzahl und eine Variable für die Anzahl der Personen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111546Z" creationid="amando" creationdate="20260619T111546Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Definieer een variabele „komplett” met het maximale aantal personen en een variabele voor het aantal personen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111202Z" creationid="amando" creationdate="20260619T111202Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann … ansonsten” Abfrage, um die Aktionen zu steuern.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105143Z" creationid="amando" creationdate="20260619T105143Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram&lt;x3/&gt;b) Programmeer aan de hand van je structogram&lt;x4/&gt;Gebruik een „als-dan … anders”-conditie om de acties te sturen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann… ansonsten” Abfrage, um die Aktionen zu steuern.&lt;x5/&gt;Hinweis: Das Plus ermöglicht eine weitere Abfrage.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105433Z" creationid="amando" creationdate="20260619T105433Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Maak een structogram&lt;x3/&gt;b) Programmeer aan de hand van je structogram&lt;x4/&gt;Gebruik een „als-dan… anders”-vraag om de acties te sturen.&lt;x5/&gt;Opmerking: met het plusteken kun je een volgende vraag toevoegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Schau dir den Programmcode an und beschreibe was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105707Z" creationid="amando" creationdate="20260619T105707Z">
+        <seg>Ga stap voor stap te werk:&lt;x2/&gt;a) Bekijk de programmacode en beschrijf wat er gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gehe schrittweise vor!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095159Z" creationid="amando" creationdate="20260619T095159Z">
+        <seg>Ga stap voor stap te werk!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Geschrieben wird ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134709Z" creationid="amando" creationdate="20260618T134709Z">
+        <seg>Er wordt geschreven ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gewinnen wir das nächste Hockeyturnier, ist Flynn verliebt in mich oder darf ich heute Abend am Computer spielen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105720Z" creationid="amando" creationdate="20260619T105720Z">
+        <seg>Als we het volgende hockeytoernooi winnen, is Flynn dan verliefd op mij of mag ik vanavond op de computer spelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gib den Programmcode korrigiert ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104102Z" creationid="amando" creationdate="20260619T104102Z">
+        <seg>Voer de programmacode in de juiste vorm in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gib die URL in die Browserleiste ein - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095111Z" creationid="amando" creationdate="20260619T095111Z">
+        <seg>Voer de URL in de adresbalk van de browser in - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt die gemessene Entfernung in Zentimetern aus!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111419Z" creationid="amando" creationdate="20260619T111419Z">
+        <seg>Geeft de gemeten afstand weer in centimeters!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Gibt die gemessene Entfernung in Zentimetern aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111423Z" creationid="amando" creationdate="20260619T111423Z">
+        <seg>Geeft de gemeten afstand weer in centimeters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hacken</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134615Z" creationid="amando" creationdate="20260618T134615Z">
+        <seg>Hakken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Halte den Calliope mini mit einer Hand am&lt;x2/&gt;Minus (-) Pin fest und berühre mit einem Finger der anderen Hand einen der anderen Pins.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104336Z" creationid="amando" creationdate="20260619T104336Z">
+        <seg>Houd de Calliope mini met één hand vast bij de&lt;x2/&gt;minus (-)-pin en raak met een vinger van je andere hand een van de andere pinnen aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Halte die Tasten A+B so lange gedrückt, bis die&lt;x8/&gt;Bluetooth-Animation beendet ist.&lt;x9/&gt;• &lt;x10/&gt;Das individuelle &lt;x11/&gt;ID-Muster&lt;x12/&gt; erscheint auf deinem Calliope mini.&lt;x13/&gt;•&lt;x14/&gt; Ab dem Calliope mini 3 kannst du den Bluetooth-Modus starten,&lt;x15/&gt;indem du &lt;x16/&gt;3x die Reset Taste&lt;x17/&gt; drückst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112312Z" creationid="amando" creationdate="20260619T112312Z">
+        <seg>Houd de toetsen A+B ingedrukt totdat de&lt;x8/&gt;Bluetooth-animatie is afgelopen.&lt;x9/&gt;• &lt;x10/&gt;Het unieke &lt;x11/&gt;ID-patroon&lt;x12/&gt; verschijnt op je Calliope mini.&lt;x13/&gt;•&lt;x14/&gt; Vanaf de Calliope mini 3 kun je de Bluetooth-modus starten&lt;x15/&gt;door &lt;x16/&gt;drie keer op de resetknop&lt;x17/&gt; te drukken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hardware auswählen&lt;x2/&gt;Wähle zu Beginn eines neuen Projekts deine Calliope mini Version aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095139Z" creationid="amando" creationdate="20260619T095139Z">
+        <seg>Hardware selecteren&lt;x2/&gt;Kies aan het begin van een nieuw project je Calliope mini-versie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier hast du Platz für die Struktogramme von Aufgabe 2 und 3.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103754Z" creationid="amando" creationdate="20260619T103754Z">
+        <seg>Hier is ruimte voor de structogrammen van opgave 2 en 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier ist Platz für dein Struktogramm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114340Z" creationid="amando" creationdate="20260618T114340Z">
+        <seg>Hier is ruimte voor je structogram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier ist etwas durcheinander geraten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133615Z" creationid="amando" creationdate="20260618T133615Z">
+        <seg>Er is hier iets in de war geraakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier kannst du dein Programm benennen, speichern und übertragen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095130Z" creationid="amando" creationdate="20260619T095130Z">
+        <seg>Hier kun je je programma een naam geven, opslaan en verzenden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier kannst du deine Eingabe noch genauer definieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104306Z" creationid="amando" creationdate="20260619T104306Z">
+        <seg>Hier kun je je invoer nog nauwkeuriger specificeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier siehst du ein Struktogramm, das den Ablauf des Hundefütterns darstellt.&lt;x2/&gt;Schau dir die einzelnen Anweisungen an und kreise die Entscheidung ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095015Z" creationid="amando" creationdate="20260619T095015Z">
+        <seg>Hier zie je een structogram dat het verloop van het voeren van de hond weergeeft.&lt;x2/&gt;Bekijk de afzonderlijke instructies en omcirkel de keuze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hier siehst du eine Abbildung des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134755Z" creationid="amando" creationdate="20260618T134755Z">
+        <seg>Hier zie je een afbeelding van de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Der „receivedString“ - Block speichert die empfangene Nachricht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104557Z" creationid="amando" creationdate="20260619T104557Z">
+        <seg>Help:&lt;x2/&gt;Het „receivedString“-blok slaat het ontvangen bericht op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Für die Abfrage der empfangenen Zahl wird ein Vergleichsblock benötigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104729Z" creationid="amando" creationdate="20260619T104729Z">
+        <seg>Help:&lt;x2/&gt;Om het ontvangen getal op te vragen, is een vergelijkingsblok nodig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hilfe:&lt;x2/&gt;Mit Krokodilklemmen kannst du Gegenstände wie z.B. Aluminiumfolie, Knete oder eine Zitrone mit den Touch-Pins verbinden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104430Z" creationid="amando" creationdate="20260619T104430Z">
+        <seg>Hulp:&lt;x2/&gt;Met krokodillenklemmen kun je voorwerpen zoals aluminiumfolie, klei of een citroen aan de touch-pinnen bevestigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; &lt;x3/&gt;Ab dem Calliope mini 3 gibt es drei RGB-LEDs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103734Z" creationid="amando" creationdate="20260619T103734Z">
+        <seg>Opmerking:&lt;x2/&gt; &lt;x3/&gt;Vanaf de Calliope mini 3 zijn er drie RGB-leds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Ab dem Calliope mini 3 gibt es drei RGB-LEDs.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134926Z" creationid="amando" creationdate="20260618T134926Z">
+        <seg>Opmerking:&lt;x2/&gt; Vanaf de Calliope mini 3 zijn er drie RGB-leds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Die Werte können etwas höher ausfallen, da sich der Temperatursensor im Prozessor befindet und dieser eigene Wärme abstrahlt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105318Z" creationid="amando" creationdate="20260619T105318Z">
+        <seg>Opmerking:&lt;x2/&gt; De waarden kunnen iets hoger uitvallen, omdat de temperatuursensor zich in de processor bevindt en deze zelf warmte afgeeft.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hinweis:&lt;x2/&gt; Stelle sicher, dass du deine Calliope mini Version im Simulator siehst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095131Z" creationid="amando" creationdate="20260619T095131Z">
+        <seg>Opmerking:&lt;x2/&gt; Zorg ervoor dat je je Calliope mini-versie in de simulator ziet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hitzefrei!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105450Z" creationid="amando" creationdate="20260619T105450Z">
+        <seg>Geen school vanwege de hitte!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hoch hinaus!&lt;x2/&gt; Hast du es gewusst: Der Calliope mini war zusammen mit dem ESA-Astronauten Matthias Maurer auf der internationalen Raumstation und hat dort fleißig Experimente ausgeführt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101005Z" creationid="amando" creationdate="20260619T101005Z">
+        <seg>Hoog in de lucht!&lt;x2/&gt; Wist je dat: de Calliope mini was samen met ESA-astronaut Matthias Maurer op het internationale ruimtestation en heeft daar ijverig experimenten uitgevoerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Hund frisst</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095032Z" creationid="amando" creationdate="20260619T095032Z">
+        <seg>De hond eet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Häkchen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111124Z" creationid="amando" creationdate="20260619T111124Z">
+        <seg>Vinkje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich beiße ein Stück der Banane ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134500Z" creationid="amando" creationdate="20260618T134500Z">
+        <seg>Ik bijt een stukje van de banaan af.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich entferne die Schale.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134452Z" creationid="amando" creationdate="20260618T134452Z">
+        <seg>Ik haal de schil eraf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich gehe zur Tür.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134435Z" creationid="amando" creationdate="20260618T134435Z">
+        <seg>Ik loop naar de deur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich gucke aus dem Fenster</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095106Z" creationid="amando" creationdate="20260619T095106Z">
+        <seg>Ik kijk uit het raam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich höre ein „Herein“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134444Z" creationid="amando" creationdate="20260618T134444Z">
+        <seg>Ik hoor iemand ‘Kom binnen’ zeggen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich kaue.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134504Z" creationid="amando" creationdate="20260618T134504Z">
+        <seg>Ik kauw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich klopfe.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134607Z" creationid="amando" creationdate="20260618T134607Z">
+        <seg>Ik klop op de deur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich nehme die Banane.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134431Z" creationid="amando" creationdate="20260618T134431Z">
+        <seg>Ik neem de banaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich schlucke hinunter.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134509Z" creationid="amando" creationdate="20260618T134509Z">
+        <seg>Ik slik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich trete ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134448Z" creationid="amando" creationdate="20260618T134448Z">
+        <seg>Ik kom binnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wiederhole drei Mal:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134439Z" creationid="amando" creationdate="20260618T134439Z">
+        <seg>Ik herhaal dit drie keer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ich wiederhole folgende drei Vorgänge, bis die Banane aufgegessen ist:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134456Z" creationid="amando" creationdate="20260618T134456Z">
+        <seg>Ik herhaal de volgende drie handelingen totdat de banaan op is:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Im Simulator kannst du die Programme direkt testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095135Z" creationid="amando" creationdate="20260619T095135Z">
+        <seg>In de simulator kun je de programma's direct testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113700Z" creationid="amando" creationdate="20260618T113700Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40&lt;x3/&gt;(Erweiterungen)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111931Z" creationid="amando" creationdate="20260619T111931Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;CO2-sensor-SCD40&lt;x3/&gt;(uitbreidingen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;Grove&lt;x3/&gt;(Erweiterungen)</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111051Z" creationid="amando" creationdate="20260619T111051Z">
+        <seg>Importeer de benodigde programmablokken:&lt;x2/&gt;Grove&lt;x3/&gt;(uitbreidingen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Bibliothek findest du alle Programmblöcke, die du für deine Anweisungen benötigst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095128Z" creationid="amando" creationdate="20260619T095128Z">
+        <seg>In de bibliotheek vind je alle programmablokken die je nodig hebt voor je instructies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In der Kategorie &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;findest du den Ereignisblock &lt;x5/&gt;„gedrückt“&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104302Z" creationid="amando" creationdate="20260619T104302Z">
+        <seg>In de categorie &lt;x2/&gt;Invoer&lt;x3/&gt; &lt;x4/&gt;vind je het gebeurtenisblok &lt;x5/&gt;„ingedrukt”&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In dieser Variable wird der über Funk empfangene Text gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104528Z" creationid="amando" creationdate="20260619T104528Z">
+        <seg>In deze variabele wordt de via de radio ontvangen tekst opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>In vielen Abläufen kannst du wiederkehrende Muster erkennen.&lt;x2/&gt;Manche Wiederholungen haben eine definierte Anzahl.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134419Z" creationid="amando" creationdate="20260618T134419Z">
+        <seg>In veel processen kun je terugkerende patronen herkennen.&lt;x2/&gt;Sommige herhalingen hebben een vast aantal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Inhaltsverzeichnis</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134210Z" creationid="amando" creationdate="20260618T134210Z">
+        <seg>Inhoudsopgave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist die Klasse vollzählig?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111550Z" creationid="amando" creationdate="20260619T111550Z">
+        <seg>Is de klas compleet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist diese Bedingung nicht erfüllt, schalte alle LEDs der Matrix aus.&lt;x6/&gt;Ausgabe:&lt;x7/&gt;Alle 25 LEDs der LED-Matrix werden ein- und ausgeschaltet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105138Z" creationid="amando" creationdate="20260619T105138Z">
+        <seg>Als niet aan deze voorwaarde wordt voldaan, schakel dan alle LED's van de matrix uit.&lt;x6/&gt;Uitvoer:&lt;x7/&gt;Alle 25 LED's van de LED-matrix worden in- en uitgeschakeld.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist es hell genug, lasse ein Häkchen erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111149Z" creationid="amando" creationdate="20260619T111149Z">
+        <seg>Als het licht genoeg is, laat er dan een vinkje verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111145Z" creationid="amando" creationdate="20260619T111145Z">
+        <seg>Als het te donker is, laat dan een zon op de LED-matrix verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JETZT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095435Z" creationid="amando" creationdate="20260619T095435Z">
+        <seg>NU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Je genauer die Anweisungen, desto präziser ist das Ergebnis.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134316Z" creationid="amando" creationdate="20260618T134316Z">
+        <seg>Hoe gedetailleerder de instructies, hoe nauwkeuriger het resultaat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jeder möglichen Zahl wird eine Antwort zugewiesen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110825Z" creationid="amando" creationdate="20260619T110825Z">
+        <seg>Aan elk mogelijk getal wordt een antwoord toegewezen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Jetzt wird es clever!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105151Z" creationid="amando" creationdate="20260619T105151Z">
+        <seg>Nu wordt het pas echt slim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>KENNENLERNEN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133205Z" creationid="amando" creationdate="20260618T133205Z">
+        <seg>KENNISMAKEN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kennenlernen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095202Z" creationid="amando" creationdate="20260619T095202Z">
+        <seg>Kennismaken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Kennst du die verschiedenen Bereiche des Editors und kannst sie den Beschreibungen zuordnen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095118Z" creationid="amando" creationdate="20260619T095118Z">
+        <seg>Ken je de verschillende onderdelen van de editor en kun je ze aan de beschrijvingen koppelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klavier</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104401Z" creationid="amando" creationdate="20260619T104401Z">
+        <seg>Piano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klebe von innen ein Stück Transparentpapier über die große Öffnung.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105232Z" creationid="amando" creationdate="20260619T105232Z">
+        <seg>Plak van binnenuit een stukje transparant papier over de grote opening.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Klicke dazu auf die drei Punkte neben „Herunterladen“ und drücke „Hardware auswählen“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095133Z" creationid="amando" creationdate="20260619T095133Z">
+        <seg>Klik hiervoor op de drie puntjes naast ‘Downloaden’ en selecteer ‘Hardware selecteren’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Knöpfe</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104045Z" creationid="amando" creationdate="20260619T104045Z">
+        <seg>Knopen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LED-Matrix</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133354Z" creationid="amando" creationdate="20260618T133354Z">
+        <seg>LED-matrix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LED-Matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Knöpfe&lt;x6/&gt;24&lt;x7/&gt;Lautsprecher&lt;x8/&gt;25&lt;x9/&gt;Touch-Pins&lt;x10/&gt;26&lt;x11/&gt;Funken&lt;x12/&gt;28</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134218Z" creationid="amando" creationdate="20260618T134218Z">
+        <seg>LED-matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Knoppen&lt;x6/&gt;24&lt;x7/&gt;Luidspreker&lt;x8/&gt;25&lt;x9/&gt;Touch-pinnen&lt;x10/&gt;26&lt;x11/&gt;Vonken&lt;x12/&gt;28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LOS</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095437Z" creationid="amando" creationdate="20260619T095437Z">
+        <seg>GAAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>LUFTQUALITÄT</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133107Z" creationid="amando" creationdate="20260618T133107Z">
+        <seg>LUCHTKWALITEIT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lage</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105540Z" creationid="amando" creationdate="20260619T105540Z">
+        <seg>Locatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lagesensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134824Z" creationid="amando" creationdate="20260618T134824Z">
+        <seg>Positiesensor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse die RGB-LED grün leuchten,&lt;x2/&gt;wenn Pin 0 gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104258Z" creationid="amando" creationdate="20260619T104258Z">
+        <seg>Laat de RGB-LED groen branden,&lt;x2/&gt;wanneer pin 0 wordt ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse die Tonleiter abspielen.&lt;x2/&gt;C - D - E - F - G - A - H - C</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104152Z" creationid="amando" creationdate="20260619T104152Z">
+        <seg>Speel de toonladder af.&lt;x2/&gt;C - D - E - F - G - A - H - C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse eine Melodie abspielen,&lt;x2/&gt;wenn Knopf A gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104200Z" creationid="amando" creationdate="20260619T104200Z">
+        <seg>Speel een melodie af&lt;x2/&gt;wanneer knop A wordt ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lasse einen Smiley erscheinen, wenn der Knopf A gedrückt wird und einen traurigen Smiley, wenn der Knopf B gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104106Z" creationid="amando" creationdate="20260619T104106Z">
+        <seg>Laat een smiley verschijnen als er op knop A wordt gedrukt en een verdrietige smiley als er op knop B wordt gedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lautsprecher</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134857Z" creationid="amando" creationdate="20260618T134857Z">
+        <seg>Luidspreker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lautstärke</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105011Z" creationid="amando" creationdate="20260619T105011Z">
+        <seg>Volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lege den Calliope mini in den Karton und führe die Gummibänder durch die Löcher auf der Vorderseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105245Z" creationid="amando" creationdate="20260619T105245Z">
+        <seg>Leg de Calliope mini in de doos en haal de elastiekjes door de gaatjes aan de voorkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lerne den Calliope mini kennen.&lt;x2/&gt;Entwickle kreative Ideen und produziere eigene Prototypen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134611Z" creationid="amando" creationdate="20260618T134611Z">
+        <seg>Maak kennis met de Calliope mini.&lt;x2/&gt;Ontwikkel creatieve ideeën en maak je eigen prototypes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lerne die einzelnen Aktoren und Sensoren des Calliope mini zu steuern und erstelle erste eigene Programme.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095433Z" creationid="amando" creationdate="20260619T095433Z">
+        <seg>Leer de afzonderlijke actuatoren en sensoren van de Calliope mini aan te sturen en maak je eerste eigen programma’s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Lautstärke&lt;x4/&gt;34&lt;x5/&gt;Temperatur&lt;x6/&gt;37&lt;x7/&gt;Lage&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Feuchtigkeitssensor&lt;x12/&gt;44&lt;x13/&gt;Pflanzenstation&lt;x14/&gt;45&lt;x15/&gt;Ultraschallsensor&lt;x16/&gt;48&lt;x17/&gt;Personenzähler&lt;x18/&gt;50&lt;x19/&gt;CO2-Sensor&lt;x20/&gt;53&lt;x21/&gt;Luftqualität&lt;x22/&gt;54</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134226Z" creationid="amando" creationdate="20260618T134226Z">
+        <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Volume&lt;x4/&gt;34&lt;x5/&gt;Temperatuur&lt;x6/&gt;37&lt;x7/&gt;Positie&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Vochtigheidssensor&lt;x12/&gt;44&lt;x13/&gt;Plantstation&lt;x14/&gt;45&lt;x15/&gt;Ultrasone sensor&lt;x16/&gt;48&lt;x17/&gt;Personenteller&lt;x18/&gt;50&lt;x19/&gt;CO2-sensor&lt;x20/&gt;53&lt;x21/&gt;Luchtkwaliteit&lt;x22/&gt;54</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Lizenziert unter Creative Commons Namensnennung 4.0 International&lt;x2/&gt;Calliope gGmbH</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134235Z" creationid="amando" creationdate="20260618T134235Z">
+        <seg>Gelicentieerd onder Creative Commons Naamsvermelding 4.0 Internationaal&lt;x2/&gt;Calliope gGmbH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Luftqualität</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114332Z" creationid="amando" creationdate="20260618T114332Z">
+        <seg>Luchtkwaliteit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mache einen Plan!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103746Z" creationid="amando" creationdate="20260619T103746Z">
+        <seg>Maak een plan!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mache einen Plan.&lt;x2/&gt;2) Setze dein Programm aus den einzelnen Programmblöcken zusammen.&lt;x3/&gt;3) Überprüfe dein Programm im Simulator.&lt;x4/&gt;4) Übertrage dein Programm auf den Calliope mini.&lt;x5/&gt;5) Führe dein Programm auf dem Calliope mini aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095149Z" creationid="amando" creationdate="20260619T095149Z">
+        <seg>Maak een plan.&lt;x2/&gt;2) Stel je programma samen uit de afzonderlijke programmablokken.&lt;x3/&gt;3) Controleer je programma in de simulator.&lt;x4/&gt;4) Zet je programma over naar de Calliope mini.&lt;x5/&gt;5) Voer je programma uit op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Macht der Hund&lt;x2/&gt;„Sitz“?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095036Z" creationid="amando" creationdate="20260619T095036Z">
+        <seg>Kan de hond&lt;x2/&gt;„Zit“ doen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Manche Antworten musst du sofort wissen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110752Z" creationid="amando" creationdate="20260619T110752Z">
+        <seg>Sommige antwoorden moet je meteen weten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Material</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104442Z" creationid="amando" creationdate="20260619T104442Z">
+        <seg>Materiaal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mikrofon</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134832Z" creationid="amando" creationdate="20260618T134832Z">
+        <seg>Microfoon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Minus-Pin&lt;x2/&gt;nicht vergessen!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104340Z" creationid="amando" creationdate="20260619T104340Z">
+        <seg>Vergeet de min-pin&lt;x2/&gt;niet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mischt man alle drei Farben auf einmal, ergibt das weiß.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103644Z" creationid="amando" creationdate="20260619T103644Z">
+        <seg>Als je alle drie de kleuren tegelijk mengt, krijg je wit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Miss an den verschiedenen Orten erneut, ergänze deine Tabelle&lt;x2/&gt;aus Aufgabe 2 und gleich deine Ergebnisse ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105003Z" creationid="amando" creationdate="20260619T105003Z">
+        <seg>Meet opnieuw op de verschillende locaties, vul je tabel&lt;x2/&gt;uit opdracht 2 aan en vergelijk je resultaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Miss die Temperatur an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105417Z" creationid="amando" creationdate="20260619T105417Z">
+        <seg>Meet de temperatuur op verschillende plaatsen en noteer de gemeten waarden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit Hilfe der Sensoren kann der Calliope mini unterschiedlichste Werte aus der Umgebung messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134055Z" creationid="amando" creationdate="20260618T134055Z">
+        <seg>Met behulp van de sensoren kan de Calliope mini allerlei verschillende waarden uit de omgeving meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit Hilfe des Temperatursensors kann die Umgebungstemperatur gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105331Z" creationid="amando" creationdate="20260619T105331Z">
+        <seg>Met behulp van de temperatuursensor kan de omgevingstemperatuur worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem Feuchtigkeitssensor kannst du die Bodenfeuchtigkeit deiner Pflanze messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111013Z" creationid="amando" creationdate="20260619T111013Z">
+        <seg>Met de vochtigheidssensor kun je de bodemvochtigheid van je plant meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem Lautstärkesensor kann die Umgebungslautstärke gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105019Z" creationid="amando" creationdate="20260619T105019Z">
+        <seg>Met de geluidssensor kan het omgevingsgeluid worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem Ultraschallsensor kann die Entfernung zwischen dem Sensor und einem Objekt gemessen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111316Z" creationid="amando" creationdate="20260619T111316Z">
+        <seg>Met de ultrasone sensor kan de afstand tussen de sensor en een object worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem&lt;x1/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113648Z" creationid="amando" creationdate="20260618T113648Z">
+        <seg>Met de&lt;x1/&gt;Grove-kabel wordt de SCD40 via de Grove-aansluiting A0 aangesloten op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit dem&lt;x2/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111927Z" creationid="amando" creationdate="20260619T111927Z">
+        <seg>Met de&lt;x2/&gt;Grove-kabel wordt de SCD40 via de Grove-aansluiting A0 aangesloten op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit der CO2-Platine lassen sich drei unterschiedliche Werte messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113618Z" creationid="amando" creationdate="20260618T113618Z">
+        <seg>Met de CO2-printplaat kunnen drie verschillende waarden worden gemeten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Mit der Maus ...</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134705Z" creationid="amando" creationdate="20260618T134705Z">
+        <seg>Met de muis ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>NEIN</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095034Z" creationid="amando" creationdate="20260619T095034Z">
+        <seg>NEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Napf&lt;x2/&gt;bereitstellen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095031Z" creationid="amando" creationdate="20260619T095031Z">
+        <seg>Napf&lt;x2/&gt;klaarzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur Calliope mini der gleichen Funkgruppe können untereinander kommunizieren.&lt;x2/&gt;Die Programmblöcke, die hierfür benötigt werden, müssen in die Bibliothek hinzugefügt werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104515Z" creationid="amando" creationdate="20260619T104515Z">
+        <seg>Alleen Calliope mini’s uit dezelfde radiogroep kunnen onderling communiceren.&lt;x2/&gt;De programmablokken die hiervoor nodig zijn, moeten aan de bibliotheek worden toegevoegd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur durch Testen und Ausprobieren erfährst du, welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmiererinnen und Programmierer sind sehr gerne bequem.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101008Z" creationid="amando" creationdate="20260619T101008Z">
+        <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nur durch Testen und Ausprobieren, erfährst du welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmier:innen sind sehr gerne bequem.&lt;x3/&gt;Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern, kannst du&lt;x4/&gt;es dir viel einfacher machen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133850Z" creationid="amando" creationdate="20260618T133850Z">
+        <seg>Alleen door te testen en uit te proberen kom je erachter welke snelheid voor jou de juiste is.&lt;x2/&gt;Programmeurs houden erg van gemak.&lt;x3/&gt;In plaats van de snelheid bij elke pauzecommando steeds opnieuw aan te passen, kun je&lt;x4/&gt;het jezelf veel gemakkelijker maken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nutze dafür den Platz auf der nächsten Seite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103725Z" creationid="amando" creationdate="20260619T103725Z">
+        <seg>Gebruik daarvoor de ruimte op de volgende pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nutze den Lautsprecher für den Temperaturhinweis.&lt;x2/&gt;Lasse einen Warnton ausgeben, wenn die Temperatur zu&lt;x3/&gt;kalt oder zu warm ist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112013Z" creationid="amando" creationdate="20260619T112013Z">
+        <seg>Gebruik de luidspreker voor de temperatuurmelding.&lt;x2/&gt;Laat een waarschuwingssignaal klinken als de temperatuur te&lt;x3/&gt;koud of te warm is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Nutze die RGB-LED für die Anzeige des CO2-Gehalts und programmiere eine Ampel: rot, gelb, grün.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112119Z" creationid="amando" creationdate="20260619T112119Z">
+        <seg>Gebruik de RGB-LED om het CO₂-gehalte weer te geven en programmeer een verkeerslicht: rood, geel, groen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Objekte</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111517Z" creationid="amando" creationdate="20260619T111517Z">
+        <seg>Objecten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Oder scanne den&lt;x2/&gt;QR-Code.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095112Z" creationid="amando" creationdate="20260619T095112Z">
+        <seg>Of scan de&lt;x2/&gt;QR-code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Optimiere dein Programm, indem du Wiederholungen erkennst und Wiederholungsschleifen verwendest, anstatt den gleichen Befehl mehrmals hintereinander abzubilden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103836Z" creationid="amando" creationdate="20260619T103836Z">
+        <seg>Optimaliseer je programma door herhalingen te herkennen en herhalingslussen te gebruiken, in plaats van hetzelfde commando meerdere keren achter elkaar uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Optimierung:&lt;x2/&gt;Mache eine Pause, wenn eine Person den Klassenraum betritt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111559Z" creationid="amando" creationdate="20260619T111559Z">
+        <seg>Optimalisatie:&lt;x2/&gt;Neem even pauze als er iemand het klaslokaal binnenkomt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die Bauteile des Calliope mini den unterschiedlichen Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt;, &lt;x4/&gt;Verarbeitung&lt;x5/&gt; und &lt;x6/&gt;Ausgabe&lt;x7/&gt; zu, indem du sie mit Linien verbindest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134803Z" creationid="amando" creationdate="20260618T134803Z">
+        <seg>Deel de onderdelen van de Calliope mini in de verschillende categorieën &lt;x2/&gt;Invoer&lt;x3/&gt;, &lt;x4/&gt;Verwerking&lt;x5/&gt; en &lt;x6/&gt;Uitvoer&lt;x7/&gt; in door ze met lijnen te verbinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die Begriffe zu und schreibe sie an die Linien.&lt;x2/&gt;Computer, Monitor, Tastatur, Maus, Lautsprecher</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134644Z" creationid="amando" creationdate="20260618T134644Z">
+        <seg>Breng de begrippen in de juiste volgorde en schrijf ze op de lijnen.&lt;x2/&gt;Computer, monitor, toetsenbord, muis, luidspreker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ordne die einzelnen Teile den Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;(pink)&lt;x5/&gt;, &lt;x6/&gt;Verarbeitung&lt;x7/&gt; &lt;x8/&gt;(grün) oder &lt;x9/&gt;Ausgabe&lt;x10/&gt; &lt;x11/&gt;(türkis)&lt;x12/&gt; zu, indem du sie mit der passenden Farbe einkreist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134648Z" creationid="amando" creationdate="20260618T134648Z">
+        <seg>Deel de afzonderlijke onderdelen in de categorieën &lt;x2/&gt;Invoer&lt;x3/&gt; &lt;x4/&gt;(roze)&lt;x5/&gt;, &lt;x6/&gt;Verwerking&lt;x7/&gt; &lt;x8/&gt;(groen) of &lt;x9/&gt;Uitvoer&lt;x10/&gt; &lt;x11/&gt;(turkoois)&lt;x12/&gt;, door ze met de juiste kleur te omcirkelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ort</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104852Z" creationid="amando" creationdate="20260619T104852Z">
+        <seg>Plaats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pause die Schablone ab oder male eine eigene Eisform und verziere die Vorderseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105527Z" creationid="amando" creationdate="20260619T105527Z">
+        <seg>Kleur het sjabloon in of teken zelf een ijsvorm en versier de voorkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Personenzähler</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111534Z" creationid="amando" creationdate="20260619T111534Z">
+        <seg>Bezoekerssteller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pflanzen brauchen &lt;x2/&gt;Wasser, Sonnenlicht&lt;x3/&gt; und auch die richtige &lt;x4/&gt;Temperatur&lt;x5/&gt; spielt eine wichtige Rolle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111137Z" creationid="amando" creationdate="20260619T111137Z">
+        <seg>Planten hebben &lt;x2/&gt;water, zonlicht&lt;x3/&gt; nodig en ook de juiste &lt;x4/&gt;temperatuur&lt;x5/&gt; speelt een belangrijke rol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pflanzen brauchen immer genug Wasser, um zu wachsen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111005Z" creationid="amando" creationdate="20260619T111005Z">
+        <seg>Planten hebben altijd voldoende water nodig om te groeien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Pflanzenstation</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111157Z" creationid="amando" creationdate="20260619T111157Z">
+        <seg>Plantenstation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programme übertragen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095409Z" creationid="amando" creationdate="20260619T095409Z">
+        <seg>Programma's overzetten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere anhand deines&lt;x2/&gt;Struktogramms.&lt;x3/&gt;Hinweis: &lt;x4/&gt;Benutze die Wiederholungsschleife aus der Kategorie „Schleifen“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103840Z" creationid="amando" creationdate="20260619T103840Z">
+        <seg>Programmeer aan de hand van je&lt;x2/&gt;structogram.&lt;x3/&gt;Opmerking: &lt;x4/&gt;Gebruik de herhalingslus uit de categorie „Lussen“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere anhand des Struktogramms.&lt;x2/&gt;Hinweis: &lt;x3/&gt;Vergiss die Pausen nicht!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103717Z" creationid="amando" creationdate="20260619T103717Z">
+        <seg>Programmeer aan de hand van het structogram.&lt;x2/&gt;Opmerking: &lt;x3/&gt;Vergeet de pauzes niet!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere das Orakel anhand deines Struktogramms.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110850Z" creationid="amando" creationdate="20260619T110850Z">
+        <seg>Programmeer het orakel aan de hand van je structogram.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere ein Schätzspiel, das die Entfernung zwischen zwei Objekten misst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111440Z" creationid="amando" creationdate="20260619T111440Z">
+        <seg>Programmeer een schattingsspel dat de afstand tussen twee objecten meet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111132Z" creationid="amando" creationdate="20260619T111132Z">
+        <seg>Programmeer een plantenstation dat je helpt om de planten in het klaslokaal zo goed mogelijk te verzorgen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere einen Lautstärkemesser in MakeCode und übertrage dein Programm auf den Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105032Z" creationid="amando" creationdate="20260619T105032Z">
+        <seg>Programmeer een geluidsmeter in MakeCode en zet je programma over naar de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere einen Personenzähler, um die Personen zu zählen, die den Klassenraum betreten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111542Z" creationid="amando" creationdate="20260619T111542Z">
+        <seg>Programmeer een personensteller om het aantal personen te tellen dat het klaslokaal binnenkomt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmiere und teste die folgenden Eingaben mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105630Z" creationid="amando" creationdate="20260619T105630Z">
+        <seg>Programmeer en test de volgende invoer met de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmieren heißt, einem Computer (z.B. deinem Calliope mini) Schritt-für-Schritt zu sagen, was er tun soll.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134255Z" creationid="amando" creationdate="20260618T134255Z">
+        <seg>Programmeren betekent dat je een computer (bijvoorbeeld je Calliope mini) stap voor stap vertelt wat hij moet doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Programmierumgebung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095107Z" creationid="amando" creationdate="20260619T095107Z">
+        <seg>Programmeeromgeving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Projekt benennen&lt;x2/&gt;Gib einen passenden Namen ein und klicke auf „Erstelle“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095138Z" creationid="amando" creationdate="20260619T095138Z">
+        <seg>Geef het project een naam&lt;x2/&gt;Voer een passende naam in en klik op ‘Aanmaken’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Prozessor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134841Z" creationid="amando" creationdate="20260618T134841Z">
+        <seg>Processor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Raketenstart</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133607Z" creationid="amando" creationdate="20260618T133607Z">
+        <seg>Raketlancering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Relative Humidity&lt;x2/&gt;relative Luftfeuchtigkeit</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111956Z" creationid="amando" creationdate="20260618T114315Z">
+        <seg>Relatieve luchtvochtigheid&lt;x2/&gt;relatieve luchtvochtigheid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Saft in ein Glas gießen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095029Z" creationid="amando" creationdate="20260619T095029Z">
+        <seg>Sap in een glas gieten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beobachte im Simulator, was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103713Z" creationid="amando" creationdate="20260619T103713Z">
+        <seg>Bekijk de programmacode en kijk in de simulator wat er gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variable „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133907Z" creationid="amando" creationdate="20260618T133907Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als de waarde van de variabele „Tempo“ wordt gewijzigd van 1000 naar 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variablen „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101220Z" creationid="amando" creationdate="20260619T101220Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als de waarde van de variabele „Tempo“ wordt gewijzigd van 1000 naar 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe, was passiert, wenn die gemessene Lautstärke 10 oder 30 ist.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105028Z" creationid="amando" creationdate="20260619T105028Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt als het gemeten volume 10 of 30 is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und beschreibe, was passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104057Z" creationid="amando" creationdate="20260619T104057Z">
+        <seg>Bekijk de programmacode en beschrijf wat er gebeurt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode an und ordne folgende Abläufe den einzelnen Programmblöcken zu:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104605Z" creationid="amando" creationdate="20260619T104605Z">
+        <seg>Bekijk de programmacode en wijs de volgende processen toe aan de afzonderlijke programmablokken:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir den Programmcode genau an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104114Z" creationid="amando" creationdate="20260619T104114Z">
+        <seg>Bekijk de programmacode eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir die Programme an, beschreibe was passiert und überprüfe deine Vermutung mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105556Z" creationid="amando" creationdate="20260619T105556Z">
+        <seg>Bekijk de programma’s, beschrijf wat er gebeurt en toets je veronderstelling met de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir die einzelnen Schritte zum Übertragen deines Programms auf den Calliope mini genau an und bringe sie in die richtige Reihenfolge.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133619Z" creationid="amando" creationdate="20260618T133619Z">
+        <seg>Bekijk de afzonderlijke stappen voor het overzetten van je programma naar de Calliope mini goed en zet ze in de juiste volgorde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau dir folgende Anweisungen an, bringe sie in eine sinnvolle Reihenfolge und füge sie in deinen Programmcode ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111603Z" creationid="amando" creationdate="20260619T111603Z">
+        <seg>Bekijk de volgende instructies, zet ze in de juiste volgorde en voeg ze toe aan je programmacode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schau mal, was dir einfällt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104417Z" creationid="amando" creationdate="20260619T104417Z">
+        <seg>Kijk maar eens wat je kunt bedenken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schleifen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114422Z" creationid="amando" creationdate="20260618T114422Z">
+        <seg>Slijpen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schließe danach das Batteriefach an den Calliope mini an und lege alles zusammen in den Karton.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105253Z" creationid="amando" creationdate="20260619T105253Z">
+        <seg>Sluit vervolgens het batterijvakje aan op de Calliope mini en doe alles samen in de doos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schließe die Platine an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113643Z" creationid="amando" creationdate="20260618T113643Z">
+        <seg>Sluit de printplaat aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schließe zum Schluss das Batteriefach an deinen Calliope mini an und stecke alles in die Kugel.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110928Z" creationid="amando" creationdate="20260619T110928Z">
+        <seg>Sluit tot slot het batterijvakje aan op je Calliope mini en plaats alles in de bol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schneide aus einer Pappe einen Kreis mit 9 cm Durchmesser aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110907Z" creationid="amando" creationdate="20260619T110907Z">
+        <seg>Knip uit een stuk karton een cirkel met een diameter van 9 cm uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schneide in die Vorderseite ein Fenster für die LED-Matrix und die RGB-LED und daneben zwei Löcher.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105228Z" creationid="amando" creationdate="20260619T105228Z">
+        <seg>Zaag in de voorkant een venster voor de LED-matrix en de RGB-LED en daarnaast twee gaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für ein Thermometer, das ein Hitzefrei-Signal ausgibt, wenn eine Temperatur von 30°C überschritten ist.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Der Temperatursensor misst die Umgebungstemperatur.&lt;x4/&gt;Verarbeitung:&lt;x5/&gt;Ist der Wert der Variable „Temperatur“ größer als 30°C, lasse ein Eis-Symbol auf der LED-Matrix erscheinen und schalte die RGB-LED auf rot.&lt;x6/&gt;Ist der Wert der Variable „Temperatur“ kleiner als 20°C, schalte die LED-Matrix aus und die RGB-LED auf blau.&lt;x7/&gt;In allen anderen Fällen schalte die Hälfte der LED-Matrix ein und die RGB-LED auf grün.&lt;x8/&gt;Ausgabe:&lt;x9/&gt;Die LED-Matrix und die RGB-LED.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105429Z" creationid="amando" creationdate="20260619T105429Z">
+        <seg>Schrijf een programma voor een thermometer dat een ‘geen les vanwege hitte’-signaal geeft wanneer de temperatuur boven de 30 °C komt.&lt;x2/&gt;Invoer:&lt;x3/&gt;De temperatuursensor meet de omgevingstemperatuur.&lt;x4/&gt;Verwerking:&lt;x5/&gt;Als de waarde van de variabele „Temperatuur“ groter is dan 30 °C, laat dan een ijssymbool op de LED-matrix verschijnen en zet de RGB-LED op rood.&lt;x6/&gt;Als de waarde van de variabele „Temperatuur“ kleiner is dan 20 °C, schakel dan de LED-matrix uit en de RGB-LED op blauw.&lt;x7/&gt;In alle andere gevallen schakel dan de helft van de LED-matrix in en de RGB-LED op groen.&lt;x8/&gt;Uitvoer:&lt;x9/&gt;De LED-matrix en de RGB-LED.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für eine Lampe, die durch „in die Hände klatschen” angeschaltet wird und nach 5 Sekunden automatisch wieder ausgeht.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Das Mikrofon (Lautstärkesensor) misst die Umgebungslautstärke.&lt;x4/&gt;Verarbeitung: &lt;x5/&gt;Ist der Wert der Lautstärke größer als 20, schalte alle LEDs der Matrix an und pausiere für 5 Sekunden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105134Z" creationid="amando" creationdate="20260619T105134Z">
+        <seg>Schrijf een programma voor een lamp die wordt ingeschakeld door ‘in de handen te klappen’ en na 5 seconden automatisch weer uitgaat.&lt;x2/&gt;Invoer:&lt;x3/&gt;De microfoon (geluidssensor) meet het omgevingsgeluid.&lt;x4/&gt;Verwerking: &lt;x5/&gt;Als de geluidssterkte hoger is dan 20, schakel dan alle leds van de matrix in en wacht 5 seconden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe ein Programm für&lt;x2/&gt;„Alle Vögel sind schon da“.&lt;x3/&gt;Hinweis:&lt;x4/&gt; Achte auf die Tonlängen und optimiere dein Programm durch Wiederholungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104156Z" creationid="amando" creationdate="20260619T104156Z">
+        <seg>Schrijf een programma voor&lt;x2/&gt;„Alle vogels zijn er al“.&lt;x3/&gt;Opmerking:&lt;x4/&gt; Let op de toonlengtes en optimaliseer je programma door middel van herhalingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Schreibe sie auf.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134657Z" creationid="amando" creationdate="20260618T134657Z">
+        <seg>Schrijf ze op.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sende eine Textnachricht deiner Wahl an dein Team.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104610Z" creationid="amando" creationdate="20260619T104610Z">
+        <seg>Stuur een sms naar keuze naar je team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sende „Alles Gute” an dein Team und lasse nach dem Empfangen der Nachricht ein Herz auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104651Z" creationid="amando" creationdate="20260619T104651Z">
+        <seg>Stuur ‘Het allerbeste’ naar je team en laat na ontvangst van het bericht een hartje op de LED-matrix verschijnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sensoren sind wie Sinne.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134046Z" creationid="amando" creationdate="20260618T134046Z">
+        <seg>Sensoren zijn net als zintuigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Setze den Personenzähler mit den Knöpfen A+B zurück auf 0.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111649Z" creationid="amando" creationdate="20260619T111649Z">
+        <seg>Zet de personen-teller met de knoppen A+B terug op 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Setze die Programmblöcke in eine sinnvolle Reihenfolge, sodass folgendes Programm ausgeführt wird: &lt;x2/&gt;Dauerhaft erscheint ein „?“ auf der LED-Matrix.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111452Z" creationid="amando" creationdate="20260619T111452Z">
+        <seg>Zet de programmablokken in een logische volgorde, zodat het volgende programma wordt uitgevoerd: &lt;x2/&gt;Er verschijnt continu een „?“ op de LED-matrix.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sie sind in bunte Kategorien eingeordnet.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095129Z" creationid="amando" creationdate="20260619T095129Z">
+        <seg>Ze zijn ingedeeld in kleurrijke categorieën.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind alle Personen im Raum, springt die RGB-LED auf grün und es kann losgehen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111640Z" creationid="amando" creationdate="20260619T111640Z">
+        <seg>Zodra iedereen in de ruimte is, gaat het RGB-lampje op groen branden en kan het beginnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sind noch nicht alle Personen im Raum, leuchtet die RGB-LED rot.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111636Z" creationid="amando" creationdate="20260619T111636Z">
+        <seg>Als nog niet iedereen in de ruimte aanwezig is, brandt de RGB-led rood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sinne</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104758Z" creationid="amando" creationdate="20260619T104758Z">
+        <seg>Zinnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>So können auch andere deinen Plan lesen und mitdenken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135016Z" creationid="amando" creationdate="20260618T135016Z">
+        <seg>Zo kunnen ook anderen je plan lezen en meedenken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>So verhinderst du, dass Programme nicht funktionieren und du nicht genau sagen kannst, woran es liegt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095158Z" creationid="amando" creationdate="20260619T095158Z">
+        <seg>Zo voorkom je dat programma’s niet werken en je niet precies kunt zeggen wat de oorzaak is.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sobald eine Bedingung erfüllt ist, werden alle weiteren für diesen Durchlauf übersprungen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112107Z" creationid="amando" creationdate="20260619T112107Z">
+        <seg>Zodra aan één voorwaarde is voldaan, worden alle overige voorwaarden voor deze doorloop overgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sonne</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111120Z" creationid="amando" creationdate="20260619T111120Z">
+        <seg>Zon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Spiele Noten mit dem Calliope mini!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104426Z" creationid="amando" creationdate="20260619T104426Z">
+        <seg>Speel muziek met de Calliope mini!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Starte dein Programm mit einer Note auf der LED-Matrix.&lt;x2/&gt;Gehe Schritt für Schritt vor:&lt;x3/&gt;a) Erstelle ein Struktogramm für den Programmcode.&lt;x4/&gt;b) Programmiere anhand des Struktogramms.&lt;x5/&gt;c) Teste dein Programm im Simulator.&lt;x6/&gt;d) Übertrage den Code auf den Calliope mini.&lt;x7/&gt;e) Probiere das Klavier aus.&lt;x8/&gt;Erfinde ein Klavier, das über leitende Materialien gespielt werden kann.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104409Z" creationid="amando" creationdate="20260619T104409Z">
+        <seg>Start je programma met een noot op de LED-matrix.&lt;x2/&gt;Ga stap voor stap te werk:&lt;x3/&gt;a) Maak een structogram voor de programmacode.&lt;x4/&gt;b) Programmeer aan de hand van het structogram.&lt;x5/&gt;c) Test je programma in de simulator.&lt;x6/&gt;d) Zet de code over naar de Calliope mini.&lt;x7/&gt;e) Probeer de piano uit.&lt;x8/&gt;Bedenk een piano die bespeeld kan worden via geleidende materialen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Starte mit einem neuen Projekt und schau dir die Oberfläche genau an.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095136Z" creationid="amando" creationdate="20260619T095136Z">
+        <seg>Begin met een nieuw project en bekijk de interface eens goed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Stelle eine Vermutung auf, ob deine Materialien Strom leiten und fülle die Tabelle aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104421Z" creationid="amando" creationdate="20260619T104421Z">
+        <seg>Probeer te raden of je materialen elektriciteit geleiden en vul de tabel in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>StruktogrammE</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103750Z" creationid="amando" creationdate="20260619T103750Z">
+        <seg>Structogram E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Struktogramme</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134951Z" creationid="amando" creationdate="20260618T134951Z">
+        <seg>Structogrammen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Suche dir einen kleinen Karton, in den der Calliope mini hineinpasst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105224Z" creationid="amando" creationdate="20260619T105224Z">
+        <seg>Zoek een klein kartonnen doosje waarin de Calliope mini past.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste A</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134820Z" creationid="amando" creationdate="20260618T134820Z">
+        <seg>Toets A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste B</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134816Z" creationid="amando" creationdate="20260618T134816Z">
+        <seg>Toets B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Taste dich an den Wert der dich umgebenen Lautstärke heran, indem du eine Abfrage erstellst.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105023Z" creationid="amando" creationdate="20260619T105023Z">
+        <seg>Probeer de geluidssterkte om je heen te bepalen door een verzoek in te dienen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tasten</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134812Z" creationid="amando" creationdate="20260618T134812Z">
+        <seg>Toetsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Temperatur</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105352Z" creationid="amando" creationdate="20260619T105352Z">
+        <seg>Temperatuur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste im Editor und beschreibe.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133218Z" creationid="amando" creationdate="20260618T133218Z">
+        <seg>Test het in de editor en beschrijf het.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste im Simulator.&lt;x2/&gt;Beschreibe, was bei einer Temperatur von 22°C und von 33°C passiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105511Z" creationid="amando" creationdate="20260619T105511Z">
+        <seg>Voer tests uit in de simulator.&lt;x2/&gt;Beschrijf wat er gebeurt bij een temperatuur van 22 °C en van 33 °C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste im Simulator.&lt;x2/&gt;Du kannst die Lautstärke mit dem Regler selbst verstellen und so das Programmverhalten bei unterschiedlichen Lärmpegeln testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105208Z" creationid="amando" creationdate="20260619T105208Z">
+        <seg>Tests in de simulator.&lt;x2/&gt;Je kunt het volume zelf aanpassen met de schuifregelaar en zo het gedrag van het programma bij verschillende geluidsniveaus testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste sie im Editor und notiere die Eigenschaften.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095207Z" creationid="amando" creationdate="20260619T095207Z">
+        <seg>Test ze in de editor en noteer de eigenschappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Teste verschiedene Geräusche und dokumentiere die Lautstärke in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105036Z" creationid="amando" creationdate="20260619T105036Z">
+        <seg>Probeer verschillende geluiden uit en noteer het geluidsniveau in de tabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Testen im Simulator</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133329Z" creationid="amando" creationdate="20260618T133329Z">
+        <seg>Testen in de simulator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Testen im Simulator!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095211Z" creationid="amando" creationdate="20260619T095211Z">
+        <seg>Testen in de simulator!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: &lt;x2/&gt;Die Version deines Calliope mini erkennst du am Aufdruck auf der Rückseite.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095141Z" creationid="amando" creationdate="20260619T095141Z">
+        <seg>Tip: &lt;x2/&gt;Je kunt de versie van je Calliope mini herkennen aan de opdruk op de achterkant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: &lt;x2/&gt;Teile dein Programm bereits in der Planung in kleine Schritte auf.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095155Z" creationid="amando" creationdate="20260619T095155Z">
+        <seg>Tip: &lt;x2/&gt;Verdeel je programma al tijdens de planning in kleine stappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: Es ist wichtig, gleichzeitig den Minus (-) Pin zu berühren, um eine Pin-Eingabe auszulösen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104331Z" creationid="amando" creationdate="20260619T104331Z">
+        <seg>Tip: Het is belangrijk om tegelijkertijd de min-pin (-) aan te raken om een pin-invoer te activeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: Hier ist die Reihenfolge der verschachtelten Abfrage wichtig.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112103Z" creationid="amando" creationdate="20260619T112103Z">
+        <seg>Tip: De volgorde van de geneste query’s is hier belangrijk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp: Wenn du sichergehen möchtest, dass deine Hitzefrei- Warnung bemerkt wird, lasse noch einen Ton ertönen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105454Z" creationid="amando" creationdate="20260619T105454Z">
+        <seg>Tip: Als je er zeker van wilt zijn dat je waarschuwing voor hittevrij wordt opgemerkt, laat dan nog een geluidssignaal klinken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis in welcher Kategorie du sie findest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133337Z" creationid="amando" creationdate="20260618T133337Z">
+        <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis, in welcher Kategorie du sie findest.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095212Z" creationid="amando" creationdate="20260619T095212Z">
+        <seg>Tip:&lt;x2/&gt; De kleuren van de blokken geven je een indicatie in welke categorie je ze kunt vinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Gib „zufall“ in die Suche ein, um den Block leicht zu finden!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105655Z" creationid="amando" creationdate="20260619T105655Z">
+        <seg>Tip:&lt;x2/&gt; Typ ‘zufall’ in het zoekveld om het blok gemakkelijk te vinden!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipp:&lt;x2/&gt; Stelle die Variable &lt;x3/&gt;„komplett“&lt;x4/&gt; erst mal auf „3“, dann kannst du dein Programm einfacher testen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111607Z" creationid="amando" creationdate="20260619T111607Z">
+        <seg>Tip:&lt;x2/&gt; Stel de variabele &lt;x3/&gt;„komplett“&lt;x4/&gt; eerst in op „3“, dan kun je je programma gemakkelijker testen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Tipps für die mobile Nutzung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112325Z" creationid="amando" creationdate="20260619T112325Z">
+        <seg>Tips voor mobiel gebruiken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Touch-Pins</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134807Z" creationid="amando" creationdate="20260618T134807Z">
+        <seg>Touch-pinnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ultraschallsensor</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111403Z" creationid="amando" creationdate="20260619T111403Z">
+        <seg>Ultrasone sensoren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um die Datei nach dem Programmieren zu übertragen, muss der Calliope mini in den Bluetooth-Modus versetzt und mit dem mobilen Gerät verbunden sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112238Z" creationid="amando" creationdate="20260619T112238Z">
+        <seg>Om het bestand na het programmeren over te zetten, moet de Calliope mini in de Bluetooth-modus worden gezet en met het mobiele apparaat worden verbonden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Um genauere Werte zu bekommen, schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104909Z" creationid="amando" creationdate="20260619T104909Z">
+        <seg>Om nauwkeurigere waarden te krijgen, schrijf je een programma dat de gemeten lichtwaarde opslaat in een variabele terwijl de LED-matrix is uitgeschakeld, en laat je de opgeslagen waarde daarna op de LED-matrix weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verarbeitung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134922Z" creationid="amando" creationdate="20260618T134922Z">
+        <seg>Verwerking</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbinde deinen Calliope mini mit dem USB-Kabel mit deinem Computer.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133730Z" creationid="amando" creationdate="20260618T133730Z">
+        <seg>Sluit je Calliope mini met de USB-kabel aan op je computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbinde den Sensor mit dem&lt;x2/&gt;Grove-Kabel über den Grove-Anschluss A1 mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111022Z" creationid="amando" creationdate="20260619T111022Z">
+        <seg>Sluit de sensor via de Grove-aansluiting A1 met de&lt;x2/&gt;Grove-kabel aan op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbinde die Bezeichnungen mit den einzelnen Bauteilen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134759Z" creationid="amando" creationdate="20260618T134759Z">
+        <seg>Koppel de benamingen aan de afzonderlijke onderdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verbindung mit einem mobilen Gerät</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112247Z" creationid="amando" creationdate="20260619T112247Z">
+        <seg>Verbinding met een mobiel apparaat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vergiss nicht “Knopf A” und “Knopf B” zu drücken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133636Z" creationid="amando" creationdate="20260618T133636Z">
+        <seg>Vergeet niet op “knop A” en “knop B” te drukken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vergiss nicht, Knopf A und Knopf B zu drücken.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095405Z" creationid="amando" creationdate="20260619T095405Z">
+        <seg>Vergeet niet op knop A en knop B te drukken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vermutung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104446Z" creationid="amando" creationdate="20260619T104446Z">
+        <seg>vermoeden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vervollständige das Struktogramm:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104913Z" creationid="amando" creationdate="20260619T104913Z">
+        <seg>Maak het structogram compleet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwandle im nächsten Schritt deinen Calliope mini in einen Würfel.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105634Z" creationid="amando" creationdate="20260619T105634Z">
+        <seg>Maak in de volgende stap van je Calliope mini een kubus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende den Ultraschallsensor, um Entfernungen zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111321Z" creationid="amando" creationdate="20260619T111321Z">
+        <seg>Gebruik de ultrasone sensor om afstanden te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende den schwarzen Calliope Sensor oder den blauen Grove Sensor, um die Bodenfeuchtigkeit zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111018Z" creationid="amando" creationdate="20260619T111018Z">
+        <seg>Gebruik de zwarte Calliope-sensor of de blauwe Grove-sensor om de bodemvochtigheid te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende die CO2-Platine um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T113635Z" creationid="amando" creationdate="20260618T113635Z">
+        <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende die CO2-Platine, um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111919Z" creationid="amando" creationdate="20260619T111919Z">
+        <seg>Gebruik de CO2-printplaat om de luchtkwaliteit te meten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verwende die LED-Matrix für die Anzeige der Luftfeuchtigkeit.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112111Z" creationid="amando" creationdate="20260619T112111Z">
+        <seg>Gebruik de LED-matrix om de luchtvochtigheid weer te geven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Verziere die Pappscheibe, wie es dir gefällt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110911Z" creationid="amando" creationdate="20260619T110911Z">
+        <seg>Versier de kartonnen schijf zoals je zelf wilt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Vorherige Versionen haben eine RGB-LED.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103738Z" creationid="amando" creationdate="20260619T103738Z">
+        <seg>Eerdere versies hebben een RGB-led.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Warum wird dir niemals ein trauriger Smiley angezeigt?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104118Z" creationid="amando" creationdate="20260619T104118Z">
+        <seg>Waarom krijg je nooit een verdrietige smiley te zien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was funktioniert noch nicht so gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133136Z" creationid="amando" creationdate="20260618T133136Z">
+        <seg>Wat werkt nog niet zo goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was funktioniert nocht nicht so gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133132Z" creationid="amando" creationdate="20260618T133132Z">
+        <seg>Wat werkt nog niet zo goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was funktioniert schon ziemlich gut?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133124Z" creationid="amando" creationdate="20260618T133124Z">
+        <seg>Wat werkt al redelijk goed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was fällt dir noch ein?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105118Z" creationid="amando" creationdate="20260619T105118Z">
+        <seg>Wat kun je nog meer bedenken?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ist Programmieren?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134247Z" creationid="amando" creationdate="20260618T134247Z">
+        <seg>Wat is programmeren?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Was ist Programmieren?&lt;x2/&gt;4&lt;x3/&gt;Der Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Struktogramme&lt;x6/&gt;10&lt;x7/&gt;Programmierumgebung&lt;x8/&gt;12&lt;x9/&gt;Programme übertragen&lt;x10/&gt;16&lt;x11/&gt;Den Calliope mini steuern&lt;x12/&gt;17</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134214Z" creationid="amando" creationdate="20260618T134214Z">
+        <seg>Wat is programmeren?&lt;x2/&gt;4&lt;x3/&gt;De Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Structogrammen&lt;x6/&gt;10&lt;x7/&gt;Programmeeromgeving&lt;x8/&gt;12&lt;x9/&gt;Programma's overzetten&lt;x10/&gt;16&lt;x11/&gt;De Calliope mini bedienen&lt;x12/&gt;17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Informationen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112217Z" creationid="amando" creationdate="20260619T112217Z">
+        <seg>Meer informatie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Informationen&lt;x2/&gt;58</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134230Z" creationid="amando" creationdate="20260618T134230Z">
+        <seg>Meer informatie&lt;x2/&gt;58</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Weitere Tipps zur Nutzung mit mobilen Geräten findest du unter: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112259Z" creationid="amando" creationdate="20260619T112259Z">
+        <seg>Meer tips voor het gebruik op mobiele apparaten vind je op: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Funktionen haben die einzelnen &lt;x1/&gt;Schaltflächen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133222Z" creationid="amando" creationdate="20260618T133214Z">
+        <seg>Welke functies hebben de afzonderlijke &lt;x1/&gt;knoppen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Funktionen haben die einzelnen Teile?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134653Z" creationid="amando" creationdate="20260618T134653Z">
+        <seg>Welke functies hebben de afzonderlijke onderdelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Information erscheint wann und wo?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112042Z" creationid="amando" creationdate="20260619T112042Z">
+        <seg>Welke informatie verschijnt wanneer en waar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Teile kennst du?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134640Z" creationid="amando" creationdate="20260618T134640Z">
+        <seg>Welke onderdelen ken je?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Welche Vorgänge fallen dir noch ein, bei denen sich bestimmte Handlungen wiederholen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134521Z" creationid="amando" creationdate="20260618T134521Z">
+        <seg>Welke situaties kun je nog meer bedenken waarin bepaalde handelingen zich herhalen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn der Knopf A des Calliope mini gedrückt wird, wird der gemessene Wert des Ultraschallsensors gerundet und in einer Variablen gespeichert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111456Z" creationid="amando" creationdate="20260619T111456Z">
+        <seg>Wanneer knop A van de Calliope mini wordt ingedrukt, wordt de gemeten waarde van de ultrasone sensor afgerond en in een variabele opgeslagen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du eine Idee hast, mache einen Plan.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135000Z" creationid="amando" creationdate="20260618T135000Z">
+        <seg>Als je een idee hebt, maak dan een plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du genau hinsiehst, kannst du verschiedene Symbole erkennen, die dir Hinweise zu Bauteilen geben.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134751Z" creationid="amando" creationdate="20260618T134751Z">
+        <seg>Als je goed kijkt, zie je verschillende symbolen die je aanwijzingen geven over de onderdelen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn du magst, kannst du diesen Temperaturunterschied aber analysieren und dann die Differenz subtrahieren.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105322Z" creationid="amando" creationdate="20260619T105322Z">
+        <seg>Als je wilt, kun je dit temperatuurverschil echter analyseren en vervolgens het verschil aftrekken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich Geburtstag habe,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134542Z" creationid="amando" creationdate="20260618T134542Z">
+        <seg>Als ik jarig ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich glücklich bin,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134603Z" creationid="amando" creationdate="20260618T134603Z">
+        <seg>Als ik gelukkig ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wenn ich krank bin,</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134558Z" creationid="amando" creationdate="20260618T134558Z">
+        <seg>Als ik ziek ben,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Werden sie gedrückt, senden sie ein Signal an den Calliope mini, um eine vorab programmierte Anweisung auszuführen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104053Z" creationid="amando" creationdate="20260619T104053Z">
+        <seg>Als je erop drukt, sturen ze een signaal naar de Calliope mini om een vooraf geprogrammeerde opdracht uit te voeren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wert</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105113Z" creationid="amando" creationdate="20260619T105113Z">
+        <seg>Waarde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wert 1</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104856Z" creationid="amando" creationdate="20260619T104856Z">
+        <seg>Waarde 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wert 2</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104900Z" creationid="amando" creationdate="20260619T104900Z">
+        <seg>Waarde 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig!&lt;x2/&gt; Verwendest du als Ausgabe der gemessenen Werte die LED-Matrix, können die Werte verfälscht sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104959Z" creationid="amando" creationdate="20260619T104959Z">
+        <seg>Belangrijk!&lt;x2/&gt; Als je de LED-matrix gebruikt om de gemeten waarden weer te geven, kunnen de waarden vertekend zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtig: &lt;x2/&gt;„receivedString“ ist eine vorab definierte Variable.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104524Z" creationid="amando" creationdate="20260619T104524Z">
+        <seg>Belangrijk: &lt;x2/&gt;„receivedString“ is een vooraf gedefinieerde variabele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wichtige Blöcke:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T114307Z" creationid="amando" creationdate="20260618T114307Z">
+        <seg>Belangrijke onderdelen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie das funktioniert, findest du auf dieser Seite heraus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104741Z" creationid="amando" creationdate="20260619T104741Z">
+        <seg>Op deze pagina kom je te weten hoe dat werkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie kann ich Programme speichern?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095338Z" creationid="amando" creationdate="20260619T095338Z">
+        <seg>Hoe kan ik programma's opslaan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie kann ich ein Programm öffnen?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095215Z" creationid="amando" creationdate="20260619T095215Z">
+        <seg>Hoe kan ik een programma openen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie sieht deine Rakete aus oder ein Gespenst?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134111Z" creationid="amando" creationdate="20260618T134111Z">
+        <seg>Hoe ziet jouw raket eruit, of is het een spook?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wie sieht deine Rakete aus?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100959Z" creationid="amando" creationdate="20260619T100959Z">
+        <seg>Hoe ziet jouw raket eruit?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wiederhole diese Testschleifen immer wieder.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095157Z" creationid="amando" creationdate="20260619T095157Z">
+        <seg>Herhaal deze testlussen steeds opnieuw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wiederholung/Schleife</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095010Z" creationid="amando" creationdate="20260619T095010Z">
+        <seg>Herhaling/lus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wird Knopf B gedrückt, wird der Wert der Variablen angezeigt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111501Z" creationid="amando" creationdate="20260619T111501Z">
+        <seg>Als er op knop B wordt gedrukt, wordt de waarde van de variabele weergegeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wird eine Entfernung unter 10 cm gemessen, erhöhe den Personenzähler um 1.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111628Z" creationid="amando" creationdate="20260619T111628Z">
+        <seg>Als er een afstand van minder dan 10 cm wordt gemeten, verhoog dan het aantal personen met 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Woran hast du länger getüftelt?</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133116Z" creationid="amando" creationdate="20260618T133116Z">
+        <seg>Waar heb je het langst aan zitten sleutelen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Wähle als Speicherort&lt;x1/&gt;„MINI“ aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133817Z" creationid="amando" creationdate="20260618T133817Z">
+        <seg>Kies als opslaglocatie&lt;x1/&gt;„MINI“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Ziehe nun die Datei auf das Laufwerk „MINI“ - fertig!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095420Z" creationid="amando" creationdate="20260619T095420Z">
+        <seg>Sleep het bestand nu naar het station „MINI“ – klaar!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Zu viel Wasser darf es aber auch nicht sein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111009Z" creationid="amando" creationdate="20260619T111009Z">
+        <seg>Maar het mag ook niet te veel water zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133923Z" creationid="amando" creationdate="20260618T133923Z">
+        <seg>a) &lt;x2/&gt;Maak&lt;x3/&gt; een variabele aan en &lt;x4/&gt; noem deze „Tempo“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Erstelle eine Variable und benenne sie „Tempo“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101236Z" creationid="amando" creationdate="20260619T101236Z">
+        <seg>a) Maak een variabele aan en noem deze „Tempo“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Füge hinter jeder Zahl eine Pause ein.&lt;x2/&gt;b) Verlängere die Pausen, indem du den Wert der Millisekunden (ms) erhöhst.&lt;x3/&gt;c) Speichere dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T100950Z" creationid="amando" creationdate="20260619T100950Z">
+        <seg>a) Voeg achter elk getal een pauze in.&lt;x2/&gt;b) Verleng de pauzes door de waarde in milliseconden (ms) te verhogen.&lt;x3/&gt;c) Sla je programma op onder de naam „Raketlancering“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Lasse die RGB-LED pink leuchten,&lt;x2/&gt;wenn Pin 1 gedrückt wird.&lt;x3/&gt;b) Lasse die RGB-LED gelb leuchten,&lt;x4/&gt;wenn Pin 2 gedrückt wird.&lt;x5/&gt;c) Lasse die RGB-LED türkis leuchten, &lt;x6/&gt;wenn Pin 3 gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104348Z" creationid="amando" creationdate="20260619T104348Z">
+        <seg>a) Laat de RGB-LED roze branden,&lt;x2/&gt;wanneer pin 1 wordt ingedrukt.&lt;x3/&gt;b) Laat de RGB-LED geel branden,&lt;x4/&gt;wanneer pin 2 wordt ingedrukt.&lt;x5/&gt;c) Laat de RGB-LED turkoois branden, &lt;x6/&gt;wanneer pin 3 wordt ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>a) Wenn Taste B gedrückt, sende eine „2“.&lt;x2/&gt;b) Wenn eine „2“ empfangen wird, zeige einen traurigen Smiley.&lt;x3/&gt;c) Erweitere den lachenden Smiley mit einem grünem Licht und den traurigen Smiley mit einem roten Licht.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104712Z" creationid="amando" creationdate="20260619T104712Z">
+        <seg>a) Als toets B wordt ingedrukt, stuur dan een „2“.&lt;x2/&gt;b) Als een „2“ wordt ontvangen, toon dan een droevige smiley.&lt;x3/&gt;c) Voeg aan de lachende smiley een groen lampje toe en aan de droevige smiley een rood lampje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>ansonsten</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112038Z" creationid="amando" creationdate="20260619T112038Z">
+        <seg>anders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133932Z" creationid="amando" creationdate="20260618T133932Z">
+        <seg>b) &lt;x2/&gt;Stel&lt;x3/&gt; de variabele „Tempo“ vóór je&lt;x4/&gt; aftelling in op de waarde 100.&lt;x5/&gt;c) &lt;x6/&gt;Vervang&lt;x7/&gt; de waarden in de pauzecommando’s&lt;x8/&gt;	door het variabele blok „Tempo“.&lt;x9/&gt;d) &lt;x10/&gt;Stel&lt;x11/&gt; de waarde van de variabele&lt;x12/&gt; „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b) Miss dauerhaft die Entfernung.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111624Z" creationid="amando" creationdate="20260619T111624Z">
+        <seg>b) Schat de afstand steeds verkeerd in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b) Setze die Variable „Tempo“ vor deinem Countdown auf den Wert 100.&lt;x2/&gt;c) Ersetze die Werte in den Pause Befehlen durch den Variablen Block „Tempo“.&lt;x3/&gt;d) Setze den Wert der Variable „Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T101239Z" creationid="amando" creationdate="20260619T101239Z">
+        <seg>b) Stel de variabele „Tempo“ vóór je aftelling in op de waarde 100.&lt;x2/&gt;c) Vervang de waarden in de pauzecommando’s door het variabele blok „Tempo“.&lt;x3/&gt;d) Stel de waarde van de variabele „Tempo“ in op 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>b) Übertrage den Programmcode in MakeCode.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105703Z" creationid="amando" creationdate="20260619T105703Z">
+        <seg>b) Zet de programmacode over naar MakeCode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>bleibe ich zu Hause.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134546Z" creationid="amando" creationdate="20260618T134546Z">
+        <seg>dan blijf ik thuis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>c) Ersetze die „1“ durch den Block „zufällige Zahl zwischen 0 -10“.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105659Z" creationid="amando" creationdate="20260619T105659Z">
+        <seg>c) Vervang de „1“ door het blok „willekeurig getal tussen 0 en 10“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>c) Gleiche die gezählten Personen mit der Variable „komplett“ ab.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111632Z" creationid="amando" creationdate="20260619T111632Z">
+        <seg>c) Vergelijk het aantal getelde personen met de variabele „volledig“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>d) Wird der Knopf A gedrückt, lasse dir den aktuellen Wert des Personenzählers anzeigen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111645Z" creationid="amando" creationdate="20260619T111645Z">
+        <seg>d) Als je op knop A drukt, laat je de huidige stand van de personensteller weergeven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105650Z" creationid="amando" creationdate="20260619T105650Z">
+        <seg>d) Zet je programma over naar de Calliope mini en probeer het uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>e) Übertrage dein Programm auf den Calliope mini und probiere deinen Personenzähler aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111620Z" creationid="amando" creationdate="20260619T111620Z">
+        <seg>e) Zet je programma over naar de Calliope mini en test je personensteller uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>geht‘s</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095441Z" creationid="amando" creationdate="20260619T095441Z">
+        <seg>daar gaan we</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>lade ich Freunde ein.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134550Z" creationid="amando" creationdate="20260618T134550Z">
+        <seg>nodig ik vrienden uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>mache ich laut Musik.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134554Z" creationid="amando" creationdate="20260618T134554Z">
+        <seg>zet ik de muziek hard aan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>schätzspiel</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111436Z" creationid="amando" creationdate="20260619T111436Z">
+        <seg>schattingsspel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>sind wie</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104802Z" creationid="amando" creationdate="20260619T104802Z">
+        <seg>zijn net als</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>symbole und muster</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T134103Z" creationid="amando" creationdate="20260618T134103Z">
+        <seg>symbolen en patronen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>wenn geschüttelt</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110833Z" creationid="amando" creationdate="20260619T110833Z">
+        <seg>wanneer geschud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Änderst du die Haltung oder legst es hin, verändert sich die Anzeige auf dem Display.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105552Z" creationid="amando" creationdate="20260619T105552Z">
+        <seg>Als je de houding verandert of het neerlegt, verandert de weergave op het scherm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Öffne dein Programm „Raketenstart“ und führe folgende Schritte aus:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T133915Z" creationid="amando" creationdate="20260618T133915Z">
+        <seg>Open je programma „Raketenstart“ en voer de volgende stappen uit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über &lt;x2/&gt;„Importieren“&lt;x3/&gt; kannst du gespeicherte Projekte öffnen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095337Z" creationid="amando" creationdate="20260619T095337Z">
+        <seg>Via &lt;x2/&gt;„Importeren“&lt;x3/&gt; kun je opgeslagen projecten openen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über Funk lassen sich nicht nur Textnachrichten versenden, sondern auch Zahlen.&lt;x2/&gt;Die Zahlen kannst du empfangen und auswerten.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104737Z" creationid="amando" creationdate="20260619T104737Z">
+        <seg>Via de radio kun je niet alleen tekstberichten versturen, maar ook getallen.&lt;x2/&gt;Je kunt die getallen ontvangen en verwerken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über das &lt;x2/&gt;Teilen-Symbol&lt;x3/&gt; wird eine URL und ein QR-Code für dein Programm generiert.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095343Z" creationid="amando" creationdate="20260619T095343Z">
+        <seg>Via het &lt;x2/&gt;deel-pictogram&lt;x3/&gt; worden een URL en een QR-code voor je programma gegenereerd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Über den Pin C16 können analoge Werte empfangen werden.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111030Z" creationid="amando" creationdate="20260619T111030Z">
+        <seg>Via pin C16 kunnen analoge waarden worden ontvangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überlege in welcher Reihenfolge einzelne Schritte ablaufen sollen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260618T135004Z" creationid="amando" creationdate="20260618T135004Z">
+        <seg>Bedenk in welke volgorde de afzonderlijke stappen moeten plaatsvinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überprüfe die einzelnen Schritte jeweils im Simulator, verbessere dein Programm und teste es erneut auf dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095156Z" creationid="amando" creationdate="20260619T095156Z">
+        <seg>Controleer de afzonderlijke stappen telkens in de simulator, verbeter je programma en test het opnieuw op de Calliope mini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Überprüfe mit dem Ultraschallsensor, ob alle Kinder wieder im Klassenraum sind.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111538Z" creationid="amando" creationdate="20260619T111538Z">
+        <seg>Controleer met de ultrasone sensor of alle kinderen weer in het klaslokaal zijn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übersicht</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T095117Z" creationid="amando" creationdate="20260619T095117Z">
+        <seg>Overzicht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage dafür den Programmcode aus Aufgabe 4 in MakeCode und ergänze dein Programm um folgende Befehle:</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104708Z" creationid="amando" creationdate="20260619T104708Z">
+        <seg>Kopieer hiervoor de programmacode uit opdracht 4 naar MakeCode en voeg de volgende commando's toe aan je programma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104344Z" creationid="amando" creationdate="20260619T104344Z">
+        <seg>Zet je programma over naar de Calliope mini en probeer het eens uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.&lt;x2/&gt;Um das Licht besser zu streuen, kannst du dein Smart-Licht auch in eine transparente Frühstücksbrottüte legen.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105147Z" creationid="amando" creationdate="20260619T105147Z">
+        <seg>Zet je programma over naar de Calliope mini en probeer het eens uit.&lt;x2/&gt;Om het licht beter te verspreiden, kun je je slimme lampje ook in een doorzichtige broodzak doen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage dein Programm auf den Calliope mini&lt;x2/&gt;und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110846Z" creationid="amando" creationdate="20260619T110846Z">
+        <seg>Zet je programma over naar de Calliope mini&lt;x2/&gt;en probeer het eens uit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertrage den Programmcode auf deinen Calliope mini, probiere dein Schätzspiel aus und dokumentiere die Ergebnisse in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T111505Z" creationid="amando" creationdate="20260619T111505Z">
+        <seg>Zet de programmacode over naar je Calliope mini, probeer je raadspelletje uit en noteer de resultaten in de tabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übertragung</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112251Z" creationid="amando" creationdate="20260619T112251Z">
+        <seg>Overdracht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Übungen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T103848Z" creationid="amando" creationdate="20260619T103848Z">
+        <seg>Oefeningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Halte &lt;x3/&gt;Tasten A+B&lt;x4/&gt; gedrückt.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112303Z" creationid="amando" creationdate="20260619T112303Z">
+        <seg>• &lt;x2/&gt;Houd de &lt;x3/&gt;toetsen A+B&lt;x4/&gt; ingedrukt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Jetzt kannst du Programme übertragen.&lt;x3/&gt;• &lt;x4/&gt;Verwende den Editor MakeCode, um ein Programm zu erstellen.&lt;x5/&gt;• &lt;x6/&gt;Tippe auf Herunterladen, um das Programm zu übertragen.&lt;x7/&gt;• &lt;x8/&gt;Nach Abschluss erscheint das Programm auf dem Calliope mini!</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112316Z" creationid="amando" creationdate="20260619T112316Z">
+        <seg>• &lt;x2/&gt;Nu kun je programma's overzetten.&lt;x3/&gt;• &lt;x4/&gt;Gebruik de MakeCode-editor om een programma te maken.&lt;x5/&gt;• &lt;x6/&gt;Tik op ‘Downloaden’ om het programma over te zetten.&lt;x7/&gt;• &lt;x8/&gt;Zodra het proces is voltooid, verschijnt het programma op de Calliope mini!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• &lt;x2/&gt;Über das &lt;x3/&gt;rote Calliope mini Icon&lt;x4/&gt; im Bereich „Editoren und Programme“&lt;x5/&gt;öffnest du das Verbindungsfenster.&lt;x6/&gt;• &lt;x7/&gt;Übertrage das individuelle ID-Muster des Calliope mini auf die Matrix.&lt;x8/&gt;• &lt;x9/&gt;Wird der Calliope mini gefunden, verbindet er sich automatisch mit der&lt;x10/&gt;App und ein Smiley erscheint.</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T112320Z" creationid="amando" creationdate="20260619T112320Z">
+        <seg>• &lt;x2/&gt;Via het &lt;x3/&gt;rode Calliope mini-pictogram&lt;x4/&gt; in het gedeelte „Editors en programma’s“&lt;x5/&gt;open je het verbindingsvenster.&lt;x6/&gt;• &lt;x7/&gt;Breng het unieke ID-patroon van de Calliope mini over naar de matrix.&lt;x8/&gt;• &lt;x9/&gt;Als de Calliope mini wordt gevonden, maakt hij automatisch verbinding met de&lt;x10/&gt;app en verschijnt er een smiley.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• In der Sonne&lt;x2/&gt;• Im Schatten&lt;x3/&gt;• Im Eisfach</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105412Z" creationid="amando" creationdate="20260619T105412Z">
+        <seg>• In de zon&lt;x2/&gt;• In de schaduw&lt;x3/&gt;• In de vriezer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Klatschen&lt;x2/&gt;• Musik&lt;x3/&gt;• Trampeln</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T105122Z" creationid="amando" creationdate="20260619T105122Z">
+        <seg>• Klappen&lt;x2/&gt;• Muziek&lt;x3/&gt;• Stampen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Wenn Knopf A geklickt&lt;x2/&gt;• Wenn Knopf B geklickt&lt;x3/&gt;• Gemessene Lichtstärke in&lt;x4/&gt;Variable „Licht“ speichern&lt;x5/&gt;• Wert der Variable „Licht“ &lt;x6/&gt;anzeigen</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T104921Z" creationid="amando" creationdate="20260619T104921Z">
+        <seg>• Als er op knop A wordt geklikt&lt;x2/&gt;• Als er op knop B wordt geklikt&lt;x3/&gt;• De gemeten lichtsterkte opslaan in de variabele „Licht“&lt;x4/&gt;&lt;x5/&gt;• De waarde van de variabele „Licht“ weergeven&lt;x6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>• Zeige „Ja“&lt;x2/&gt;• Zeige „Nein“&lt;x3/&gt;• Zeige „Vielleicht“&lt;x4/&gt;• Wenn „zufall = 1“&lt;x5/&gt;• Wenn „zufall = 2“&lt;x6/&gt;• Wenn „zufall = 3“&lt;x7/&gt;• zufall = zufällige Zahl zwischen 1 und 3</seg>
+      </tuv>
+      <tuv lang="nl" changeid="amando" changedate="20260619T110854Z" creationid="amando" creationdate="20260619T110854Z">
+        <seg>• Toon „Ja“&lt;x2/&gt;• Toon „Nee“&lt;x3/&gt;• Toon „Misschien“&lt;x4/&gt;• Als „toeval = 1“&lt;x5/&gt;• Als „toeval = 2“&lt;x6/&gt;• Als „toeval = 3“&lt;x7/&gt;• toeval = willekeurig getal tussen 1 en 3</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
