@@ -128,6 +128,9 @@
       <tuv lang="de-DE">
         <seg>Alle 25 LEDs können rot leuchten.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T115743Z">
+        <seg>Όλα τα 25 LED μπορούν να φωτίζονται κόκκινα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -296,6 +299,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich liebe Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.&lt;x4/&gt;Tipp:&lt;x5/&gt; Tippe Dauerhaft in die Suche ein!&lt;x6/&gt;Lasse eine Rakete auf der LED-Matrix steigen.&lt;x7/&gt;Tipp:&lt;x8/&gt; Jetzt musst du denken, wie ein Trickfilmprofi&lt;x9/&gt;-  in Einzelbildern!&lt;x10/&gt;Bring die Programmblöcke in die richtige Reihenfolge&lt;x11/&gt;und lass einen Countdown von 3-2-1-0 anzeigen.&lt;x12/&gt;a) Füge hinter jeder Zahl eine &lt;x13/&gt;Pause&lt;x14/&gt; ein.&lt;x15/&gt;b) &lt;x16/&gt;Verlängere&lt;x17/&gt; die Pausen indem du den Wert der Millisekunden (MS) erhöhst.&lt;x18/&gt;c) &lt;x19/&gt;Speichere&lt;x20/&gt; dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T115916Z">
+        <seg>Κατά την εκκίνηση εμφανίζεται μια καρδιά στη μήτρα LED.&lt;x2/&gt;Άφησε το "Αγαπώ το Βερολίνο!" να τρέχει στη μήτρα LED.&lt;x3/&gt;Άφησε μια καρδιά να αναβοσβήνει συνεχώς στη μήτρα LED.&lt;x4/&gt;Συμβουλή:&lt;x5/&gt; Πληκτρολόγησε Συνεχώς στην αναζήτηση!&lt;x6/&gt;Άφησε ένα πύραυλο να ανεβαίνει στη μήτρα LED.&lt;x7/&gt;Συμβουλή:&lt;x8/&gt; Τώρα πρέπει να σκεφτείς σαν ένας επαγγελματίας κινουμένων σχεδίων&lt;x9/&gt;- σε μεμονωμένα καρέ!&lt;x10/&gt;Βάλε τα μπλοκ προγραμματισμού στη σωστή σειρά&lt;x11/&gt;και εμφάνισε μια αντίστροφη μέτρηση 3-2-1-0.&lt;x12/&gt;α) Πρόσθεσε μια &lt;x13/&gt;Παύση&lt;x14/&gt; μετά από κάθε αριθμό.&lt;x15/&gt;β) &lt;x16/&gt;Παράτεινε&lt;x17/&gt; τις παύσες αυξάνοντας την τιμή των χιλιοδευτερολέπτων (MS).&lt;x18/&gt;γ) &lt;x19/&gt;Αποθήκευσε&lt;x20/&gt; το πρόγραμμά σου με το όνομα "Εκκίνηση πυραύλου".</seg>
       </tuv>
     </tu>
     <tu>
@@ -513,6 +519,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der &lt;x2/&gt;Bildschirm&lt;x3/&gt; des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T115834Z">
+        <seg>Η μήτρα LED είναι η &lt;x2/&gt;οθόνη&lt;x3/&gt; του Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -860,6 +869,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Es lassen sich Texte, Symbole und sogar Animationen anzeigen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T115749Z">
+        <seg>Μπορείς να εμφανίσεις κείμενα, σύμβολα και ακόμη και κινούμενα σχέδια.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1284,6 +1296,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>LED-Matrix</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T115725Z">
+        <seg>Μήτρα LED</seg>
       </tuv>
     </tu>
     <tu>
