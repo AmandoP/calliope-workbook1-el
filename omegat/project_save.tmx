@@ -634,6 +634,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Der Calliope mini kann über den Lautsprecher Töne ausgeben.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134048Z">
+        <seg>Το Calliope mini μπορεί να εκπέμπει ήχους μέσω του ηχείου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -760,10 +763,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Die Touch-Pins ermöglichen es, mit den Fingern einen Schaltkreis zu schließen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134100Z">
+        <seg>Τα πλήκτρα αφής σου επιτρέπουν να κλείσεις ένα κύκλωμα με τα δάχτυλά σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Die Touch-Pins reagieren auf Berührung und lösen so - wie die Knöpfe - Befehle aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134058Z">
+        <seg>Τα pins αφής ανταποκρίνονται στην αφή και ενεργοποιούν εντολές - όπως τα κουμπιά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +883,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Du kannst mit Krokodilklemmen die Touch-Pins verlängern.&lt;x9/&gt;Probiere unterschiedliche Materialien aus… Aluminium, Banane, Knete, Besteck.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134245Z">
+        <seg>Μπορείς να επεκτείνεις τα Touch-Pins με κροκοδιλάκια. Δοκίμασε διαφορετικά υλικά... Αλουμίνιο, μπανάνα, πλαστελίνη, μαχαιροπίρουνα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,10 +1024,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Entwickle ein Calliope mini Klavier, das beim Berühren der Touch-Pins 0-3 jeweils eine unterschiedliche Note abspielt, die RGB-LED in verschiedenen Farben leuchten lässt und den Notennamen auf der LED-Matrix anzeigt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134228Z">
+        <seg>Ανάπτυξε ένα πιάνο Calliope mini που όταν αγγίξεις τα Touch-Pins 0-3, παίζει μια διαφορετική νότα, ανάβει το RGB-LED σε διαφορετικά χρώματα και εμφανίζει το όνομα της νότας στη μήτρα LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Er befindet sich unter dem B-Knopf genau neben dem Touch-Pin mit der Nummer 3.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134053Z">
+        <seg>Βρίσκεται κάτω από το κουμπί B ακριβώς δίπλα στο Touch-Pin με τον αριθμό 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1159,10 +1177,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Erstelle folgendes Programm in MakeCode:</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134113Z">
+        <seg>Δημιούργησε το ακόλουθο πρόγραμμα στο MakeCode:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Erweitere dein Programm:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134204Z">
+        <seg>Επέκτεινε το πρόγραμμά σου:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,6 +1377,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Halte den Calliope mini mit einer Hand am&lt;x2/&gt;Minus (-) Pin fest und berühre mit einem Finger der anderen Hand einen der anderen Pins.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134131Z">
+        <seg>Κράτησε το Calliope mini με το ένα χέρι στον ακροδέκτη Minus (-) και άγγιξε με ένα δάχτυλο του άλλου χεριού έναν από τους άλλους ακροδέκτες.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1409,6 +1436,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Hier kannst du deine Eingabe noch genauer definieren.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134110Z">
+        <seg>Εδώ μπορείς να ορίσεις την είσοδό σου ακόμα πιο ακριβώς.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1439,6 +1469,10 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hilfe:&lt;x2/&gt;Mit Krokodilklemmen kannst du Gegenstände wie z.B. Aluminiumfolie, Knete oder eine Zitrone mit den Touch-Pins verbinden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134317Z">
+        <seg>Βοήθεια:
+Με τα κροκοδιλάκια μπορείς να συνδέσεις αντικείμενα όπως αλουμινόχαρτο, πλαστελίνη ή ένα λεμόνι με τα Touch-Pins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1664,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>In der Kategorie &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;findest du den Ereignisblock &lt;x5/&gt;„gedrückt“&lt;x6/&gt;.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134107Z">
+        <seg>Στην κατηγορία &lt;x2/&gt;Είσοδος&lt;x3/&gt; &lt;x4/&gt;θα βρεις το μπλοκ συμβάντος &lt;x5/&gt;„πατημένο"&lt;x6/&gt;.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1731,6 +1768,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Klavier</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134220Z">
+        <seg>Πιάνο</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1802,10 +1842,17 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Lasse die RGB-LED grün leuchten,&lt;x2/&gt;wenn Pin 0 gedrückt wird.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134103Z">
+        <seg>Άφησε το RGB-LED να λάμψει πράσινο, όταν το Pin 0 πατηθεί.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Lasse die Tonleiter abspielen.&lt;x2/&gt;C - D - E - F - G - A - H - C</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134039Z">
+        <seg>Άφησε τη μουσική κλίμακα να παίξει.&lt;x2/&gt;
+Ντο - Ρε - Μι - Φα - Σολ - Λα - Σι - Ντο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1977,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Minus-Pin&lt;x2/&gt;nicht vergessen!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134140Z">
+        <seg>Minus-Pin&lt;x2/&gt;μην ξεχάσεις!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,6 +2383,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau mal, was dir einfällt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134253Z">
+        <seg>Κοίταξε, τι σου έρχεται στο μυαλό.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2485,10 +2538,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Spiele Noten mit dem Calliope mini!</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134309Z">
+        <seg>Παίξε νότες με το Calliope mini!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Starte dein Programm mit einer Note auf der LED-Matrix.&lt;x2/&gt;Gehe Schritt für Schritt vor:&lt;x3/&gt;a) Erstelle ein Struktogramm für den Programmcode.&lt;x4/&gt;b) Programmiere anhand des Struktogramms.&lt;x5/&gt;c) Teste dein Programm im Simulator.&lt;x6/&gt;d) Übertrage den Code auf den Calliope mini.&lt;x7/&gt;e) Probiere das Klavier aus.&lt;x8/&gt;Erfinde ein Klavier, das über leitende Materialien gespielt werden kann.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134237Z">
+        <seg>Ξεκίνησε το πρόγραμμά σου με μια νότα στη μήτρα LED.&lt;x2/&gt;Προχώρησε βήμα προς βήμα:&lt;x3/&gt;α) Δημιούργησε ένα διάγραμμα ροής για τον κώδικα του προγράμματος.&lt;x4/&gt;β) Προγραμμάτισε ακολουθώντας το διάγραμμα ροής.&lt;x5/&gt;γ) Δοκίμασε το πρόγραμμά σου στον προσομοιωτή.&lt;x6/&gt;δ) Μεταφέρ τον κώδικα στο Calliope mini.&lt;x7/&gt;ε) Δοκίμασε το πιάνο.&lt;x8/&gt;Εφεύρε ένα πιάνο που παίζεται μέσω αγώγιμων υλικών.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +2569,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Stelle eine Vermutung auf, ob deine Materialien Strom leiten und fülle die Tabelle aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134301Z">
+        <seg>Κάνε μια υπόθεση για το αν τα υλικά σου άγουν ηλεκτρισμό και συμπλήρωσε τον πίνακα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,6 +2695,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Tipp: Es ist wichtig, gleichzeitig den Minus (-) Pin zu berühren, um eine Pin-Eingabe auszulösen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134123Z">
+        <seg>Συμβουλή: Είναι σημαντικό να αγγίξεις ταυτόχρονα τον ακροδέκτη Minus (-) για να ενεργοποιήσεις μια είσοδο ακροδέκτη.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3141,6 +3206,14 @@ c) Αποθήκευσε το πρόγραμμά σου με το όνομα «Ε
       <tuv lang="de-DE">
         <seg>a) Lasse die RGB-LED pink leuchten,&lt;x2/&gt;wenn Pin 1 gedrückt wird.&lt;x3/&gt;b) Lasse die RGB-LED gelb leuchten,&lt;x4/&gt;wenn Pin 2 gedrückt wird.&lt;x5/&gt;c) Lasse die RGB-LED türkis leuchten, &lt;x6/&gt;wenn Pin 3 gedrückt wird.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134156Z">
+        <seg>α) Άφησε το RGB LED να λάμψει ροζ,
+όταν πατηθεί το Pin 1.
+β) Άφησε το RGB LED να λάμψει κίτρινο,
+όταν πατηθεί το Pin 2.
+γ) Άφησε το RGB LED να λάμψει τυρκουάζ,
+όταν πατηθεί το Pin 3.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3340,6 +3413,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T134148Z">
+        <seg>Μεταφόρησε το πρόγραμμά σου στο Calliope mini και δοκίμασέ το.</seg>
       </tuv>
     </tu>
     <tu>
