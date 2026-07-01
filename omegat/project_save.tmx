@@ -68,6 +68,53 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123452Z" creationid="amando" creationdate="20260701T123452Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Keep the language simple and child-friendly
+- Provide translation only, without explanations or additions
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123500Z" creationid="amando" creationdate="20260701T123500Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal you)
+- Keep language simple and child-friendly
+- Provide translation only, no explanations
+- Wait for the German text to translate
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123509Z" creationid="amando" creationdate="20260701T123509Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123517Z" creationid="amando" creationdate="20260701T123517Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>9cm</seg>
       </tuv>
     </tu>
@@ -75,16 +122,17 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123153Z" creationid="amando" creationdate="20260701T122521Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T123655Z" creationid="amando" creationdate="20260701T122521Z">
         <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
 
 Please provide the German text you'd like me to translate. I will:
 - Translate ONLY the given text
 - Use simple, child-friendly language
-- Use εσύ/σου/σε (informal you) instead of εσείς/σας
-- Provide translation only, without explanations or additions
+- Use εσύ/σου/σε (informal singular "you")
+- NEVER use εσείς/σας
+- Provide translation only, no explanations or additions
 
-Waiting for your text to translate.</seg>
+Please share the text to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,6 +248,9 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Andere Wiederholungen sind an eine Bedingung oder ein anderes Ereignis geknüpft.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123428Z">
+        <seg>Άλλες επαναλήψεις είναι δεμένες σε μια συνθήκη ή σε ένα άλλο γεγονός.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -298,6 +349,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>BASTELN</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123647Z">
+        <seg>ΚΑΤΑΣΚΕΥΕΣ</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +460,11 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Bringe die einzelnen Schritte in die richtige Reihenfolge.&lt;x2/&gt;Kreise die Schritte ein, die wiederholt werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123436Z">
+        <seg>Βάλε τα μεμονωμένα βήματα στη σωστή σειρά.
+
+Κύκλωσε τα βήματα που επαναλαμβάνονται.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -413,6 +472,14 @@ Waiting for your text to translate.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260625T153941Z">
         <seg>Αισθητήρας CO2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>CODEN</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123638Z" creationid="amando" creationdate="20260701T123638Z">
+        <seg>ΚΩΔΙΚΑΣ</seg>
       </tuv>
     </tu>
     <tu>
@@ -508,6 +575,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der Calliope mini</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123703Z">
+        <seg>Το Calliope mini</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +851,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ein Computersystem besteht aus vielen Bauteilen, kennst du sie?&lt;x2/&gt;Einige dieser Bauteile sind auch auf dem Calliope mini zu finden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123711Z">
+        <seg>Ένα σύστημα υπολογιστή αποτελείται από πολλά εξαρτήματα, τα γνωρίζεις;&lt;x2/&gt;Μερικά από αυτά τα εξαρτήματα βρίσκονται και στο Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1119,6 +1192,9 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Hacken</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123630Z">
+        <seg>Κόψιμο</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1285,6 +1361,9 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ich klopfe.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123614Z">
+        <seg>Χτυπώ.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1297,6 +1376,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich schlucke hinunter.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123420Z">
+        <seg>Καταπίνω.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1532,6 +1614,11 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Lerne den Calliope mini kennen.&lt;x2/&gt;Entwickle kreative Ideen und produziere eigene Prototypen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123622Z">
+        <seg>Γνώρισε το Calliope mini.
+
+Ανάπτυξε δημιουργικές ιδέες και φτιάξε τα δικά σου πρωτότυπα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2436,6 +2523,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Welche Vorgänge fallen dir noch ein, bei denen sich bestimmte Handlungen wiederholen?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123444Z">
+        <seg>Ποιες άλλες διαδικασίες σκέφτεσαι, όπου ορισμένες ενέργειες επαναλαμβάνονται;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2461,15 +2551,24 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wenn ich Geburtstag habe,</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123525Z">
+        <seg>Όταν έχω γενέθλια,</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Wenn ich glücklich bin,</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123606Z">
+        <seg>Όταν είμαι ευτυχής,</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Wenn ich krank bin,</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123558Z">
+        <seg>Όταν είμαι άρρωστος,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +2745,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>bleibe ich zu Hause.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123533Z">
+        <seg>μένω στο σπίτι.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2681,10 +2783,16 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>lade ich Freunde ein.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123541Z">
+        <seg>καλώ τους φίλους μου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>mache ich laut Musik.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123549Z">
+        <seg>κάνω δυνατή μουσική.</seg>
       </tuv>
     </tu>
     <tu>
