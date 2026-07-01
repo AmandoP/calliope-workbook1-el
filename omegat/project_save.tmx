@@ -118,22 +118,6 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>&lt;x1/&gt;</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125630Z" creationid="amando" creationdate="20260701T122521Z">
-        <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
-
-Please provide the German text you'd like me to translate. I will:
-- Translate ONLY the given text
-- Use simple, child-friendly language
-- Use εσύ/σου/σε (informal you) instead of εσείς/σας
-- Provide translation only, without explanations or additions
-
-Waiting for your text to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T123047Z">
@@ -1473,6 +1457,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hoch hinaus!&lt;x2/&gt; Hast du es gewusst: Der Calliope mini war zusammen mit dem ESA-Astronauten Matthias Maurer auf der internationalen Raumstation und hat dort fleißig Experimente ausgeführt.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T130646Z">
+        <seg>Ψηλά ψηλά!&lt;x2/&gt; Το ήξερες; Ο Calliope mini ήταν μαζί με τον αστροναύτη της ESA Matthias Maurer στο διεθνές διαστημικό σταθμό και εκεί έκανε επιμελώς πειράματα.</seg>
       </tuv>
     </tu>
     <tu>
