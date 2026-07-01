@@ -2899,8 +2899,8 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Sende „Alles Gute” an dein Team und lasse nach dem Empfangen der Nachricht ein Herz auf der LED-Matrix erscheinen.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140756Z">
-        <seg>Στείλε "Alles Gute" στην ομάδα σου και άφησε ένα καρδιά να εμφανιστεί στη μήτρα LED αφού λάβεις το μήνυμα.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T144141Z">
+        <seg>Στείλε «Καλή τύχη» στην ομάδα σου και άφησε ένα καρδιά να εμφανιστεί στη μήτρα LED αφού λάβεις το μήνυμα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3759,8 +3759,8 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T122327Z">
-        <seg>α) Δημιουργήστε μια μεταβλητή και ονόμασέ την "Tempo".</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T144415Z">
+        <seg>α) Δημιουργήστε μια μεταβλητή και ονόμασέ την «Τέμπο».</seg>
       </tuv>
     </tu>
     <tu>
