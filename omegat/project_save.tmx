@@ -32,16 +32,10 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125744Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German (DE) to Greek (EL) following your specifications:
+      <tuv lang="el" changeid="amando" changedate="20260701T130011Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook. Please provide the text you'd like me to translate.
 
-- Topic: Calliope mini microcontroller workbook for children (age 8-12)
-- Style: Simple, child-friendly
-- Always use εσύ/σου/σε (informal singular "you")
-- Never use εσείς/σας (formal/plural "you")
-- Output: Translation only, no additions or explanations
-
-Please provide the German text you'd like me to translate.</seg>
+Remember: I will translate ONLY the given text, using simple child-friendly language, with εσύ/σου/σε (informal singular) instead of εσείς/σας.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +160,11 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x4/&gt;Tipp: Tippe Dauerhaft in die Suche ein!&lt;x5/&gt;Lasse eine Rakete auf der LED-Matrix steigen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125922Z">
+        <seg>Συμβουλή: Πληκτρολόγησε Διαρκώς στη σειρά αναζήτησης!
+
+Άφησε ένα πύραυλο να ανέβει στη μήτρα LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -191,6 +190,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;x6/&gt;Du musst wie ein Trickfilmprofi in Einzelbildern denken.&lt;x7/&gt;Bringe die Befehle in die richtige Reihenfolge und&lt;x8/&gt;lasse einen Countdown von 3-2-1-0 anzeigen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125930Z">
+        <seg>Πρέπει να σκέφτεσαι σαν ένας επαγγελματίας κινουμένων σχεδίων σε μεμονωμένα καρέ. Βάλε τις εντολές στη σωστή σειρά και εμφάνισε μια αντίστροφη μέτρηση 3-2-1-0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +449,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Beim Start erscheint ein Herz auf der LED-Matrix.&lt;x2/&gt;Lasse „Ich             Berlin!“ über die LED-Matrix laufen.&lt;x3/&gt;Lasse dauerhaft ein Herz auf der LED-Matrix blinken.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125913Z">
+        <seg>Όταν ξεκινάει, εμφανίζεται μια καρδιά στη μήτρα LED.&lt;x2/&gt;Κάνε το "Εγώ αγαπώ το Βερολίνο!" να τρέχει στη μήτρα LED.&lt;x3/&gt;Κάνε μια καρδιά να αναβοσβήνει συνεχώς στη μήτρα LED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -749,6 +754,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Die LED-Matrix ist der Bildschirm des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125849Z">
+        <seg>Η μήτρα LED είναι η οθόνη του Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,8 +1194,8 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Es lassen sich Texte, Symbole und sogar Animationen anzeigen.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T115749Z">
-        <seg>Μπορείς να εμφανίσεις κείμενα, σύμβολα και ακόμη και κινούμενα σχέδια.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T125905Z">
+        <seg>Μπορείς να εμφανίσεις κείμενα, σύμβολα και ακόμη και κινούμενες εικόνες.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2978,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wie sieht deine Rakete aus?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T130100Z">
+        <seg>Πώς μοιάζει το δικό σου πύραυλο;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3042,6 +3053,11 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>a) Füge hinter jeder Zahl eine Pause ein.&lt;x2/&gt;b) Verlängere die Pausen, indem du den Wert der Millisekunden (ms) erhöhst.&lt;x3/&gt;c) Speichere dein Programm unter dem Namen „Raketenstart“.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125938Z">
+        <seg>a) Προσθέστε μια παύση μετά από κάθε αριθμό.
+b) Παράτεινε τις παύσες αυξάνοντας την τιμή των χιλιοστών του δευτερολέπτου (ms).
+c) Αποθήκευσε το πρόγραμμά σου με το όνομα «Εκτόξευση Πυραύλου».</seg>
       </tuv>
     </tu>
     <tu>
