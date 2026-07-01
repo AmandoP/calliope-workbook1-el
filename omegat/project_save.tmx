@@ -42,13 +42,13 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140659Z" creationid="amando" creationdate="20260701T140554Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T141128Z" creationid="amando" creationdate="20260701T140554Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
-- Use only simple, child-friendly language
-- Always use εσύ/σου/σε (informal singular "you")
-- NEVER use εσείς/σας (formal/plural "you")
-- Provide translation only, without explanations or additions
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Never use "εσείς/σας" (formal/plural "you")
+- Keep the language simple and child-friendly
+- Provide only the translation without additions or explanations
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -364,6 +364,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ausgegeben wird die Helligkeit im Wertebereich 0 (dunkel) - 255 (hell).</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141137Z">
+        <seg>Η φωτεινότητα εξάγεται στο εύρος τιμών 0 (σκοτάδι) - 255 (φως).</seg>
       </tuv>
     </tu>
     <tu>
@@ -805,6 +808,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Die LED-Matrix beim Calliope mini ist gleichzeitig auch der Lichtsensor, mit dem die Stärke des Umgebungslichts gemessen werden kann.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141048Z">
+        <seg>Η μήτρα LED στο Calliope mini είναι ταυτόχρονα και αισθητήρας φωτός, με τον οποίο μπορείς να μετρήσεις την ισχύ του φωτός γύρω σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1199,6 +1205,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Erstelle den Programmcode anhand des abgebildeten Struktogramms.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141242Z">
+        <seg>Δημιούργησε τον κώδικα του προγράμματος σύμφωνα με το δομογράφημα που φαίνεται.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1211,6 +1220,11 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle ein Programm, das dauerhaft die Helligkeit misst und diese über die&lt;x2/&gt;LED-Matrix ausgibt.&lt;x3/&gt;Miss die Umgebungslichtstärke an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141056Z">
+        <seg>Δημιούργησε ένα πρόγραμμα που μετρά συνεχώς τη φωτεινότητα και την εμφανίζει στη μήτρα LED.
+
+Μέτρησε την ένταση του φωτός στο περιβάλλον σε διαφορετικά μέρη και κατάγραψε τις μετρημένες τιμές.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1331,6 +1345,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Finde eine Bezeichnung für den Ort und notiere die Messung in Wert 1.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141104Z">
+        <seg>Βρες ένα όνομα για τον τόπο και σημείωσε τη μέτρηση στην τιμή 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2004,6 +2021,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Lautstärke</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141339Z">
+        <seg>Ένταση ήχους</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2034,6 +2054,14 @@ Please provide the German text you'd like me to translate.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T141039Z" creationid="amando" creationdate="20260701T141039Z">
         <seg>Φως</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Licht = 0</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141304Z" creationid="amando" creationdate="20260701T141304Z">
+        <seg>Φως = 0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2125,6 +2153,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Miss an den verschiedenen Orten erneut, ergänze deine Tabelle&lt;x2/&gt;aus Aufgabe 2 und gleich deine Ergebnisse ab.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141331Z">
+        <seg>Μέτρησε ξανά στα διάφορα μέρη, συμπλήρωσε τον πίνακά σου από την Άσκηση 2 και σύγκρινε τα αποτελέσματά σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2305,6 +2336,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ort</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141153Z">
+        <seg>Τόπος</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,6 +2959,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Um genauere Werte zu bekommen, schreibe ein Programm, das den gemessenen Lichtwert bei ausgeschalteter LED-Matrix in eine Variable speichert und lasse dir den gespeicherten Wert danach auf der LED-Matrix anzeigen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141226Z">
+        <seg>Για να πάρεις πιο ακριβείς τιμές, γράψε ένα πρόγραμμα που αποθηκεύει την μετρημένη τιμή φωτός όταν η LED-Matrix είναι σβηστή σε μια μεταβλητή και μετά εμφάνισε την αποθηκευμένη τιμή στη LED-Matrix.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2987,6 +3024,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Vervollständige das Struktogramm:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141234Z">
+        <seg>Συμπλήρωσε το διάγραμμα δομής:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3216,15 +3256,24 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wert 1</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141201Z">
+        <seg>Τιμή 1</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Wert 2</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141209Z">
+        <seg>Τιμή 2</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Wichtig!&lt;x2/&gt; Verwendest du als Ausgabe der gemessenen Werte die LED-Matrix, können die Werte verfälscht sein.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141323Z">
+        <seg>Σημαντικό! Αν χρησιμοποιείς τη μήτρα LED ως έξοδο των μετρούμενων τιμών, οι τιμές μπορεί να είναι παραμορφωμένες.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3668,6 +3717,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>• Wenn Knopf A geklickt&lt;x2/&gt;• Wenn Knopf B geklickt&lt;x3/&gt;• Gemessene Lichtstärke in&lt;x4/&gt;Variable „Licht“ speichern&lt;x5/&gt;• Wert der Variable „Licht“ &lt;x6/&gt;anzeigen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141250Z">
+        <seg>• Όταν πατηθεί το κουμπί A&lt;x2/&gt;• Όταν πατηθεί το κουμπί B&lt;x3/&gt;• Η μετρημένη φωτεινότητα&lt;x4/&gt;αποθηκεύεται στη μεταβλητή "Φως"&lt;x5/&gt;• Εμφάνιση της τιμής της μεταβλητής "Φως"&lt;x6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
