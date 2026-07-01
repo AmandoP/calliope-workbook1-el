@@ -49,6 +49,9 @@
       <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114346Z">
+        <seg>Ξεκίνησε τον προσομοιωτή και περίγραψε τι συμβαίνει στον προσομοιωτή.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -342,6 +345,9 @@
       <tuv lang="de-DE">
         <seg>Calliope mini Bluetooth-Modus</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114217Z">
+        <seg>Λειτουργία Bluetooth της Calliope mini</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -392,6 +398,9 @@
       <tuv lang="de-DE">
         <seg>Dazu wird die Calliope mini App benötigt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114209Z">
+        <seg>Για αυτό χρειάζεσαι την εφαρμογή Calliope mini.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -426,6 +435,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Der Calliope mini kann mobil per Bluetooth programmiert werden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114206Z">
+        <seg>Το Calliope mini μπορεί να προγραμματιστεί κινητά μέσω Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -557,6 +569,9 @@
       <tuv lang="de-DE">
         <seg>Display, Hacken, Coden&lt;x2/&gt; – was bedeutet das überhaupt?&lt;x3/&gt;Wir haben eine Webseite mit den am häufigsten benutzten Begriffen zusammengetragen: &lt;x4/&gt;https://calliope.cc/begriffe</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114232Z">
+        <seg>Εμφάνιση, Χάκινγκ, Κωδικοποίηση – τι σημαίνει όλα αυτά;&lt;x3/&gt;Συγκεντρώσαμε μια ιστοσελίδα με τους πιο συχνά χρησιμοποιούμενους όρους:&lt;x4/&gt;https://calliope.cc/begriffe</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -576,6 +591,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Drücke zusätzlich die &lt;x5/&gt;Reset Taste&lt;x6/&gt; für&lt;x7/&gt;1 Sekunde.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114246Z">
+        <seg>Πάτησε επιπλέον το κουμπί &lt;x5/&gt;Reset&lt;x6/&gt; για&lt;x7/&gt;1 δευτερόλεπτο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,6 +777,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle dazu folgende Programme in MakeCode.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114342Z">
+        <seg>Δημιούργησε τα ακόλουθα προγράμματα στο MakeCode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -969,6 +990,11 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Halte die Tasten A+B so lange gedrückt, bis die&lt;x8/&gt;Bluetooth-Animation beendet ist.&lt;x9/&gt;• &lt;x10/&gt;Das individuelle &lt;x11/&gt;ID-Muster&lt;x12/&gt; erscheint auf deinem Calliope mini.&lt;x13/&gt;•&lt;x14/&gt; Ab dem Calliope mini 3 kannst du den Bluetooth-Modus starten,&lt;x15/&gt;indem du &lt;x16/&gt;3x die Reset Taste&lt;x17/&gt; drückst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114253Z">
+        <seg>Κρατά τα κουμπιά A+B πατημένα μέχρι να τελειώσει η κίνηση του Bluetooth.
+• Το μοναδικό σου μοτίβο ID εμφανίζεται στο Calliope mini σου.
+• Από το Calliope mini 3 και πάνω, μπορείς να ξεκινήσεις τη λειτουργία Bluetooth πατώντας 3 φορές το κουμπί Reset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1341,6 +1367,10 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Lizenziert unter Creative Commons Namensnennung 4.0 International&lt;x2/&gt;Calliope gGmbH</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114309Z">
+        <seg>Αδειοδοτημένο υπό Creative Commons Αναφορά 4.0 Διεθνές
+Calliope gGmbH</seg>
       </tuv>
     </tu>
     <tu>
@@ -1908,6 +1938,9 @@
       <tuv lang="de-DE">
         <seg>Testen im Simulator</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114403Z">
+        <seg>Δοκιμή στον Προσομοιωτή</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1943,6 +1976,9 @@
       <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis in welcher Kategorie du sie findest.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114407Z">
+        <seg>Συμβουλή:&lt;x2/&gt; Τα χρώματα των μπλοκ σου δίνουν μια υπόδειξη σε ποια κατηγορία θα τα βρεις.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1963,6 +1999,9 @@
       <tuv lang="de-DE">
         <seg>Tipps für die mobile Nutzung</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114306Z">
+        <seg>Συμβουλές για τη χρήση σε κινητές συσκευές</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1977,6 +2016,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Um die Datei nach dem Programmieren zu übertragen, muss der Calliope mini in den Bluetooth-Modus versetzt und mit dem mobilen Gerät verbunden sein.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114214Z">
+        <seg>Για να μεταφέρεις το αρχείο μετά τον προγραμματισμό, πρέπει να βάλεις το Calliope mini σε λειτουργία Bluetooth και να το συνδέσεις με το κινητό σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2007,6 +2049,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Verbindung mit einem mobilen Gerät</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114220Z">
+        <seg>Σύνδεση με μια φορητή συσκευή</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,6 +2165,9 @@
       <tuv lang="de-DE">
         <seg>Weitere Informationen</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114200Z">
+        <seg>Περισσότερες πληροφορίες</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2129,6 +2177,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Weitere Tipps zur Nutzung mit mobilen Geräten findest du unter: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114237Z">
+        <seg>Περισσότερες συμβουλές για τη χρήση με κινητές συσκευές θα βρεις εδώ: &lt;x2/&gt;https://calliope.cc/programmieren/mobil</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,6 +2545,9 @@
       <tuv lang="de-DE">
         <seg>Übertragung</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114223Z">
+        <seg>Μεταφορά</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2504,15 +2558,29 @@
       <tuv lang="de-DE">
         <seg>• &lt;x2/&gt;Halte &lt;x3/&gt;Tasten A+B&lt;x4/&gt; gedrückt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114241Z">
+        <seg>• Κρατά τα κουμπιά A+B πατημένα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>• &lt;x2/&gt;Jetzt kannst du Programme übertragen.&lt;x3/&gt;• &lt;x4/&gt;Verwende den Editor MakeCode, um ein Programm zu erstellen.&lt;x5/&gt;• &lt;x6/&gt;Tippe auf Herunterladen, um das Programm zu übertragen.&lt;x7/&gt;• &lt;x8/&gt;Nach Abschluss erscheint das Programm auf dem Calliope mini!</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114257Z">
+        <seg>• Τώρα μπορείς να μεταφέρεις προγράμματα.
+• Χρησιμοποίησε τον επεξεργαστή MakeCode για να δημιουργήσεις ένα πρόγραμμα.
+• Πάτησε Λήψη για να μεταφέρεις το πρόγραμμα.
+• Μετά την ολοκλήρωση, το πρόγραμμα εμφανίζεται στο Calliope mini!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>• &lt;x2/&gt;Über das &lt;x3/&gt;rote Calliope mini Icon&lt;x4/&gt; im Bereich „Editoren und Programme“&lt;x5/&gt;öffnest du das Verbindungsfenster.&lt;x6/&gt;• &lt;x7/&gt;Übertrage das individuelle ID-Muster des Calliope mini auf die Matrix.&lt;x8/&gt;• &lt;x9/&gt;Wird der Calliope mini gefunden, verbindet er sich automatisch mit der&lt;x10/&gt;App und ein Smiley erscheint.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114302Z">
+        <seg>• Πατώντας το κόκκινο εικονίδιο Calliope mini στην περιοχή "Επεξεργαστές και Προγράμματα" ανοίγεις το παράθυρο σύνδεσης.
+• Μεταφέρεις το μοναδικό σχέδιο ID του Calliope mini στη μήτρα.
+• Όταν βρεθεί το Calliope mini, συνδέεται αυτόματα με την εφαρμογή και εμφανίζεται ένα χαμόγελο.</seg>
       </tuv>
     </tu>
     <tu>
