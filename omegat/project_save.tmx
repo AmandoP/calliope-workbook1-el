@@ -61,6 +61,22 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140416Z" creationid="amando" creationdate="20260701T140416Z">
+        <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
+
+Please provide the German text you'd like me to translate. I will:
+- Translate ONLY the given text
+- Use simple, child-friendly language
+- Use εσύ/σου/σε (informal "you") instead of εσείς/σας
+- Provide translation only, without explanations or additions
+
+Please share the text now.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T123047Z">
@@ -597,8 +613,8 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Den Calliope mini steuern</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125752Z">
-        <seg>Τον Calliope mini να ελέγχεις</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T140408Z">
+        <seg>HTTP request failed: Operation timed out</seg>
       </tuv>
     </tu>
     <tu>
@@ -620,6 +636,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der Calliope mini besitzt eine kleine Antenne, über die Nachrichten zwischen verschiedenen Calliope mini übermittelt werden können.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140432Z">
+        <seg>Το Calliope mini έχει μια μικρή κεραία, μέσω της οποίας μπορούν να σταλούν μηνύματα μεταξύ διαφόρων Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1254,6 +1273,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Funken</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140424Z">
+        <seg>Σπίθες</seg>
       </tuv>
     </tu>
     <tu>
