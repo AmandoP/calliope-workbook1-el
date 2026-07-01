@@ -1123,6 +1123,9 @@
       <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T112402Z">
+        <seg>Εισάγαγε τα απαραίτητα μπλοκ προγραμματισμού:&lt;x2/&gt;Αισθητήρας CO2-SCD40</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
