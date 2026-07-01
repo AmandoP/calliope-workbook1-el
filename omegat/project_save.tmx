@@ -87,6 +87,34 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140853Z" creationid="amando" creationdate="20260701T140853Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal you)
+- Keep language simple and child-friendly
+- Provide translation only, no additions or explanations
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140901Z" creationid="amando" creationdate="20260701T140901Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal you)
+- Keep language simple and child-friendly
+- Provide translation only, no additions or explanations
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>9cm</seg>
       </tuv>
     </tu>
@@ -94,16 +122,8 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140416Z" creationid="amando" creationdate="20260701T140416Z">
-        <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
-
-Please provide the German text you'd like me to translate. I will:
-- Translate ONLY the given text
-- Use simple, child-friendly language
-- Use εσύ/σου/σε (informal "you") instead of εσείς/σας
-- Provide translation only, without explanations or additions
-
-Please share the text now.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T141031Z" creationid="amando" creationdate="20260701T140416Z">
+        <seg>I'm ready to help translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook for children. Please provide the text you'd like me to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -905,6 +925,9 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Du findest ihn in der Logik Kategorie.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140918Z">
+        <seg>Θα τον βρεις στην κατηγορία Λογική.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1029,6 +1052,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ein Text wird über Funk gesendet.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140748Z">
+        <seg>Ένα κείμενο αποστέλλεται μέσω ραδιοφώνου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,6 +1221,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle ein Programm, mit dem du nach Belieben unterschiedliche Nachrichten übertragen kannst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140821Z">
+        <seg>Δημιούργησε ένα πρόγραμμα, με το οποίο μπορείς να στέλνεις διαφορετικά μηνύματα όπως θέλεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1579,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hilfe:&lt;x2/&gt;Für die Abfrage der empfangenen Zahl wird ein Vergleichsblock benötigt.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140910Z">
+        <seg>Βοήθεια:&lt;x2/&gt;Για να ελέγξεις τον αριθμό που έλαβες, χρειάζεσαι ένα μπλοκ σύγκρισης.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2026,14 @@ Please share the text now.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T125800Z">
         <seg>Μάθε να ελέγχεις τους μεμονωμένους ενεργοποιητές και αισθητήρες του Calliope mini και δημιούργησε τα πρώτα δικά σου προγράμματα.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Licht</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141039Z" creationid="amando" creationdate="20260701T141039Z">
+        <seg>Φως</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,6 +2600,17 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Sende „Alles Gute” an dein Team und lasse nach dem Empfangen der Nachricht ein Herz auf der LED-Matrix erscheinen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140756Z">
+        <seg>Στείλε "Alles Gute" στην ομάδα σου και άφησε ένα καρδιά να εμφανιστεί στη μήτρα LED αφού λάβεις το μήνυμα.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sensoren</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140942Z" creationid="amando" creationdate="20260701T140942Z">
+        <seg>Αισθητήρες</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2608,6 +2659,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Sinne</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141007Z">
+        <seg>Αισθήσεις</seg>
       </tuv>
     </tu>
     <tu>
@@ -3193,6 +3247,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wie das funktioniert, findest du auf dieser Seite heraus.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140934Z">
+        <seg>Πώς λειτουργεί, θα το ανακαλύψεις σε αυτή τη σελίδα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3324,6 +3381,11 @@ c) Αποθήκευσε το πρόγραμμά σου με το όνομα «Ε
       <tuv lang="de-DE">
         <seg>a) Wenn Taste B gedrückt, sende eine „2“.&lt;x2/&gt;b) Wenn eine „2“ empfangen wird, zeige einen traurigen Smiley.&lt;x3/&gt;c) Erweitere den lachenden Smiley mit einem grünem Licht und den traurigen Smiley mit einem roten Licht.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140837Z">
+        <seg>α) Αν πατηθεί το κουμπί B, στείλε ένα "2".
+β) Αν λάβεις ένα "2", εμφάνισε ένα λυπημένο σμάιλι.
+γ) Επέκτεινε το γελαστό σμάιλι με ένα πράσινο φως και το λυπημένο σμάιλι με ένα κόκκινο φως.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3428,6 +3490,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>sind wie</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141015Z">
+        <seg>είναι όπως</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3466,6 +3531,10 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Über Funk lassen sich nicht nur Textnachrichten versenden, sondern auch Zahlen.&lt;x2/&gt;Die Zahlen kannst du empfangen und auswerten.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140926Z">
+        <seg>Μέσω της ραδιοφωνίας μπορείς να στείλεις όχι μόνο μηνύματα κειμένου, αλλά και αριθμούς.
+Μπορείς να λάβεις και να αξιολογήσεις τους αριθμούς.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3582,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Übertrage dafür den Programmcode aus Aufgabe 4 in MakeCode und ergänze dein Programm um folgende Befehle:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140829Z">
+        <seg>Μεταφέρε τον κώδικα του προγράμματος από την Άσκηση 4 στο MakeCode και συμπλήρωσε το πρόγραμμά σου με τις ακόλουθες εντολές:</seg>
       </tuv>
     </tu>
     <tu>
