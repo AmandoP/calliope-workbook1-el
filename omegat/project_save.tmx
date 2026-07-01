@@ -65,11 +65,12 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>4</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123452Z" creationid="amando" creationdate="20260701T123452Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T124205Z" creationid="amando" creationdate="20260701T123452Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Keep the language simple and child-friendly
+- Use only simple, child-friendly language
+- Always use εσύ/σου/σε (informal singular "you")
+- NEVER use εσείς/σας (formal/plural "you")
 - Provide translation only, without explanations or additions
 
 Please provide the German text you'd like me to translate.</seg>
@@ -79,13 +80,12 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>5</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123500Z" creationid="amando" creationdate="20260701T123500Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T124213Z" creationid="amando" creationdate="20260701T123500Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
 - Use only "εσύ/σου/σε" (informal you)
 - Keep language simple and child-friendly
-- Provide translation only, no explanations
-- Wait for the German text to translate
+- Provide translation only, no additions or explanations
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -287,6 +287,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Auch die Farbe und Anordnung einiger Bauteile hat sich leicht geändert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124254Z">
+        <seg>Το χρώμα και η διάταξη ορισμένων εξαρτημάτων άλλαξαν λίγο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -317,6 +320,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ausgabe</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124229Z">
+        <seg>Έξοδος</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,6 +790,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Du kannst die Projekte im Arbeitsheft mit allen Calliope mini Versionen umsetzen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124302Z">
+        <seg>Μπορείς να υλοποιήσεις τα έργα στο τετράδιο εργασίας με όλες τις εκδόσεις Calliope mini.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -902,6 +911,17 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Eingabe</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124221Z">
+        <seg>I'm ready to translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook for children (age 8-12).
+
+Please provide the German text you'd like me to translate. I will:
+- Translate ONLY the given text
+- Use simple, child-friendly language
+- Use εσύ/σου/σε (informal "you") instead of εσείς/σας
+- Provide translation only, without explanations or additions
+
+Waiting for your text...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1294,6 +1314,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Hinweis:&lt;x2/&gt; Ab dem Calliope mini 3 gibt es drei RGB-LEDs.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124246Z">
+        <seg>Σημείωση:&lt;x2/&gt; Από το Calliope mini 3 και πέρα υπάρχουν τρία RGB-LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1588,6 +1611,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Lagesensor</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124043Z">
+        <seg>Αισθητήρας θέσης</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1612,6 +1638,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Lautsprecher</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124149Z">
+        <seg>Ηχείο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1692,6 +1721,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Mikrofon</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124100Z">
+        <seg>Μικρόφωνο</seg>
       </tuv>
     </tu>
     <tu>
@@ -1957,6 +1989,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Prozessor</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124116Z">
+        <seg>Επεξεργαστής</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2214,10 +2249,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Taste A</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124035Z">
+        <seg>Γεύση Α</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Taste B</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124027Z">
+        <seg>Γεύση Β</seg>
       </tuv>
     </tu>
     <tu>
@@ -2364,6 +2405,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verarbeitung</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124238Z">
+        <seg>Επεξεργασία</seg>
       </tuv>
     </tu>
     <tu>
