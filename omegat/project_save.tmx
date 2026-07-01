@@ -13,6 +13,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="de-DE">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140546Z" creationid="amando" creationdate="20260701T140546Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 
 </note>
@@ -32,10 +40,33 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140659Z" creationid="amando" creationdate="20260701T140554Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only simple, child-friendly language
+- Always use εσύ/σου/σε (informal singular "you")
+- NEVER use εσείς/σας (formal/plural "you")
+- Provide translation only, without explanations or additions
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T133636Z">
         <seg>2x Κάμψεις γονάτων</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140707Z" creationid="amando" creationdate="20260701T140707Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +561,9 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Damit alle Personen aus deinem Team Nachrichten senden und empfangen können, übertrage jeweils den gesamten Programmcode auf alle Calliope mini in deinem Team.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140643Z">
+        <seg>Για να μπορούν όλα τα άτομα της ομάδας σου να στέλνουν και να λαμβάνουν μηνύματα, μεταφέρε ολόκληρο τον κώδικα του προγράμματος σε κάθε Calliope mini της ομάδας σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -543,10 +577,16 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Danach erscheint die &lt;x2/&gt;Funk&lt;x3/&gt; &lt;x4/&gt;Kategorie in deiner Bibliothek.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140537Z">
+        <seg>Στη συνέχεια εμφανίζεται η κατηγορία &lt;x2/&gt;Ραδιοφωνία&lt;x3/&gt; &lt;x4/&gt;στη βιβλιοθήκη σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Das Drücken des Knopfes A löst&lt;x2/&gt;das Senden der Nachricht aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140724Z">
+        <seg>Το πάτημα του κουμπιού A ενεργοποιεί την αποστολή του μηνύματος.</seg>
       </tuv>
     </tu>
     <tu>
@@ -613,8 +653,8 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Den Calliope mini steuern</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140408Z">
-        <seg>HTTP request failed: Operation timed out</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T140602Z">
+        <seg>Τον Calliope mini να ελέγχεις</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +722,9 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Der Inhalt der Variable „receivedString“&lt;x2/&gt;wird auf der LED-Matrix angezeigt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140732Z">
+        <seg>Το περιεχόμενο της μεταβλητής "receivedString" εμφανίζεται στη μήτρα LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -699,6 +742,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der Text wird über Funk empfangen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140740Z">
+        <seg>Το κείμενο λαμβάνεται μέσω ραδιοφώνου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +768,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Die Funkgruppe wird auf „1“ gestellt.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140715Z">
+        <seg>Η ομάδα ραδιοφώνου ρυθμίζεται στο "1".</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +939,9 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Du kannst ihn einfach anklicken und an die gewünschte Stelle ziehen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140618Z">
+        <seg>Μπορείς απλώς να κάνεις κλικ πάνω του και να τον σύρεις στο σημείο που θέλεις.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -910,6 +962,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Du kannst sie nicht umbenennen, aber jederzeit innerhalb der „Empfangen“-Funktion verwenden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140521Z">
+        <seg>Δεν μπορείς να τα μετονομάσεις, αλλά μπορείς να τα χρησιμοποιήσεις ανά πάσα στιγμή μέσα στη συνάρτηση "Λήψη".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1277,9 @@ Please share the text now.</seg>
       <tuv lang="de-DE">
         <seg>Es kann über verschiedene Funkgruppen, die in der Programmierung festgelegt werden, gefunkt werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140440Z">
+        <seg>Μπορείς να στέλνεις σήματα μέσω διαφόρων ομάδων ραδιοφώνου, που ορίζονται στον προγραμματισμό.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1297,6 +1355,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Führe dafür die folgenden zwei Schritte aus:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140529Z">
+        <seg>Εκτέλεσε τα ακόλουθα δύο βήματα:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1481,6 +1542,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hilfe:&lt;x2/&gt;Der „receivedString“ - Block speichert die empfangene Nachricht.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140610Z">
+        <seg>Βοήθεια:&lt;x2/&gt;Το μπλοκ „receivedString" αποθηκεύει το μήνυμα που λήφθηκε.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1693,6 +1757,9 @@ Please share the text now.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>In dieser Variable wird der über Funk empfangene Text gespeichert.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140513Z">
+        <seg>Σε αυτή τη μεταβλητή αποθηκεύεται το κείμενο που λήφθηκε μέσω ραδιοφώνου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,6 +2169,10 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Nur Calliope mini der gleichen Funkgruppe können untereinander kommunizieren.&lt;x2/&gt;Die Programmblöcke, die hierfür benötigt werden, müssen in die Bibliothek hinzugefügt werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140448Z">
+        <seg>Μόνο τα Calliope mini της ίδιας ομάδας ραδιοφώνου μπορούν να επικοινωνούν μεταξύ τους.
+Τα μπλοκ προγραμματισμού που χρειάζονται γι' αυτό πρέπει να προστεθούν στη βιβλιοθήκη.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2377,6 +2448,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und ordne folgende Abläufe den einzelnen Programmblöcken zu:</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140626Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και αντιστοίχισε τις παρακάτω διαδικασίες στα επιμέρους μπλοκ του προγράμματος:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2477,6 +2551,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Sende eine Textnachricht deiner Wahl an dein Team.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140635Z">
+        <seg>Στείλε ένα μήνυμα κειμένου της επιλογής σου στην ομάδα σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,6 +3176,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wichtig: &lt;x2/&gt;„receivedString“ ist eine vorab definierte Variable.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T140505Z">
+        <seg>Σημαντικό: &lt;x2/&gt;„receivedString" είναι μια προκαθορισμένη μεταβλητή.</seg>
       </tuv>
     </tu>
     <tu>
