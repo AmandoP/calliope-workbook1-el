@@ -2720,8 +2720,8 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variablen „Tempo“ von 1000 auf 500 geändert wird.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133048Z">
-        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει, όταν η τιμή της μεταβλητής "Tempo" αλλάξει από 1000 σε 500.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T144434Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει, όταν η τιμή της μεταβλητής «Τέμπο» αλλάξει από 1000 σε 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3767,8 +3767,8 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>a) Erstelle eine Variable und benenne sie „Tempo“.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133057Z">
-        <seg>α) Δημιούργησε μια μεταβλητή και ονόμασέ την "Tempo".</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T144438Z">
+        <seg>α) Δημιούργησε μια μεταβλητή και ονόμασέ την «Τέμπο».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,10 +3816,10 @@ c) Αποθήκευσε το πρόγραμμά σου με το όνομα «Ε
       <tuv lang="de-DE">
         <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T122343Z">
-        <seg>b) Ορίστε τη μεταβλητή "Tempo" στην τιμή 100 πριν από το Countdown σου.
-c) Αντικατάστησε τις τιμές στις εντολές Pause με το μπλοκ μεταβλητής "Tempo".
-d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T144508Z">
+        <seg>b) Ορίστε τη μεταβλητή «Τέμπο» στην τιμή 100 πριν από το Countdown σου.
+c) Αντικατάστησε τις τιμές στις εντολές Pause με το μπλοκ μεταβλητής «Τέμπο».
+d) Ορίστε την τιμή της μεταβλητής «Τέμπο» στο 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,12 +3834,12 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>b) Setze die Variable „Tempo“ vor deinem Countdown auf den Wert 100.&lt;x2/&gt;c) Ersetze die Werte in den Pause Befehlen durch den Variablen Block „Tempo“.&lt;x3/&gt;d) Setze den Wert der Variable „Tempo“ auf 500.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133103Z">
-        <seg>b) Ορίστε τη μεταβλητή "Tempo" στην τιμή 100 πριν από το αντίστροφη μέτρηση.
+      <tuv lang="el" changeid="amando" changedate="20260701T144459Z">
+        <seg>b) Ορίστε τη μεταβλητή «Τέμπο» στην τιμή 100 πριν από το αντίστροφη μέτρηση.
 
-c) Αντικατάστησε τις τιμές στις εντολές παύσης με το μπλοκ μεταβλητής "Tempo".
+c) Αντικατάστησε τις τιμές στις εντολές παύσης με το μπλοκ μεταβλητής «Τέμπο».
 
-d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.</seg>
+d) Ορίστε την τιμή της μεταβλητής «Τέμπο» στο 500.</seg>
       </tuv>
     </tu>
     <tu>
