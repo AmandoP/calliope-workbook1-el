@@ -32,8 +32,13 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123857Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+      <tuv lang="el" changeid="amando" changedate="20260701T124521Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal you)
+- Keep language simple and child-friendly
+- Translate ONLY the given text without additions or explanations
+- Provide translation output only
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -54,6 +59,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>3 Orangen bereitlegen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124537Z">
+        <seg>3 πορτοκάλια έτοιμα</seg>
       </tuv>
     </tu>
     <tu>
@@ -237,6 +245,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Am besten funktioniert es, wenn du bekannte Symbole und Bezeichnungen verwendest.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124416Z">
+        <seg>Λειτουργεί καλύτερα αν χρησιμοποιείς γνωστά σύμβολα και ονοματολογία.</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,6 +887,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ein Plan hilft dir bei der Umsetzung deiner Idee und ist nützlich, damit du den Überblick bewahrst.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124407Z">
+        <seg>Ένα σχέδιο σε βοηθά να υλοποιήσεις την ιδέα σου και είναι χρήσιμο για να κρατήσεις τα πάντα σε τάξη.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -977,6 +991,13 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ergänze das Struktogramm und füge die einzelnen Schritte in der richtigen Reihenfolge des Saftmachens hinzu.&lt;x2/&gt;• Hälften auspressen&lt;x3/&gt;• 3 Mal wiederholen&lt;x4/&gt;• Orange in der Mitte durchschneiden</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124505Z">
+        <seg>Συμπλήρωσε το διάγραμμα και πρόσθεσε τα επιμέρους βήματα στη σωστή σειρά για να φτιάξεις χυμό.
+
+• Πιέστε τις μισές πορτοκάλια
+• Επανάλαβε 3 φορές
+• Κόψε το πορτοκάλι στη μέση</seg>
       </tuv>
     </tu>
     <tu>
@@ -1131,6 +1152,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Futter in den Napf füllen</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124529Z">
+        <seg>Βάλε φαγητό στο μπολ</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1281,6 +1305,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Hier siehst du ein Struktogramm, das den Ablauf des Hundefütterns darstellt.&lt;x2/&gt;Schau dir die einzelnen Anweisungen an und kreise die Entscheidung ein.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124456Z">
+        <seg>Εδώ βλέπεις ένα διάγραμμα ροής που δείχνει πώς ταΐζεις το σκυλάκι.&lt;x2/&gt;Κοίταξε τις μεμονωμένες οδηγίες και κύκλωσε την απόφαση.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1341,6 +1368,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hund frisst</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124602Z">
+        <seg>Ο σκύλος τρώει</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1540,14 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>JA</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124610Z" creationid="amando" creationdate="20260701T124610Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε μου το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,10 +1845,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>NEIN</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124618Z">
+        <seg>Όχι</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Napf&lt;x2/&gt;bereitstellen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124554Z">
+        <seg>Μπολ προετοιμασίας</seg>
       </tuv>
     </tu>
     <tu>
@@ -2013,6 +2057,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Saft in ein Glas gießen</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124545Z">
+        <seg>Χύνε χυμό σε ένα ποτήρι</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2194,6 +2241,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>So können auch andere deinen Plan lesen und mitdenken.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124424Z">
+        <seg>Έτσι μπορούν και άλλοι να διαβάσουν το σχέδιό σου και να σκεφτούν μαζί σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2238,6 +2288,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Struktogramme</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124335Z">
+        <seg>Δομογράμματα</seg>
       </tuv>
     </tu>
     <tu>
@@ -2625,6 +2678,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wenn du eine Idee hast, mache einen Plan.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124351Z">
+        <seg>Όταν έχεις μια ιδέα, κάνε ένα σχέδιο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2737,6 +2793,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wiederholung/Schleife</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124448Z">
+        <seg>Επανάληψη/Βρόχος</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,6 +3005,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Überlege in welcher Reihenfolge einzelne Schritte ablaufen sollen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124359Z">
+        <seg>Σκέψου με ποια σειρά θα πρέπει να γίνουν τα επιμέρους βήματα.</seg>
       </tuv>
     </tu>
     <tu>
