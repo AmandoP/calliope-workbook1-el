@@ -13,14 +13,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="de-DE">
-        <seg>1</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140546Z" creationid="amando" creationdate="20260701T140546Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>
 
 </note>
@@ -40,33 +32,10 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>2</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T141128Z" creationid="amando" creationdate="20260701T140554Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Never use "εσείς/σας" (formal/plural "you")
-- Keep the language simple and child-friendly
-- Provide only the translation without additions or explanations
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T133636Z">
         <seg>2x Κάμψεις γονάτων</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>3</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140707Z" creationid="amando" creationdate="20260701T140707Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,6 +760,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Der Calliope mini misst die Entfernung - im Geheimen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143422Z">
+        <seg>Το Calliope mini μετρά την απόσταση - κρυφά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -852,6 +824,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Dicke Luft?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143150Z">
+        <seg>Παχύ αέρα;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -912,6 +887,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Die Luft, die dich umgibt, spielt eine große Rolle für dein Wohlbefinden.&lt;x2/&gt;Programmiere eine Anzeige, die dich informiert, wenn es zu heiß wird, die Luftfeuchtigkeit zu hoch oder zu niedrig ist und wenn mal wieder gelüftet werden muss.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143242Z">
+        <seg>Ο αέρας που σε περιβάλλει παίζει μεγάλο ρόλο για την ευεξία σου. Προγραμμάτισε μια ένδειξη που σε ενημερώνει, όταν κάνει πολύ ζέστη, η υγρασία είναι πολύ υψηλή ή πολύ χαμηλή και όταν πρέπει να αερίσεις ξανά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1105,6 +1083,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Du schätzt die Entfernung und der Calliope mini löst auf und zeigt die gemessene Entfernung an.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143425Z">
+        <seg>Εσύ εκτιμάς την απόσταση και το Calliope mini ενεργοποιείται και εμφανίζει την μετρημένη απόσταση.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1213,6 +1194,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Entfernungen messen!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143347Z">
+        <seg>Αποστάσεις μέτρησης!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1627,10 +1611,16 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Gibt die gemessene Entfernung in Zentimetern aus!</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143356Z">
+        <seg>Εξάγει την μετρημένη απόσταση σε εκατοστά!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Gibt die gemessene Entfernung in Zentimetern aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143403Z">
+        <seg>Εκτυπώνει την μετρημένη απόσταση σε εκατοστά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,6 +1918,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
     <tu>
       <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40&lt;x3/&gt;(Erweiterungen)</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143251Z">
+        <seg>Εισάγαγε τα απαραίτητα μπλοκ προγράμματος:&lt;x2/&gt;CO2-Sensor-SCD40&lt;x3/&gt;(Επεκτάσεις)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2396,6 +2389,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Mit dem&lt;x2/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143256Z">
+        <seg>Με το καλώδιο Grove συνδέεις τον SCD40 με το Calliope mini μέσω της θύρας Grove A0.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2467,6 +2463,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Nutze den Lautsprecher für den Temperaturhinweis.&lt;x2/&gt;Lasse einen Warnton ausgeben, wenn die Temperatur zu&lt;x3/&gt;kalt oder zu warm ist.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143237Z">
+        <seg>Χρησιμοποίησε το ηχείο για την προειδοποίηση θερμοκρασίας. Άφησε έναν ήχο προειδοποίησης να ακουστεί, αν η θερμοκρασία είναι πολύ κρύα ή πολύ ζεστή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2557,6 +2556,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Personenzähler</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143309Z">
+        <seg>Μετρητής ατόμων</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2618,6 +2620,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programmiere ein Schätzspiel, das die Entfernung zwischen zwei Objekten misst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143419Z">
+        <seg>Προγραμμάτισε ένα παιχνίδι εικασίας που μετρά την απόσταση μεταξύ δύο αντικειμένων.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +2941,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Setze die Programmblöcke in eine sinnvolle Reihenfolge, sodass folgendes Programm ausgeführt wird: &lt;x2/&gt;Dauerhaft erscheint ein „?“ auf der LED-Matrix.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143429Z">
+        <seg>Τοποθέτησε τα μπλοκ προγραμματισμού σε μια λογική σειρά, ώστε να εκτελεστεί το ακόλουθο πρόγραμμα: &lt;x2/&gt;Ένα ";" εμφανίζεται συνεχώς στη μήτρα LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3187,6 +3195,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Tipp: Hier ist die Reihenfolge der verschachtelten Abfrage wichtig.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143146Z">
+        <seg>Συμβουλή: Εδώ είναι σημαντική η σειρά των ένθετων ερωτημάτων.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3244,6 +3255,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ultraschallsensor</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143352Z">
+        <seg>Αισθητήρας υπερήχων</seg>
       </tuv>
     </tu>
     <tu>
@@ -3343,8 +3357,8 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Verwende den Ultraschallsensor, um Entfernungen zu messen.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T142926Z">
-        <seg>Χρησιμοποίησε τον αισθητήρα υπερήχων για να μετρήσεις αποστάσεις.n</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T143336Z">
+        <seg>Χρησιμοποίησε τον αισθητήρα υπερήχων για να μετρήσεις αποστάσεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3380,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verwende die CO2-Platine, um die Luftqualität zu messen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143302Z">
+        <seg>Χρησιμοποίησε την πλακέτα CO2 για να μετρήσεις την ποιότητα του αέρα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3492,6 +3509,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Welche Information erscheint wann und wo?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143228Z">
+        <seg>Ποια πληροφορία εμφανίζεται πότε και πού;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3512,6 +3532,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wenn der Knopf A des Calliope mini gedrückt wird, wird der gemessene Wert des Ultraschallsensors gerundet und in einer Variablen gespeichert.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143432Z">
+        <seg>Όταν πατηθεί το κουμπί A του Calliope mini, η μετρημένη τιμή του αισθητήρα υπερήχων στρογγυλοποιείται και αποθηκεύεται σε μια μεταβλητή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3678,6 +3701,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wird Knopf B gedrückt, wird der Wert der Variablen angezeigt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143437Z">
+        <seg>Όταν πατηθεί το κουμπί B, εμφανίζεται η τιμή της μεταβλητής.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3768,6 +3794,9 @@ c) Αποθήκευσε το πρόγραμμά σου με το όνομα «Ε
     <tu>
       <tuv lang="de-DE">
         <seg>ansonsten</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143231Z">
+        <seg>διαφορετικά</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,6 +3900,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>schätzspiel</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143416Z">
+        <seg>παιχνίδι εικασίας</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,6 +4050,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Übertrage den Programmcode auf deinen Calliope mini, probiere dein Schätzspiel aus und dokumentiere die Ergebnisse in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143441Z">
+        <seg>Μεταφόρεσε τον κώδικα προγράμματος στο Calliope mini σου, δοκίμασε το παιχνίδι εικασίας σου και τεκμηρίωσε τα αποτελέσματα στον πίνακα.</seg>
       </tuv>
     </tu>
     <tu>
