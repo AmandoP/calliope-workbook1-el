@@ -13,11 +13,29 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="de-DE">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122416Z" creationid="amando" creationdate="20260701T122416Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>
 
 </note>
       <tuv lang="de-DE">
         <seg>1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122432Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+
+Please provide the German text you'd like me to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,6 +94,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;x5/&gt;Verwende eine Variable um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122230Z">
+        <seg>Χρησιμοποίησε μια μεταβλητή για να καθορίσεις την ταχύτητα της κίνησής σου και να την προσαρμόσεις εύκολα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +451,9 @@
       <tuv lang="de-DE">
         <seg>Den Inhalt des Rucksacks kannst du ändern und über den Namen des Rucksacks abfragen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122456Z">
+        <seg>Μπορείς να αλλάξεις το περιεχόμενο του σακιδίου και να το ρωτήσεις μέσω του ονόματος του σακιδίου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -714,6 +738,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Eine Variable ist wie ein Rucksack mit Namensschild, den du immer dabei hast und der jederzeit den Inhalt bereithält.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122505Z">
+        <seg>Μια μεταβλητή είναι σαν ένα σακίδιο με ετικέτα ονόματος, που πάντα έχεις μαζί σου και που έχει πάντα το περιεχόμενό του έτοιμο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1539,6 +1566,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Nur durch Testen und Ausprobieren, erfährst du welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmier:innen sind sehr gerne bequem.&lt;x3/&gt;Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern, kannst du&lt;x4/&gt;es dir viel einfacher machen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122238Z">
+        <seg>Μόνο δοκιμάζοντας και πειραματιζόμενος, θα μάθεις ποια ταχύτητα είναι σωστή για σένα. Οι προγραμματιστές είναι πολύ τεμπέληδες. Αντί να αλλάζεις κάθε φορά την ταχύτητα σε κάθε εντολή παύσης, μπορείς να το κάνεις πολύ πιο εύκολα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1714,6 +1744,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variable „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122302Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει, αν η τιμή της μεταβλητής «Tempo» αλλάξει από 1000 σε 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,6 +2436,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>a)	&lt;x2/&gt;Erstelle&lt;x3/&gt; eine Variable und &lt;x4/&gt;	benenne sie „Tempo“.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122327Z">
+        <seg>α) Δημιουργήστε μια μεταβλητή και ονόμασέ την "Tempo".</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2432,6 +2468,11 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>b)	&lt;x2/&gt;Setze&lt;x3/&gt; die Variable „Tempo“ vor deinem&lt;x4/&gt;	Countdown auf den Wert 100.&lt;x5/&gt;c)	&lt;x6/&gt;Ersetze&lt;x7/&gt; die Werte in den Pause Befehlen&lt;x8/&gt;	durch den Variablen Block „Tempo“.&lt;x9/&gt;d)	&lt;x10/&gt;Setze&lt;x11/&gt; den Wert der Variable&lt;x12/&gt;	„Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122343Z">
+        <seg>b) Ορίστε τη μεταβλητή "Tempo" στην τιμή 100 πριν από το Countdown σου.
+c) Αντικατάστησε τις τιμές στις εντολές Pause με το μπλοκ μεταβλητής "Tempo".
+d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2563,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Öffne dein Programm „Raketenstart“ und führe folgende Schritte aus:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122310Z">
+        <seg>Άνοιξε το πρόγραμμά σου "Εκτόξευση Πυραύλου" και ακολούθησε τα παρακάτω βήματα:</seg>
       </tuv>
     </tu>
     <tu>
