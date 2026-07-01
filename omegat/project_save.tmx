@@ -13,14 +13,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="de-DE">
-        <seg>1</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133240Z" creationid="amando" creationdate="20260701T133240Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>
 
 </note>
@@ -40,28 +32,10 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>2</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133442Z" creationid="amando" creationdate="20260701T133248Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of "εσείς/σας".
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T133636Z">
         <seg>2x Κάμψεις γονάτων</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>3</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133256Z" creationid="amando" creationdate="20260701T133256Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,20 +52,6 @@ Please provide the German text you'd like me to translate.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T133628Z">
         <seg>3x Hampelmann διαδοχικά</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>4</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133709Z" creationid="amando" creationdate="20260701T133304Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Keep the language simple and child-friendly
-- Provide translation only, without explanations or additions
-
-Please provide the German text you'd like me to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +706,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Die Knöpfe (Taster) funktionieren, wie die Tasten auf einer Tastatur.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133750Z">
+        <seg>Τα κουμπιά (πλήκτρα) λειτουργούν όπως τα πλήκτρα σε ένα πληκτρολόγιο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1281,6 +1244,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Füge beiden Symbolen noch eine passende Farbe hinzu und teste das Projekt auf deinem Calliope mini.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133831Z">
+        <seg>Πρόσθεσε ένα κατάλληλο χρώμα και στα δύο σύμβολα και δοκίμασε το έργο σου στο Calliope mini.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1352,6 +1318,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Gib den Programmcode korrigiert ein.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133814Z">
+        <seg>Δώσε τον κώδικα του προγράμματος διορθωμένο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1780,6 +1749,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Knöpfe</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133742Z">
+        <seg>Κουμπιά</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1840,10 +1812,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Lasse eine Melodie abspielen,&lt;x2/&gt;wenn Knopf A gedrückt wird.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133928Z">
+        <seg>Παίξε ένα μελωδία,&lt;x2/&gt;όταν πατηθεί το κουμπί A.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Lasse einen Smiley erscheinen, wenn der Knopf A gedrückt wird und einen traurigen Smiley, wenn der Knopf B gedrückt wird.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133823Z">
+        <seg>Κάνε ένα χαμόγελο να εμφανιστεί όταν πατήσεις το κουμπί A και ένα λυπημένο χαμόγελο όταν πατήσεις το κουμπί B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2316,6 +2294,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe, was passiert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133806Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2325,6 +2306,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode genau an.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133839Z">
+        <seg>Κοίταξε προσεκτικά τον κώδικα του προγράμματος.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2399,6 +2383,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schreibe ein Programm für&lt;x2/&gt;„Alle Vögel sind schon da“.&lt;x3/&gt;Hinweis:&lt;x4/&gt; Achte auf die Tonlängen und optimiere dein Programm durch Wiederholungen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133920Z">
+        <seg>Γράψε ένα πρόγραμμα για το "Όλα τα πουλιά είναι ήδη εδώ". Συμβουλή: Προσέχ τη διάρκεια των νοτών και βελτίωσε το πρόγραμμά σου με επαναλήψεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2831,6 +2818,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Warum wird dir niemals ein trauriger Smiley angezeigt?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133847Z">
+        <seg>Γιατί δεν σου εμφανίζεται ποτέ ένα λυπημένο σμάιλι;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2991,6 +2981,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Werden sie gedrückt, senden sie ein Signal an den Calliope mini, um eine vorab programmierte Anweisung auszuführen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133758Z">
+        <seg>Όταν πατηθούν, στέλνουν ένα σήμα στο Calliope mini για να εκτελέσει μια προγραμματισμένη εντολή.</seg>
       </tuv>
     </tu>
     <tu>
