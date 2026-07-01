@@ -249,6 +249,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Aktion</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141442Z">
+        <seg>Ενέργεια</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -373,6 +376,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ausgegeben wird die Lautstärke im Wertebereich 0 - 255.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141453Z">
+        <seg>Η ένταση του ήχου εκδίδεται στο εύρος τιμών 0 - 255.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -421,6 +427,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Bastel dir ein eigenes Smart-Licht: Klatsche in die Hände und das Licht geht an.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141630Z">
+        <seg>Φτιάξε το δικό σου έξυπνο φως: Χτύπα τα χέρια σου και το φως ανάβει.</seg>
       </tuv>
     </tu>
     <tu>
@@ -615,6 +624,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Das Mikrofon ist der Lautstärkesensor des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141347Z">
+        <seg>Το μικρόφωνο είναι ο αισθητήρας έντασης του Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1436,6 +1448,13 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann … ansonsten” Abfrage, um die Aktionen zu steuern.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141558Z">
+        <seg>Προχώρησε βήμα προς βήμα:
+
+a) Δημιούργησε ένα διάγραμμα δομής
+b) Προγραμμάτισε ακολουθώντας το διάγραμμά σου
+c) Χρησιμοποίησε μια ερώτηση «αν τότε … αλλιώς» για να ελέγξεις τις ενέργειες.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1833,6 +1852,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ist diese Bedingung nicht erfüllt, schalte alle LEDs der Matrix aus.&lt;x6/&gt;Ausgabe:&lt;x7/&gt;Alle 25 LEDs der LED-Matrix werden ein- und ausgeschaltet.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141550Z">
+        <seg>Αν δεν ισχύει αυτή η συνθήκη, σβήσε όλα τα LED της μήτρας.&lt;x6/&gt;Έξοδος:&lt;x7/&gt;Και τα 25 LED της μήτρας LED ανάβουν και σβήνουν.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1876,6 +1898,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Jetzt wird es clever!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141612Z">
+        <seg>Τώρα γίνεται έξυπνο!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2185,6 +2210,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Mit dem Lautstärkesensor kann die Umgebungslautstärke gemessen werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141355Z">
+        <seg>Με τον αισθητήρα έντασης ήχου μπορείς να μετρήσεις την ένταση του ήχου γύρω σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2413,6 +2441,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Programmiere einen Lautstärkemesser in MakeCode und übertrage dein Programm auf den Calliope mini.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141420Z">
+        <seg>Προγραμμάτισε έναν μετρητή έντασης ήχου στο MakeCode και μεταφόρτωσε το πρόγραμμά σου στο Calliope mini.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2509,6 +2540,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe, was passiert, wenn die gemessene Lautstärke 10 oder 30 ist.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141412Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει, όταν ο μετρημένος ήχος είναι 10 ή 30.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2604,6 +2638,15 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schreibe ein Programm für eine Lampe, die durch „in die Hände klatschen” angeschaltet wird und nach 5 Sekunden automatisch wieder ausgeht.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Das Mikrofon (Lautstärkesensor) misst die Umgebungslautstärke.&lt;x4/&gt;Verarbeitung: &lt;x5/&gt;Ist der Wert der Lautstärke größer als 20, schalte alle LEDs der Matrix an und pausiere für 5 Sekunden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141542Z">
+        <seg>Γράψε ένα πρόγραμμα για ένα φως που ανάβει όταν χτυπάς τα χέρια σου και σβήνει αυτόματα μετά από 5 δευτερόλεπτα.
+
+Είσοδος:
+Το μικρόφωνο (αισθητήρας έντασης) μετράει την ένταση του ήχου γύρω σου.
+
+Επεξεργασία:
+Αν η τιμή της έντασης είναι μεγαλύτερη από 20, άναψε όλα τα LED της μήτρας και περίμενε 5 δευτερόλεπτα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2784,6 +2827,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Suche dir einen kleinen Karton, in den der Calliope mini hineinpasst.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141639Z">
+        <seg>Βρες ένα μικρό κουτί που να χωράει το Calliope mini μέσα του.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2804,6 +2850,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Taste dich an den Wert der dich umgebenen Lautstärke heran, indem du eine Abfrage erstellst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141404Z">
+        <seg>Πλησίασε την τιμή της έντασης του ήχου που σε περιβάλλει δημιουργώντας μια ερώτηση.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2836,6 +2885,11 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Teste im Simulator.&lt;x2/&gt;Du kannst die Lautstärke mit dem Regler selbst verstellen und so das Programmverhalten bei unterschiedlichen Lärmpegeln testen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141621Z">
+        <seg>Δοκίμασε στον προσομοιωτή.
+
+Μπορείς να ρυθμίσεις την ένταση με το ρυθμιστικό και να δοκιμάσεις πώς λειτουργεί το πρόγραμμα σε διαφορετικά επίπεδα θορύβου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2848,6 +2902,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Teste verschiedene Geräusche und dokumentiere die Lautstärke in der Tabelle.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141428Z">
+        <seg>Δοκίμασε διάφορα ήχους και σημείωσε την ένταση στον πίνακα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3111,6 +3168,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Was fällt dir noch ein?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141509Z">
+        <seg>Τι άλλο σκέφτεσαι;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3250,6 +3310,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wert</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141501Z">
+        <seg>Αξία</seg>
       </tuv>
     </tu>
     <tu>
@@ -3545,6 +3608,14 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>smart-licht</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141533Z" creationid="amando" creationdate="20260701T141533Z">
+        <seg>έξυπνο φως</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>symbole und muster</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T122618Z">
@@ -3648,6 +3719,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>Übertrage dein Programm auf den Calliope mini und probiere es aus.&lt;x2/&gt;Um das Licht besser zu streuen, kannst du dein Smart-Licht auch in eine transparente Frühstücksbrottüte legen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141606Z">
+        <seg>Μεταφόρησε το πρόγραμμά σου στο Calliope mini και δοκίμασέ το.&lt;x2/&gt;Για να διασκορπίσεις καλύτερα το φως, μπορείς να βάλεις το έξυπνο φως σου σε μια διαφανή σακούλα ψωμιού του πρωινού.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3712,6 +3786,11 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>• Klatschen&lt;x2/&gt;• Musik&lt;x3/&gt;• Trampeln</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141517Z">
+        <seg>• Χτύπημα των χεριών&lt;x2/&gt;
+• Μουσική&lt;x3/&gt;
+• Πάτημα των ποδιών</seg>
       </tuv>
     </tu>
     <tu>
