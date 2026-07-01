@@ -845,6 +845,9 @@
       <tuv lang="de-DE">
         <seg>Erstelle folgende Programme in MakeCode:</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T121705Z">
+        <seg>Δημιούργησε τα ακόλουθα προγράμματα στο MakeCode:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1030,6 +1033,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Hier ist etwas durcheinander geraten.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T121747Z">
+        <seg>Κάτι μπέρδεψε εδώ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1670,6 +1676,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Raketenstart</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T121725Z">
+        <seg>Εκτόξευση Πυραύλου</seg>
       </tuv>
     </tu>
     <tu>
