@@ -675,8 +675,8 @@
       <tuv lang="de-DE">
         <seg>Einfach anschließen und den CO2 Gehalt, die Temperatur und die Luftfeuchtigkeit messen.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260625T154110Z">
-        <seg>Απλά συνδέστε τη συσκευή και μετρήστε τα επίπεδα CO2, τη θερμοκρασία και την υγρασία.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T105545Z">
+        <seg>Συνδέεις εύκολα και μετράς την ποσότητα CO2, τη θερμοκρασία και την υγρασία του αέρα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1416,8 @@
       <tuv lang="de-DE">
         <seg>Mit der CO2-Platine lassen sich drei unterschiedliche Werte messen.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260625T154107Z">
-        <seg>Με την πλακέτα CO2 μπορούν να μετρηθούν τρεις διαφορετικές τιμές.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T105608Z">
+        <seg>Με την πλακέτα CO2 μπορείς να μετράς τρία διαφορετικά μεγέθη.</seg>
       </tuv>
     </tu>
     <tu>
