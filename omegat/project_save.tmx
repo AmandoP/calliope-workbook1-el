@@ -60,6 +60,23 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122521Z" creationid="amando" creationdate="20260701T122521Z">
+        <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
+
+Please provide the German text you'd like me to translate. I will:
+- Translate ONLY the given text
+- Use simple, child-friendly language
+- Use εσύ/σου/σε (informal singular "you")
+- NEVER use εσείς/σας
+- Provide translation only, no explanations or additions
+
+Waiting for your text to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
     </tu>
@@ -1495,6 +1512,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Mit Hilfe der Sensoren kann der Calliope mini unterschiedlichste Werte aus der Umgebung messen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122610Z">
+        <seg>Με τη βοήθεια των αισθητήρων, το Calliope mini μπορεί να μετρήσει πολλές διαφορετικές τιμές από το περιβάλλον.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1866,6 +1886,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Sensoren sind wie Sinne.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122545Z">
+        <seg>Οι αισθητήρες είναι σαν τις αισθήσεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2380,6 +2403,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wie sieht deine Rakete aus oder ein Gespenst?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122634Z">
+        <seg>Πώς μοιάζει το δικό σου πύραυλος ή ένα φάντασμα;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2548,6 +2574,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>symbole und muster</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122618Z">
+        <seg>σύμβολα και μοτίβα</seg>
       </tuv>
     </tu>
     <tu>
