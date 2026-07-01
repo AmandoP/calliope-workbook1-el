@@ -32,13 +32,8 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124521Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Translate ONLY the given text without additions or explanations
-- Provide translation output only
+      <tuv lang="el" changeid="amando" changedate="20260701T125039Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -52,14 +47,8 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>3</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124651Z" creationid="amando" creationdate="20260701T123145Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Keep the language simple and child-friendly
-- Provide translation only, without explanations or additions
-
-Please provide the German text you'd like me to translate.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T125120Z" creationid="amando" creationdate="20260701T123145Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79,12 +68,13 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>4</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124707Z" creationid="amando" creationdate="20260701T123452Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T125128Z" creationid="amando" creationdate="20260701T123452Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Keep the language simple and child-friendly
-- Provide translation only, without explanations or additions
+- Use only "εσύ/σου/σε" (informal you)
+- Keep language simple and child-friendly
+- Translate ONLY the given text without additions or explanations
+- Provide translation output only
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -660,6 +650,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Der Programmbereich kann auch als Bühne angesehen werden, hier entwickelst du dein Programm, in dem du die einzelnen Programmblöcke platzierst.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124950Z">
+        <seg>Η περιοχή του προγράμματος μπορεί να θεωρηθεί και ως σκηνή, εδώ δημιουργείς το πρόγραμμά σου, τοποθετώντας τα επιμέρους μπλοκ προγράμματος.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -776,6 +769,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Dort steht rechts neben dem USB-Anschluss die Versionsnummer.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125056Z">
+        <seg>Εκεί γράφει δεξιά δίπλα στη σύνδεση USB ο αριθμός έκδοσης.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -837,6 +833,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Du kannst jederzeit die Version anpassen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124934Z">
+        <seg>Μπορείς να προσαρμόσεις τη έκδοση ανά πάσα στιγμή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,6 +909,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ein neues Projekt starten&lt;x2/&gt;Klicke auf die türkise Schaltfläche mit dem großen „+“ Zeichen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125015Z">
+        <seg>Ξεκίνησε ένα νέο έργο&lt;x2/&gt;Κάνε κλικ στο τιρκουάζ κουμπί με το μεγάλο σύμβολο „+".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1297,6 +1299,10 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Hardware auswählen&lt;x2/&gt;Wähle zu Beginn eines neuen Projekts deine Calliope mini Version aus.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125031Z">
+        <seg>Επιλογή υλικού
+Στην αρχή ενός νέου έργου, επίλεξε την έκδοση Calliope mini που έχεις.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1384,6 +1390,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hinweis:&lt;x2/&gt; Stelle sicher, dass du deine Calliope mini Version im Simulator siehst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124926Z">
+        <seg>Σημείωση:&lt;x2/&gt; Βεβαιώσου ότι βλέπεις την έκδοση της Calliope mini σου στον προσομοιωτή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,6 +1517,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Im Simulator kannst du die Programme direkt testen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124958Z">
+        <seg>Στο προσομοιωτή μπορείς να δοκιμάσεις τα προγράμματα απευθείας.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1645,6 +1657,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Klicke dazu auf die drei Punkte neben „Herunterladen“ und drücke „Hardware auswählen“.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124942Z">
+        <seg>Κάνε κλικ στις τρεις τελείες δίπλα στο "Λήψη" και πάτησε "Επιλογή υλικού".</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1779,6 +1794,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Mache einen Plan.&lt;x2/&gt;2) Setze dein Programm aus den einzelnen Programmblöcken zusammen.&lt;x3/&gt;3) Überprüfe dein Programm im Simulator.&lt;x4/&gt;4) Übertrage dein Programm auf den Calliope mini.&lt;x5/&gt;5) Führe dein Programm auf dem Calliope mini aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125153Z">
+        <seg>Κάνε ένα σχέδιο.&lt;x2/&gt;2) Συναρμολόγησε το πρόγραμμά σου από τα επιμέρους μπλοκ προγράμματος.&lt;x3/&gt;3) Ελέγξε το πρόγραμμά σου στον προσομοιωτή.&lt;x4/&gt;4) Μεταφέρ το πρόγραμμά σου στο Calliope mini.&lt;x5/&gt;5) Εκτέλεσε το πρόγραμμά σου στο Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2092,10 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Projekt benennen&lt;x2/&gt;Gib einen passenden Namen ein und klicke auf „Erstelle“.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125023Z">
+        <seg>Ονόμασε το έργο
+Δώσε ένα κατάλληλο όνομα και κάνε κλικ στο "Δημιουργία".</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2323,6 +2345,17 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Starte mit einem neuen Projekt und schau dir die Oberfläche genau an.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125007Z">
+        <seg>Ξεκίνησε ένα νέο έργο και παρατήρησε προσεκτικά τη διεπαφή.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Starten</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125201Z" creationid="amando" creationdate="20260701T125201Z">
+        <seg>Ξεκίνησε</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2426,10 +2459,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Tipp: &lt;x2/&gt;Die Version deines Calliope mini erkennst du am Aufdruck auf der Rückseite.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125047Z">
+        <seg>Συμβουλή: &lt;x2/&gt;Την έκδοση του Calliope mini σου αναγνωρίζεις από την επιγραφή στο πίσω μέρος.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Tipp: &lt;x2/&gt;Teile dein Programm bereits in der Planung in kleine Schritte auf.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125209Z">
+        <seg>Συμβουλή: &lt;x2/&gt;Χώρισε το πρόγραμμά σου σε μικρά βήματα ήδη κατά την προγραμματισμό.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,6 +3101,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Überprüfe die einzelnen Schritte jeweils im Simulator, verbessere dein Programm und teste es erneut auf dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125217Z">
+        <seg>Έλεγξε κάθε βήμα στο πρόγραμμα προσομοίωσης, βελτίωσε το πρόγραμμά σου και δοκίμασέ το ξανά στο Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
