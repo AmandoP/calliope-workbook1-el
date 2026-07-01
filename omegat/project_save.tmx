@@ -347,6 +347,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Auf der Rückseite kannst du dann den Calliope mini mit einem Klebestreifen oder Gummiband befestigen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142025Z">
+        <seg>Στην πίσω πλευρά μπορείς να στερεώσεις το Calliope mini με ένα κομμάτι σελοτέιπ ή ένα λαστιχάκι.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -417,6 +420,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Bastel dir ein eigenes Eis-Thermometer.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142011Z">
+        <seg>Φτιάξε το δικό σου θερμόμετρο παγωτού.</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,6 +583,14 @@ Please provide the German text you'd like me to translate.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T114217Z">
         <seg>Λειτουργία Bluetooth της Calliope mini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142114Z" creationid="amando" creationdate="20260701T142114Z">
+        <seg>Δ</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,6 +808,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der integrierte Lagesensor des Calliope mini misst, in welcher Position sich der Calliope mini befindet.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142044Z">
+        <seg>Ο ενσωματωμένος αισθητήρας θέσης του Calliope mini μετρά σε ποια θέση βρίσκεται το Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,6 +1193,11 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Er kann auch feststellen, ob der Calliope mini geschüttelt wird.&lt;x2/&gt;Einen Lagesensor kennst du von einem Handy.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142052Z">
+        <seg>Μπορεί επίσης να ανιχνεύσει αν το Calliope mini κουνιέται.
+
+Γνωρίζεις έναν αισθητήρα θέσης από ένα κινητό τηλέφωνο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1496,6 +1518,10 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Schau dir den Programmcode an und beschreibe was passiert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142212Z">
+        <seg>Πήγαινε βήμα προς βήμα:
+α) Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1516,6 +1542,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
     <tu>
       <tuv lang="de-DE">
         <seg>Gewinnen wir das nächste Hockeyturnier, ist Flynn verliebt in mich oder darf ich heute Abend am Computer spielen?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142230Z">
+        <seg>Θα κερδίσουμε το επόμενο τουρνουά χόκεϊ, είναι ο Φλιν ερωτευμένος μαζί μου ή μπορώ να παίξω στον υπολογιστή απόψε;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1695,6 +1724,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
     <tu>
       <tuv lang="de-DE">
         <seg>Hitzefrei!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141946Z">
+        <seg>Ελεύθερος από τη ζέστη!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2029,6 +2061,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Lage</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142035Z">
+        <seg>Θέση</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2181,6 +2216,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Manche Antworten musst du sofort wissen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142238Z">
+        <seg>Μερικές απαντήσεις πρέπει να τις ξέρεις αμέσως.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2383,6 +2421,14 @@ Calliope gGmbH</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>Orakel</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142222Z" creationid="amando" creationdate="20260701T142222Z">
+        <seg>Μάντης</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>Ordne die Bauteile des Calliope mini den unterschiedlichen Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt;, &lt;x4/&gt;Verarbeitung&lt;x5/&gt; und &lt;x6/&gt;Ausgabe&lt;x7/&gt; zu, indem du sie mit Linien verbindest.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T124003Z">
@@ -2418,6 +2464,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Pause die Schablone ab oder male eine eigene Eisform und verziere die Vorderseite.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142019Z">
+        <seg>Αντιγράφησε το πρότυπο ή ζωγράφισε δικό σου σχήμα παγωτού και διακόσμησε το μπροστινό μέρος.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,6 +2548,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programmiere und teste die folgenden Eingaben mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142124Z">
+        <seg>Προγραμμάτισε και δοκίμασε τις ακόλουθες εισόδους με το Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2617,6 +2669,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schau dir die Programme an, beschreibe was passiert und überprüfe deine Vermutung mit dem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142106Z">
+        <seg>Κοίταξε τα προγράμματα, περίγραψε τι συμβαίνει και έλεγχος την υπόθεσή σου με το Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2951,6 +3006,11 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Teste im Simulator.&lt;x2/&gt;Beschreibe, was bei einer Temperatur von 22°C und von 33°C passiert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142002Z">
+        <seg>Δοκίμασε στον προσομοιωτή.
+
+Περίγραψε τι συμβαίνει σε θερμοκρασία 22°C και σε θερμοκρασία 33°C.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3027,6 +3087,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Tipp: Wenn du sichergehen möchtest, dass deine Hitzefrei- Warnung bemerkt wird, lasse noch einen Ton ertönen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141953Z">
+        <seg>Συμβουλή: Αν θέλεις να είσαι σίγουρος ότι η προειδοποίηση υπερθέρμανσης θα παρατηρηθεί, άφησε να ηχήσει ένας ήχος.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3047,6 +3110,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Gib „zufall“ in die Suche ein, um den Block leicht zu finden!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142149Z">
+        <seg>Συμβουλή:&lt;x2/&gt; Πληκτρολόγησε "zufall" στην αναζήτηση για να βρεις εύκολα το μπλοκ!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,6 +3226,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verwandle im nächsten Schritt deinen Calliope mini in einen Würfel.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142131Z">
+        <seg>Μετατρέψε τον Calliope mini σου σε ένα ζάρι στο επόμενο βήμα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,6 +3678,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>b) Übertrage den Programmcode in MakeCode.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142205Z">
+        <seg>β) Μεταφέρε τον κώδικα του προγράμματος στο MakeCode.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3621,6 +3693,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>c) Ersetze die „1“ durch den Block „zufällige Zahl zwischen 0 -10“.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142157Z">
+        <seg>c) Αντικατάστησε το "1" με το μπλοκ "τυχαίος αριθμός μεταξύ 0 - 10".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,6 +3711,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142141Z">
+        <seg>d) Μεταφέρ το πρόγραμμά σου στο Calliope mini και δοκίμασέ το.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,6 +3782,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Änderst du die Haltung oder legst es hin, verändert sich die Anzeige auf dem Display.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142100Z">
+        <seg>Αν αλλάξεις τη στάση ή το βάλεις κάτω, η εμφάνιση στην οθόνη αλλάζει.</seg>
       </tuv>
     </tu>
     <tu>
