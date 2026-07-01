@@ -32,13 +32,8 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123136Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Never use "εσείς/σας" (formal/plural "you")
-- Keep the language simple and child-friendly
-- Provide only the translation without additions or explanations
+      <tuv lang="el" changeid="amando" changedate="20260701T123857Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -302,6 +297,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Auf dem Monitor ...</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123825Z">
+        <seg>Στην οθόνη ...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -311,6 +309,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Aus dem Lautsprecher ...</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123833Z">
+        <seg>Από το ηχείο ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -449,6 +450,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Betrachte deinen Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123930Z">
+        <seg>Κοίταξε το Calliope mini σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +610,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der Computer ...</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123800Z">
+        <seg>Ο υπολογιστής ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1169,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Geschrieben wird ...</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123816Z">
+        <seg>Γράφεται ...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1255,6 +1265,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hier siehst du eine Abbildung des Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123946Z">
+        <seg>Εδώ βλέπεις μια εικόνα του Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1767,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Mit der Maus ...</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123808Z">
+        <seg>Με το ποντίκι ...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1822,15 +1838,26 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Ordne die Bauteile des Calliope mini den unterschiedlichen Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt;, &lt;x4/&gt;Verarbeitung&lt;x5/&gt; und &lt;x6/&gt;Ausgabe&lt;x7/&gt; zu, indem du sie mit Linien verbindest.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124003Z">
+        <seg>Κατέταξε τα εξαρτήματα του Calliope mini στις διαφορετικές κατηγορίες &lt;x2/&gt;Είσοδος&lt;x3/&gt;, &lt;x4/&gt;Επεξεργασία&lt;x5/&gt; και &lt;x6/&gt;Έξοδος&lt;x7/&gt; συνδέοντάς τα με γραμμές.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ordne die Begriffe zu und schreibe sie an die Linien.&lt;x2/&gt;Computer, Monitor, Tastatur, Maus, Lautsprecher</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123727Z">
+        <seg>Αντιστοίχισε τις έννοιες και γράψε τις στις γραμμές.
+
+Υπολογιστής, Οθόνη, Πληκτρολόγιο, Ποντίκι, Ηχείο</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ordne die einzelnen Teile den Kategorien &lt;x2/&gt;Eingabe&lt;x3/&gt; &lt;x4/&gt;(pink)&lt;x5/&gt;, &lt;x6/&gt;Verarbeitung&lt;x7/&gt; &lt;x8/&gt;(grün) oder &lt;x9/&gt;Ausgabe&lt;x10/&gt; &lt;x11/&gt;(türkis)&lt;x12/&gt; zu, indem du sie mit der passenden Farbe einkreist.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123736Z">
+        <seg>Κατέταξε τα επιμέρους μέρη στις κατηγορίες &lt;x2/&gt;Είσοδος&lt;x3/&gt; &lt;x4/&gt;(ροζ)&lt;x5/&gt;, &lt;x6/&gt;Επεξεργασία&lt;x7/&gt; &lt;x8/&gt;(πράσινο) ή &lt;x9/&gt;Έξοδος&lt;x10/&gt; &lt;x11/&gt;(τυρκουάζ)&lt;x12/&gt; κυκλώνοντάς τα με το κατάλληλο χρώμα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2095,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schreibe sie auf.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123752Z">
+        <seg>Γράψε τα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2199,6 +2229,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Tasten</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124019Z">
+        <seg>Κουμπιά</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2306,6 +2339,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Touch-Pins</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124011Z">
+        <seg>Αφής-Ακίδες</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2346,6 +2382,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verbinde die Bezeichnungen mit den einzelnen Bauteilen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123954Z">
+        <seg>Σύνδεσε τις ονομασίες με τα επιμέρους εξαρτήματα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2547,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Welche Funktionen haben die einzelnen Teile?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123744Z">
+        <seg>Ποιες είναι οι λειτουργίες των επιμέρους μερών;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2517,6 +2559,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Welche Teile kennst du?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123719Z">
+        <seg>Ποια μέρη γνωρίζεις;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,6 +2585,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wenn du genau hinsiehst, kannst du verschiedene Symbole erkennen, die dir Hinweise zu Bauteilen geben.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123938Z">
+        <seg>Αν κοιτάξεις προσεκτικά, μπορείς να δεις διάφορα σύμβολα που σου δίνουν υποδείξεις για τα εξαρτήματα.</seg>
       </tuv>
     </tu>
     <tu>
