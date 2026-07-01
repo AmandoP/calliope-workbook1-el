@@ -13,14 +13,6 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="de-DE">
-        <seg>1</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T122416Z" creationid="amando" creationdate="20260701T122416Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <note>
 
 </note>
@@ -30,25 +22,7 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>2</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T130011Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook. Please provide the text you'd like me to translate.
-
-Remember: I will translate ONLY the given text, using simple child-friendly language, with εσύ/σου/σε (informal singular) instead of εσείς/σας.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>3</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125120Z" creationid="amando" creationdate="20260701T123145Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,35 +36,6 @@ Remember: I will translate ONLY the given text, using simple child-friendly lang
     <tu>
       <tuv lang="de-DE">
         <seg>3x Hampelmann hintereinander</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>4</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125128Z" creationid="amando" creationdate="20260701T123452Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Translate ONLY the given text without additions or explanations
-- Provide translation output only
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>5</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124213Z" creationid="amando" creationdate="20260701T123500Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Provide translation only, no additions or explanations
-
-Please provide the German text you'd like me to translate.</seg>
       </tuv>
     </tu>
     <tu>
