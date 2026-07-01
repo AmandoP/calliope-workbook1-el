@@ -81,6 +81,9 @@
       <tuv lang="de-DE">
         <seg>&lt;x4/&gt;Verwende eine Variable, um die Geschwindigkeit deiner Animation zu bestimmen und bequem anzupassen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133045Z">
+        <seg>Χρησιμοποίησε μια μεταβλητή για να καθορίσεις την ταχύτητα της κίνησής σου και να την προσαρμόσεις εύκολα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -188,6 +191,9 @@
       <tuv lang="de-DE">
         <seg>Anstatt immer wieder in jedem Pause Befehl die Geschwindigkeit zu ändern,&lt;x3/&gt;kannst du es dir viel einfacher machen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133042Z">
+        <seg>Αντί να αλλάζεις την ταχύτητα κάθε φορά σε κάθε εντολή παύσης, μπορείς να το κάνεις πολύ πιο εύκολα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -205,6 +211,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Anweisung</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T132842Z">
+        <seg>Οδηγία</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +235,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Auf Seite 58 findest du eine Anleitung, wie du mit einem mobilen Gerät programmierst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133008Z">
+        <seg>Στη σελίδα 58 θα βρεις οδηγίες για το πώς προγραμματίζεις με μια φορητή συσκευή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +902,9 @@
       <tuv lang="de-DE">
         <seg>Eine RGB-LED kann in ganz unterschiedlichen Farben leuchten.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133116Z">
+        <seg>Ένα RGB LED μπορεί να ανάψει σε πολλά διαφορετικά χρώματα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -933,6 +948,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Entscheidung/Abfrage</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T132845Z">
+        <seg>Απόφαση/Ερώτηση</seg>
       </tuv>
     </tu>
     <tu>
@@ -1791,6 +1809,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Macht der Hund&lt;x2/&gt;„Sitz“?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T132901Z">
+        <seg>Κάνει το σκυλί «Κάθισε»;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1911,6 +1932,11 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Nur durch Testen und Ausprobieren erfährst du, welche Geschwindigkeit die richtige für dich ist.&lt;x2/&gt;Programmiererinnen und Programmierer sind sehr gerne bequem.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133038Z">
+        <seg>Μόνο δοκιμάζοντας και πειραματιζόμενος θα ανακαλύψεις ποια ταχύτητα είναι σωστή για σένα.
+
+Οι προγραμματιστές και οι προγραμματίστριες είναι πολύ άνετοι.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,6 +2162,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schau dir den Programmcode an und beschreibe was passiert, wenn der Wert der Variablen „Tempo“ von 1000 auf 500 geändert wird.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133048Z">
+        <seg>Κοίταξε τον κώδικα του προγράμματος και περίγραψε τι συμβαίνει, όταν η τιμή της μεταβλητής "Tempo" αλλάξει από 1000 σε 500.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2955,6 +2984,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>a) Erstelle eine Variable und benenne sie „Tempo“.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133057Z">
+        <seg>α) Δημιούργησε μια μεταβλητή και ονόμασέ την "Tempo".</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2999,6 +3031,13 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>b) Setze die Variable „Tempo“ vor deinem Countdown auf den Wert 100.&lt;x2/&gt;c) Ersetze die Werte in den Pause Befehlen durch den Variablen Block „Tempo“.&lt;x3/&gt;d) Setze den Wert der Variable „Tempo“ auf 500.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133103Z">
+        <seg>b) Ορίστε τη μεταβλητή "Tempo" στην τιμή 100 πριν από το αντίστροφη μέτρηση.
+
+c) Αντικατάστησε τις τιμές στις εντολές παύσης με το μπλοκ μεταβλητής "Tempo".
+
+d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.</seg>
       </tuv>
     </tu>
     <tu>
