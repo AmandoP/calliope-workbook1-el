@@ -89,6 +89,9 @@
       <tuv lang="de-DE">
         <seg>Abfragen&lt;x1/&gt;(ein-/zweifach)</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113840Z">
+        <seg>Ερωτήσεις&lt;x1/&gt;(απλή/διπλή)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -161,6 +164,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Anweisungen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113829Z">
+        <seg>Οδηγίες</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,6 +982,9 @@
       <tuv lang="de-DE">
         <seg>Hier ist Platz für dein Struktogramm:</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113819Z">
+        <seg>Εδώ είναι χώρος για το δικό σου δομόγραμμα:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1126,8 +1135,8 @@
       <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T112402Z">
-        <seg>Εισάγαγε τα απαραίτητα μπλοκ προγραμματισμού:&lt;x2/&gt;Αισθητήρας CO2-SCD40</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T113701Z">
+        <seg>Εισάγαγε τα απαραίτητα μπλοκ προγράμματος:&lt;x2/&gt;CO2-Sensor-SCD40</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1337,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Luftqualität</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113758Z">
+        <seg>Ποιότητα αέρα</seg>
       </tuv>
     </tu>
     <tu>
@@ -1677,6 +1689,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Schleifen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113833Z">
+        <seg>Βρόχοι</seg>
       </tuv>
     </tu>
     <tu>
@@ -2189,8 +2204,8 @@
       <tuv lang="de-DE">
         <seg>Wichtige Blöcke:</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T112437Z">
-        <seg>Σημαντικά Μπλοκ:</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T113746Z">
+        <seg>Σημαντικά μπλοκ:</seg>
       </tuv>
     </tu>
     <tu>
