@@ -22,16 +22,6 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>10</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133612Z" creationid="amando" creationdate="20260701T133612Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of "εσείς/σας".
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T133636Z">
@@ -2557,6 +2547,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Pflanzen brauchen &lt;x2/&gt;Wasser, Sonnenlicht&lt;x3/&gt; und auch die richtige &lt;x4/&gt;Temperatur&lt;x5/&gt; spielt eine wichtige Rolle.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T144029Z">
+        <seg>Τα φυτά χρειάζονται νερό, ηλιακό φως και η σωστή θερμοκρασία παίζει επίσης σημαντικό ρόλο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2621,6 +2614,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programmiere eine Pflanzenstation, die dir hilft, die Pflanzen im Klassenzimmer bestmöglich zu versorgen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143939Z">
+        <seg>Προγραμμάτισε ένα σταθμό φυτών που σε βοηθά να φροντίζεις τα φυτά στην τάξη με τον καλύτερο τρόπο.</seg>
       </tuv>
     </tu>
     <tu>
