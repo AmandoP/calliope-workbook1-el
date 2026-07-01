@@ -8,6 +8,9 @@
       <tuv lang="de-DE">
         <seg>(parts per million)&lt;x2/&gt;Teilchen in Millionen</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T112533Z">
+        <seg>(parts per million)&lt;x2/&gt;Σωματίδια ανά εκατομμύριο</seg>
+      </tuv>
     </tu>
     <tu>
       <note>
@@ -1607,6 +1610,9 @@
       <tuv lang="de-DE">
         <seg>Relative Humidity&lt;x2/&gt;relative Luftfeuchtigkeit</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T112504Z">
+        <seg>Relarive Humidity&lt;x2/&gt;Σχετική Υγρασία</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2182,6 +2188,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Wichtige Blöcke:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T112437Z">
+        <seg>Σημαντικά Μπλοκ:</seg>
       </tuv>
     </tu>
     <tu>
