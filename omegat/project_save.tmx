@@ -30,10 +30,20 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133612Z" creationid="amando" creationdate="20260701T133612Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of "εσείς/σας".
+
+Please provide the German text you'd like me to translate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133248Z" creationid="amando" creationdate="20260701T133248Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+      <tuv lang="el" changeid="amando" changedate="20260701T133442Z" creationid="amando" creationdate="20260701T133248Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of "εσείς/σας".
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -41,6 +51,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133636Z">
+        <seg>2x Κάμψεις γονάτων</seg>
       </tuv>
     </tu>
     <tu>
@@ -63,18 +76,20 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>3x Hampelmann hintereinander</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133628Z">
+        <seg>3x Hampelmann διαδοχικά</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>4</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T133304Z" creationid="amando" creationdate="20260701T133304Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T133709Z" creationid="amando" creationdate="20260701T133304Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Provide translation only, no explanations
-- Wait for the German text to translate
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Keep the language simple and child-friendly
+- Provide translation only, without explanations or additions
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -183,15 +198,24 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Abfragen&lt;x2/&gt;(ein-/zweifach)</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133507Z">
+        <seg>Ερωτήσεις (απλές/διπλές)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Abfragen&lt;x2/&gt;(mehrfach)</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133515Z">
+        <seg>Ερωτήσεις (πολλαπλές)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Abschluss mit einem Strecksprung</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133645Z">
+        <seg>Τερματισμός με ένα άλμα επέκτασης</seg>
       </tuv>
     </tu>
     <tu>
@@ -581,6 +605,24 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Definiere 5 Farben und ordne jeder Farbe eine Fitnessübung zu - zum Beispiel Kniebeugen, Strecksprung, Hampelmann etc.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133725Z">
+        <seg># 5 Χρώματα και Ασκήσεις Γυμναστικής
+
+**Κόκκινο** - Κάθισμα (Squats)
+Κάνε κάθισμα 10 φορές!
+
+**Μπλε** - Άλμα (Jumping Jacks)
+Κάνε 15 άλματα!
+
+**Πράσινο** - Τρέξιμο στη Θέση (Running in Place)
+Τρέξε για 20 δευτερόλεπτα!
+
+**Κίτρινο** - Κάμψη Κορμού (Sit-ups)
+Κάνε 8 κάμψεις!
+
+**Πορτοκαλί** - Σανίδα (Plank)
+Κράτησε τη θέση για 15 δευτερόλεπτα!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1081,6 +1123,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Erstelle ein Fitnessprogramm!</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133717Z">
+        <seg>Δημιούργησε ένα πρόγραμμα γυμναστικής!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1108,6 +1153,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle ein Struktogramm und beachte bei deinem Fitnessprogramm folgende Vorgaben:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133547Z">
+        <seg>Δημιούργησε ένα δομόγραμμα και λάβε υπόψη στο πρόγραμμα γυμναστικής σου τις ακόλουθες προδιαγραφές:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,6 +1243,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Fitness Training</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133539Z">
+        <seg>Εκπαίδευση Φυσικής Κατάστασης</seg>
       </tuv>
     </tu>
     <tu>
@@ -1356,6 +1407,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hier hast du Platz für die Struktogramme von Aufgabe 2 und 3.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133434Z">
+        <seg>Εδώ έχεις χώρο για τα διαγράμματα δομής των ασκήσεων 2 και 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2049,6 +2103,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Optimiere dein Programm, indem du Wiederholungen erkennst und Wiederholungsschleifen verwendest, anstatt den gleichen Befehl mehrmals hintereinander abzubilden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133556Z">
+        <seg>Βελτίωσε το πρόγραμμά σου αναγνωρίζοντας επαναλήψεις και χρησιμοποιώντας βρόχους επανάληψης, αντί να γράφεις την ίδια εντολή πολλές φορές στη σειρά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2122,6 +2179,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programmiere anhand deines&lt;x2/&gt;Struktogramms.&lt;x3/&gt;Hinweis: &lt;x4/&gt;Benutze die Wiederholungsschleife aus der Kategorie „Schleifen“.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133604Z">
+        <seg>Προγραμμάτισε σύμφωνα με το διάγραμμά σου. Υπόδειξη: Χρησιμοποίησε τον βρόχο επανάληψης από την κατηγορία "Βρόχοι".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3315,6 +3375,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Übungen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T133620Z">
+        <seg>Ασκήσεις</seg>
       </tuv>
     </tu>
     <tu>
