@@ -40,24 +40,6 @@
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>6</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123509Z" creationid="amando" creationdate="20260701T123509Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>7</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123517Z" creationid="amando" creationdate="20260701T123517Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>9cm</seg>
       </tuv>
     </tu>
@@ -929,16 +911,8 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Eingabe</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124221Z">
-        <seg>I'm ready to translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook for children (age 8-12).
-
-Please provide the German text you'd like me to translate. I will:
-- Translate ONLY the given text
-- Use simple, child-friendly language
-- Use εσύ/σου/σε (informal "you") instead of εσείς/σας
-- Provide translation only, without explanations or additions
-
-Waiting for your text...</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T132825Z" creationid="amando" creationdate="20260701T132825Z">
+        <seg>Εισαγωγή</seg>
       </tuv>
     </tu>
     <tu>
