@@ -467,6 +467,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Befestige zwei Gummibänder an&lt;x2/&gt;Pin P0 und P3 deines Calliope mini.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141711Z">
+        <seg>Στερέωσε δύο λαστιχάκια στις θέσεις P0 και P3 του Calliope mini σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -511,6 +514,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Benutze dafür am besten Klebeband.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141703Z">
+        <seg>Χρησιμοποίησε γι' αυτό καλύτερα κολλητική ταινία.</seg>
       </tuv>
     </tu>
     <tu>
@@ -773,6 +779,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Der Temperatursensor des Calliope mini&lt;x2/&gt;ist im Prozessor integriert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141808Z">
+        <seg>Ο αισθητήρας θερμοκρασίας του Calliope mini είναι ενσωματωμένος στον επεξεργαστή.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -844,6 +853,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Die LED-Matrix kannst du jetzt durch das Fenster sehen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141728Z">
+        <seg>Τώρα μπορείς να δεις τη μήτρα LED μέσα από το παράθυρο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -863,6 +875,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Die Temperatur wird in Grad Celsius (°C)&lt;x2/&gt;angegeben.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141849Z">
+        <seg>Η θερμοκρασία δίνεται σε βαθμούς Κελσίου (°C).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1124,6 +1139,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Eis-Thermometer</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141922Z">
+        <seg>Θερμόμετρο Πάγου</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1243,6 +1261,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Erstelle ein Programm, das dauerhaft die Temperatur misst und diese über die LED-Matrix ausgibt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141825Z">
+        <seg>Δημιούργησε ένα πρόγραμμα που μετρά συνεχώς τη θερμοκρασία και την εμφανίζει στη μήτρα LED.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1347,6 +1368,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Falte den Karton zum Schluss zusammen und befestige Gummibänder außen am Karton.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141742Z">
+        <seg>Στο τέλος, δίπλωσε το χαρτόνι και στερέωσε λαστιχάκια έξω από το χαρτόνι.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1459,6 +1483,13 @@ c) Χρησιμοποίησε μια ερώτηση «αν τότε … αλλι
     <tu>
       <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm&lt;x3/&gt;b) Programmiere anhand deines Struktogramms&lt;x4/&gt;Verwende eine „wenn dann… ansonsten” Abfrage, um die Aktionen zu steuern.&lt;x5/&gt;Hinweis: Das Plus ermöglicht eine weitere Abfrage.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141937Z">
+        <seg>Προχώρησε βήμα προς βήμα:
+a) Δημιούργησε ένα διάγραμμα δομής
+b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
+Χρησιμοποίησε μια ερώτηση "αν τότε… διαφορετικά" για να ελέγξεις τις ενέργειες.
+Υπόδειξη: Το συν σου επιτρέπει μια ακόμη ερώτηση.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,6 +1679,9 @@ c) Χρησιμοποίησε μια ερώτηση «αν τότε … αλλι
     <tu>
       <tuv lang="de-DE">
         <seg>Hinweis:&lt;x2/&gt; Die Werte können etwas höher ausfallen, da sich der Temperatursensor im Prozessor befindet und dieser eigene Wärme abstrahlt.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141752Z">
+        <seg>Σημείωση:&lt;x2/&gt; Οι τιμές μπορεί να είναι λίγο υψηλότερες, γιατί ο αισθητήρας θερμοκρασίας βρίσκεται μέσα στον επεξεργαστή και αυτός εκπέμπει τη δική του θερμότητα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1939,6 +1973,9 @@ c) Χρησιμοποίησε μια ερώτηση «αν τότε … αλλι
       <tuv lang="de-DE">
         <seg>Klebe von innen ein Stück Transparentpapier über die große Öffnung.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141655Z">
+        <seg>Κόλλησε ένα κομμάτι διαφανές χαρτί από μέσα πάνω στο μεγάλο άνοιγμα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2053,6 +2090,9 @@ c) Χρησιμοποίησε μια ερώτηση «αν τότε … αλλι
     <tu>
       <tuv lang="de-DE">
         <seg>Lege den Calliope mini in den Karton und führe die Gummibänder durch die Löcher auf der Vorderseite.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141719Z">
+        <seg>Τοποθέτησε το Calliope mini στο κουτί και περάστε τα λαστιχάκια μέσα από τις τρύπες στο μπροστινό μέρος.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,6 +2227,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Miss die Temperatur an unterschiedlichen Orten und dokumentiere die gemessenen Werte.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141912Z">
+        <seg>Μέτρησε τη θερμοκρασία σε διαφορετικά μέρη και κατάγραψε τις τιμές που μέτρησες.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2199,6 +2242,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Mit Hilfe des Temperatursensors kann die Umgebungstemperatur gemessen werden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141817Z">
+        <seg>Με τη βοήθεια του αισθητήρα θερμοκρασίας μπορείς να μετρήσεις τη θερμοκρασία του περιβάλλοντος.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2652,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schließe danach das Batteriefach an den Calliope mini an und lege alles zusammen in den Karton.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141736Z">
+        <seg>Στη συνέχεια σύνδεσε το κουτί μπαταρίας στο Calliope mini και βάλε όλα μαζί στο κουτί.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2629,10 +2678,29 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schneide in die Vorderseite ein Fenster für die LED-Matrix und die RGB-LED und daneben zwei Löcher.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141647Z">
+        <seg>Κόψε ένα παράθυρο στο μπροστινό μέρος για τη μήτρα LED και το RGB-LED και δίπλα δύο τρύπες.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Schreibe ein Programm für ein Thermometer, das ein Hitzefrei-Signal ausgibt, wenn eine Temperatur von 30°C überschritten ist.&lt;x2/&gt;Eingabe:&lt;x3/&gt;Der Temperatursensor misst die Umgebungstemperatur.&lt;x4/&gt;Verarbeitung:&lt;x5/&gt;Ist der Wert der Variable „Temperatur“ größer als 30°C, lasse ein Eis-Symbol auf der LED-Matrix erscheinen und schalte die RGB-LED auf rot.&lt;x6/&gt;Ist der Wert der Variable „Temperatur“ kleiner als 20°C, schalte die LED-Matrix aus und die RGB-LED auf blau.&lt;x7/&gt;In allen anderen Fällen schalte die Hälfte der LED-Matrix ein und die RGB-LED auf grün.&lt;x8/&gt;Ausgabe:&lt;x9/&gt;Die LED-Matrix und die RGB-LED.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141930Z">
+        <seg>Γράψε ένα πρόγραμμα για ένα θερμόμετρο που δίνει ένα σήμα ζέστης όταν η θερμοκρασία ξεπεράσει τους 30°C.
+
+Είσοδος:
+Ο αισθητήρας θερμοκρασίας μετρά τη θερμοκρασία του περιβάλλοντος.
+
+Επεξεργασία:
+Αν η τιμή της μεταβλητής "Θερμοκρασία" είναι μεγαλύτερη από 30°C, κάνε ένα σύμβολο παγωτού να εμφανιστεί στη μήτρα LED και ενεργοποίησε το RGB LED σε κόκκινο.
+
+Αν η τιμή της μεταβλητής "Θερμοκρασία" είναι μικρότερη από 20°C, σβήσε τη μήτρα LED και ενεργοποίησε το RGB LED σε μπλε.
+
+Σε όλες τις άλλες περιπτώσεις, ενεργοποίησε το μισό της μήτρας LED και ενεργοποίησε το RGB LED σε πράσινο.
+
+Έξοδος:
+Η μήτρα LED και το RGB LED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2866,6 +2934,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Temperatur</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141841Z">
+        <seg>Θερμοκρασία</seg>
       </tuv>
     </tu>
     <tu>
@@ -3273,6 +3344,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wenn du magst, kannst du diesen Temperaturunterschied aber analysieren und dann die Differenz subtrahieren.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141800Z">
+        <seg>Αν θέλεις, μπορείς να αναλύσεις αυτή τη διαφορά θερμοκρασίας και μετά να αφαιρέσεις τη διαφορά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,6 +3855,11 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>• In der Sonne&lt;x2/&gt;• Im Schatten&lt;x3/&gt;• Im Eisfach</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T141906Z">
+        <seg>• Στον ήλιο
+• Στη σκιά
+• Στο ψυγείο</seg>
       </tuv>
     </tu>
     <tu>
