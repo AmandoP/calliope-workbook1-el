@@ -32,8 +32,13 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125039Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+      <tuv lang="el" changeid="amando" changedate="20260701T125339Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Never use "εσείς/σας" (formal/plural "you")
+- Keep the language simple and child-friendly
+- Provide only the translation without additions or explanations
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -191,6 +196,14 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;x6/&gt;Entwickle ein Programm, das folgende Funktionen hat:&lt;x7/&gt;Bodenfeuchtigkeit&lt;x8/&gt; - Prüfe dauerhaft: Ist die Erde zu trocken, soll die RGB-LED rot leuchten, ansonsten soll sie grün leuchten.&lt;x9/&gt;Temperatur&lt;x10/&gt; - Wird Knopf B gedrückt, soll die Temperatur angezeigt werden.&lt;x11/&gt;Helligkeit &lt;x12/&gt;- Wird Knopf A gedrückt, soll angezeigt werden, ob genügend Licht zur Verfügung steht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125403Z" creationid="amando" creationdate="20260701T125403Z">
+        <seg>Α</seg>
       </tuv>
     </tu>
     <tu>
@@ -361,6 +374,14 @@ Please share the text to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125411Z" creationid="amando" creationdate="20260701T125411Z">
+        <seg>Β</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>BASTELN</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T123647Z">
@@ -484,6 +505,14 @@ Please share the text to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125420Z" creationid="amando" creationdate="20260701T125420Z">
+        <seg>Γ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
         <seg>CO2-Sensor</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260625T153941Z">
@@ -579,6 +608,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Deine bearbeiteten Projekte findest du auf der Startseite unter &lt;x2/&gt;„Meine Projekte“&lt;x3/&gt;.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125436Z">
+        <seg>Τα έργα που έχεις επεξεργαστεί τα βρίσκεις στην αρχική σελίδα κάτω από &lt;x2/&gt;„Τα έργα μου"&lt;x3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -677,6 +709,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Die .hex Datei lässt sich wieder in MakeCode öffnen und bearbeiten.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125509Z">
+        <seg>Το αρχείο .hex μπορεί να ανοιχθεί ξανά στο MakeCode και να επεξεργαστεί.</seg>
       </tuv>
     </tu>
     <tu>
@@ -876,6 +911,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Durch einen Klick auf das &lt;x2/&gt;Speichern-Symbol&lt;x3/&gt;kannst du dein Programm als .hex Datei speichern.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125500Z">
+        <seg>Κάνοντας κλικ στο &lt;x2/&gt;σύμβολο Αποθήκευση&lt;x3/&gt;μπορείς να αποθηκεύσεις το πρόγραμμά σου ως αρχείο .hex.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1035,6 +1073,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle dazu folgende Programme in MakeCode.&lt;x2/&gt;Starte den Simulator und beschreibe, was im Simulator passiert.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125322Z">
+        <seg>Δημιούργησε τα ακόλουθα προγράμματα στο MakeCode.&lt;x2/&gt;Ξεκίνησε τον προσομοιωτή και περίγραψε τι συμβαίνει στον προσομοιωτή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +1275,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Gehe schrittweise vor!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125242Z">
+        <seg>Πήγαινε βήμα-βήμα!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1633,6 +1677,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Kennenlernen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125258Z">
+        <seg>Γνωριμία</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,6 +2367,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>So verhinderst du, dass Programme nicht funktionieren und du nicht genau sagen kannst, woran es liegt.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125234Z">
+        <seg>Έτσι αποτρέπεις τα προγράμματα να μην λειτουργούν και δεν μπορείς να πεις ακριβώς τι φταίει.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2436,6 +2486,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Teste sie im Editor und notiere die Eigenschaften.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125314Z">
+        <seg>Δοκίμασέ τα στον Editor και σημείωσε τα χαρακτηριστικά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2453,6 +2506,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Testen im Simulator!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125347Z">
+        <seg>Δοκίμασε στον προσομοιωτή!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2497,6 +2553,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Die Farben der Blöcke geben dir einen Hinweis, in welcher Kategorie du sie findest.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125355Z">
+        <seg>Συμβουλή:&lt;x2/&gt; Τα χρώματα των μπλοκ σου δίνουν μια υπόδειξη σε ποια κατηγορία θα τα βρεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,10 +2913,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wie kann ich Programme speichern?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125452Z">
+        <seg>Πώς μπορώ να αποθηκεύσω προγράμματα;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Wie kann ich ein Programm öffnen?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125428Z">
+        <seg>Πώς μπορώ να ανοίξω ένα πρόγραμμα;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2876,6 +2941,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wiederhole diese Testschleifen immer wieder.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125225Z">
+        <seg>Επανάλαβε αυτούς τους βρόχους δοκιμής ξανά και ξανά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3074,6 +3142,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>Über &lt;x2/&gt;„Importieren“&lt;x3/&gt; kannst du gespeicherte Projekte öffnen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125444Z">
+        <seg>Μέσα από το "Εισαγωγή" μπορείς να ανοίξεις αποθηκευμένα έργα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3083,6 +3154,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Über das &lt;x2/&gt;Teilen-Symbol&lt;x3/&gt; wird eine URL und ein QR-Code für dein Programm generiert.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125517Z">
+        <seg>Μέσω του &lt;x2/&gt;συμβόλου κοινοποίησης&lt;x3/&gt; δημιουργείται μια διεύθυνση URL και ένας κωδικός QR για το πρόγραμμά σου.</seg>
       </tuv>
     </tu>
     <tu>
