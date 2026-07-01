@@ -52,8 +52,14 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>3</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123145Z" creationid="amando" creationdate="20260701T123145Z">
-        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T124651Z" creationid="amando" creationdate="20260701T123145Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Keep the language simple and child-friendly
+- Provide translation only, without explanations or additions
+
+Please provide the German text you'd like me to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73,12 +79,11 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>4</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T124205Z" creationid="amando" creationdate="20260701T123452Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T124707Z" creationid="amando" creationdate="20260701T123452Z">
         <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
 
-- Use only simple, child-friendly language
-- Always use εσύ/σου/σε (informal singular "you")
-- NEVER use εσείς/σας (formal/plural "you")
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Keep the language simple and child-friendly
 - Provide translation only, without explanations or additions
 
 Please provide the German text you'd like me to translate.</seg>
@@ -536,6 +541,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Damit der Calliope mini deine Anweisungen versteht, müssen diese in der passenden Sprache geschrieben werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124740Z">
+        <seg>Για να καταλάβει το Calliope mini τις οδηγίες σου, πρέπει να γραφτούν στη σωστή γλώσσα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -560,6 +568,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Dazu brauchst du eine Programmierumgebung - auch Editor genannt.&lt;x2/&gt;Eine passende Programmierumgebung ist der Editor MakeCode.&lt;x3/&gt;Du findest ihn unter folgender Internetadresse:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124748Z">
+        <seg>Για αυτό χρειάζεσαι ένα περιβάλλον προγραμματισμού - που λέγεται επίσης Editor.&lt;x2/&gt;Ένα κατάλληλο περιβάλλον προγραμματισμού είναι ο Editor MakeCode.&lt;x3/&gt;Τον βρίσκεις στην ακόλουθη διεύθυνση στο διαδίκτυο:</seg>
       </tuv>
     </tu>
     <tu>
@@ -987,6 +998,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Ergänze das Struktogramm um zwei Entscheidungen und formuliere passende Anweisungen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124643Z">
+        <seg>Συμπλήρωσε το διάγραμμα δομής με δύο αποφάσεις και διατύπωσε κατάλληλες οδηγίες.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1064,6 +1078,17 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Erstelle ein eigenes Struktogramm für das Überqueren einer Straße.&lt;x2/&gt;Verwende folgende Beschreibungen der einzelnen Schritte.&lt;x3/&gt;• Ich gehe zur Ampel.&lt;x4/&gt;• Ich überprüfe das Ampelsignal.&lt;x5/&gt;• Ist das Signal der Ampel grün?&lt;x6/&gt;• Ich überquere die Straße.&lt;x7/&gt;• Ich bleibe stehen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124659Z">
+        <seg>Δημιούργησε το δικό σου δομόγραμμα για να διασχίσεις έναν δρόμο.
+
+Χρησιμοποίησε τις ακόλουθες περιγραφές των επιμέρους βημάτων.
+
+• Πηγαίνω στο φανάρι.
+• Ελέγχω το σήμα του φαναριού.
+• Είναι το σήμα του φαναριού πράσινο;
+• Διασχίζω τον δρόμο.
+• Μένω στη θέση μου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1231,6 +1256,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Gib die URL in die Browserleiste ein - &lt;x2/&gt;makecode.calliope.cc</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124756Z">
+        <seg>Πληκτρολόγησε τη διεύθυνση URL στη γραμμή του περιηγητή - &lt;x2/&gt;makecode.calliope.cc</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1294,6 +1322,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Hier kannst du dein Programm benennen, speichern und übertragen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124918Z">
+        <seg>Εδώ μπορείς να ονομάσεις το πρόγραμμά σου, να το αποθηκεύσεις και να το μεταφέρεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1437,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>Ich gucke aus dem Fenster</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124715Z">
+        <seg>Κοιτάζω έξω από το παράθυρο</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1498,6 +1532,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>In der Bibliothek findest du alle Programmblöcke, die du für deine Anweisungen benötigst.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124901Z">
+        <seg>Στη βιβλιοθήκη θα βρεις όλα τα μπλοκ προγραμματισμού που χρειάζεσαι για τις οδηγίες σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1589,6 +1626,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Kennst du die verschiedenen Bereiche des Editors und kannst sie den Beschreibungen zuordnen?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124853Z">
+        <seg>Γνωρίζεις τα διάφορα μέρη του προγράμματος και μπορείς να τα ταιριάξεις με τις περιγραφές;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1899,6 +1939,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Oder scanne den&lt;x2/&gt;QR-Code.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124804Z">
+        <seg>Ή σάρωσε τον κωδικό QR.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2022,6 +2065,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programmierumgebung</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124723Z">
+        <seg>Περιβάλλον Προγραμματισμού</seg>
       </tuv>
     </tu>
     <tu>
@@ -2220,6 +2266,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Sie sind in bunte Kategorien eingeordnet.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124909Z">
+        <seg>Είναι ταξινομημένα σε χρωματιστές κατηγορίες.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3023,6 +3072,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Übersicht</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T124845Z">
+        <seg>Επισκόπηση</seg>
       </tuv>
     </tu>
     <tu>
