@@ -62,7 +62,7 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T122521Z" creationid="amando" creationdate="20260701T122521Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T123104Z" creationid="amando" creationdate="20260701T122521Z">
         <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
 
 Please provide the German text you'd like me to translate. I will:
@@ -72,12 +72,15 @@ Please provide the German text you'd like me to translate. I will:
 - NEVER use εσείς/σας
 - Provide translation only, no explanations or additions
 
-Waiting for your text to translate.</seg>
+Please share the text to translate.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123047Z">
+        <seg>Αριθμήστε τις παρακάτω εικόνες της συνταγής ψησίματος στη σωστή σειρά, γράφοντας τους αριθμούς 1-5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +273,9 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Autorin und Autor:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Begleitendes Zusatzmaterial inklusive Leitfäden für den Unterricht, Programmcodes und Lösungen können auf der Webseite aufgerufen werden: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122926Z">
+        <seg>Συγγραφέας και Συγγραφέας:&lt;x2/&gt;Franka Futterlieb&lt;x3/&gt;Amando Pascotto&lt;x4/&gt;Jørn Alraun&lt;x5/&gt;Το συνοδευτικό πρόσθετο υλικό, συμπεριλαμβανομένων των οδηγών διδασκαλίας, των κωδικών προγραμματισμού και των λύσεων, μπορεί να ανακτηθεί στον ιστότοπο: &lt;x6/&gt;calliope.cc/schulen/arbeitsheft</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -400,10 +406,16 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Dabei spielt die Reihenfolge der Anweisungen eine entscheidende Rolle.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123015Z">
+        <seg>Εδώ η σειρά των εντολών παίζει έναν πολύ σημαντικό ρόλο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Dafür werden klare und detaillierte Anweisungen benötigt, die nacheinander ausgeführt werden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123007Z">
+        <seg>Γι' αυτό χρειάζονται σαφείς και λεπτομερείς οδηγίες που εκτελείς ο ένας μετά τον άλλον.</seg>
       </tuv>
     </tu>
     <tu>
@@ -587,6 +599,11 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Die Sammlung dieser Handlungsanweisungen wird Programm oder Algorithmus genannt.&lt;x2/&gt;In deinem Alltag gibt es viele Abläufe, die du hintereinander ausführst und bei denen du auf die Reihenfolge achten musst.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123023Z">
+        <seg>Η συλλογή αυτών των οδηγιών ενεργειών ονομάζεται πρόγραμμα ή αλγόριθμος.
+
+Στην καθημερινή σου ζωή υπάρχουν πολλές διαδικασίες που εκτελείς τη μία μετά την άλλη και πρέπει να προσέχεις τη σειρά τους.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -675,6 +692,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Du kannst ein Programm mit einem Rezept vergleichen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123031Z">
+        <seg>Μπορείς να συγκρίνεις ένα πρόγραμμα με μια συνταγή.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,6 +1296,9 @@ Waiting for your text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Inhaltsverzeichnis</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122829Z">
+        <seg>Περιεχόμενα</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1305,6 +1328,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Je genauer die Anweisungen, desto präziser ist das Ergebnis.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123039Z">
+        <seg>Όσο πιο λεπτομερείς είναι οι οδηγίες, τόσο πιο ακριβές είναι το αποτέλεσμα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1366,6 +1392,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>LED-Matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Knöpfe&lt;x6/&gt;24&lt;x7/&gt;Lautsprecher&lt;x8/&gt;25&lt;x9/&gt;Touch-Pins&lt;x10/&gt;26&lt;x11/&gt;Funken&lt;x12/&gt;28</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122845Z">
+        <seg>LED-Matrix&lt;x2/&gt;18&lt;x3/&gt;RGB-LED&lt;x4/&gt;21&lt;x5/&gt;Κουμπιά&lt;x6/&gt;24&lt;x7/&gt;Ηχείο&lt;x8/&gt;25&lt;x9/&gt;Pins Αφής&lt;x10/&gt;26&lt;x11/&gt;Ραδιοφωνία&lt;x12/&gt;28</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,6 +1468,9 @@ Waiting for your text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Licht&lt;x2/&gt;32&lt;x3/&gt;Lautstärke&lt;x4/&gt;34&lt;x5/&gt;Temperatur&lt;x6/&gt;37&lt;x7/&gt;Lage&lt;x8/&gt;40&lt;x9/&gt;Orakel&lt;x10/&gt;42&lt;x11/&gt;Feuchtigkeitssensor&lt;x12/&gt;44&lt;x13/&gt;Pflanzenstation&lt;x14/&gt;45&lt;x15/&gt;Ultraschallsensor&lt;x16/&gt;48&lt;x17/&gt;Personenzähler&lt;x18/&gt;50&lt;x19/&gt;CO2-Sensor&lt;x20/&gt;53&lt;x21/&gt;Luftqualität&lt;x22/&gt;54</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122901Z">
+        <seg>Φως&lt;x2/&gt;32&lt;x3/&gt;Ένταση ήχου&lt;x4/&gt;34&lt;x5/&gt;Θερμοκρασία&lt;x6/&gt;37&lt;x7/&gt;Θέση&lt;x8/&gt;40&lt;x9/&gt;Μαντείο&lt;x10/&gt;42&lt;x11/&gt;Αισθητήρας υγρασίας&lt;x12/&gt;44&lt;x13/&gt;Σταθμός φυτών&lt;x14/&gt;45&lt;x15/&gt;Αισθητήρας υπερήχων&lt;x16/&gt;48&lt;x17/&gt;Μετρητής ατόμων&lt;x18/&gt;50&lt;x19/&gt;Αισθητήρας CO2&lt;x20/&gt;53&lt;x21/&gt;Ποιότητα αέρα&lt;x22/&gt;54</seg>
       </tuv>
     </tu>
     <tu>
@@ -1719,6 +1751,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Programmieren heißt, einem Computer (z.B. deinem Calliope mini) Schritt-für-Schritt zu sagen, was er tun soll.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122958Z">
+        <seg>Το προγραμματισμό σημαίνει να λες στον υπολογιστή σου (για παράδειγμα, το Calliope mini σου) βήμα-βήμα τι πρέπει να κάνει.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1889,6 +1924,14 @@ Calliope gGmbH</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T122545Z">
         <seg>Οι αισθητήρες είναι σαν τις αισθήσεις.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>Sensoren&lt;x2/&gt;31</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122853Z" creationid="amando" creationdate="20260701T122853Z">
+        <seg>Αισθητήρες&lt;x2/&gt;31</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,10 +2299,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Was ist Programmieren?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122942Z">
+        <seg>Τι είναι ο προγραμματισμός;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Was ist Programmieren?&lt;x2/&gt;4&lt;x3/&gt;Der Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Struktogramme&lt;x6/&gt;10&lt;x7/&gt;Programmierumgebung&lt;x8/&gt;12&lt;x9/&gt;Programme übertragen&lt;x10/&gt;16&lt;x11/&gt;Den Calliope mini steuern&lt;x12/&gt;17</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122837Z">
+        <seg>Τι είναι ο προγραμματισμός;&lt;x2/&gt;4&lt;x3/&gt;Το Calliope mini&lt;x4/&gt;8&lt;x5/&gt;Δομοδιαγράμματα&lt;x6/&gt;10&lt;x7/&gt;Περιβάλλον προγραμματισμού&lt;x8/&gt;12&lt;x9/&gt;Μεταφορά προγραμμάτων&lt;x10/&gt;16&lt;x11/&gt;Έλεγχος του Calliope mini&lt;x12/&gt;17</seg>
       </tuv>
     </tu>
     <tu>
@@ -2273,6 +2322,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Weitere Informationen&lt;x2/&gt;58</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122909Z">
+        <seg>Περισσότερες πληροφορίες&lt;x2/&gt;58</seg>
       </tuv>
     </tu>
     <tu>
