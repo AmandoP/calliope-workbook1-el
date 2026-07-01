@@ -56,34 +56,6 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>4</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140853Z" creationid="amando" creationdate="20260701T140853Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Provide translation only, no additions or explanations
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
-        <seg>5</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T140901Z" creationid="amando" creationdate="20260701T140901Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
-
-- Use only "εσύ/σου/σε" (informal you)
-- Keep language simple and child-friendly
-- Provide translation only, no additions or explanations
-
-Please provide the German text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>9cm</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T142513Z">
@@ -1237,6 +1209,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ergebnis</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143449Z">
+        <seg>Αποτέλεσμα</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1523,6 +1498,11 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Definiere eine Variable „komplett” mit der maximalen Personenanzahl und eine Variable für die Anzahl der Personen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143458Z">
+        <seg>Ορίστε τα βήματα:
+
+a) Ορίστε μια μεταβλητή "komplett" με τον μέγιστο αριθμό ατόμων και μια μεταβλητή για τον αριθμό των ατόμων.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1959,6 +1939,10 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>In vielen Abläufen kannst du wiederkehrende Muster erkennen.&lt;x2/&gt;Manche Wiederholungen haben eine definierte Anzahl.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143657Z">
+        <seg>Σε πολλές διαδικασίες μπορείς να αναγνωρίσεις επαναλαμβανόμενα μοτίβα.
+Μερικές επαναλήψεις έχουν ένα καθορισμένο αριθμό.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1971,6 +1955,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
     <tu>
       <tuv lang="de-DE">
         <seg>Ist die Klasse vollzählig?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143501Z">
+        <seg>Είναι η τάξη πλήρης;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,6 +2467,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Objekte</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143444Z">
+        <seg>Αντικείμενα</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2500,6 +2490,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Optimierung:&lt;x2/&gt;Mache eine Pause, wenn eine Person den Klassenraum betritt.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143506Z">
+        <seg>Βελτιστοποίηση:&lt;x2/&gt;Κάνε ένα διάλειμμα όταν κάποιος μπαίνει στην τάξη.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2635,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Programmiere einen Personenzähler, um die Personen zu zählen, die den Klassenraum betreten.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143455Z">
+        <seg>Προγραμμάτισε έναν μετρητή ατόμων για να μετράς τα άτομα που μπαίνουν στην τάξη.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2783,6 +2779,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Schau dir folgende Anweisungen an, bringe sie in eine sinnvolle Reihenfolge und füge sie in deinen Programmcode ein.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143509Z">
+        <seg>Κοίταξε τις παρακάτω οδηγίες, βάλε τις σε μια λογική σειρά και πρόσθεσέ τες στον κώδικά σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +2935,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Setze den Personenzähler mit den Knöpfen A+B zurück auf 0.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143540Z">
+        <seg>Επαναφέρεις τον μετρητή ατόμων στο 0 με τα κουμπιά A+B.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2957,10 +2959,16 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Sind alle Personen im Raum, springt die RGB-LED auf grün und es kann losgehen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143533Z">
+        <seg>Αν είναι όλα τα άτομα στο δωμάτιο, το RGB LED γίνεται πράσινο και μπορείς να ξεκινήσεις.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Sind noch nicht alle Personen im Raum, leuchtet die RGB-LED rot.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143530Z">
+        <seg>Αν δεν είναι ακόμα όλα τα άτομα στο δωμάτιο, το RGB LED ανάβει κόκκινο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3235,6 +3243,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Tipp:&lt;x2/&gt; Stelle die Variable &lt;x3/&gt;„komplett“&lt;x4/&gt; erst mal auf „3“, dann kannst du dein Programm einfacher testen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143512Z">
+        <seg>Συμβουλή: Ορίστε τη μεταβλητή "ολοκληρωμένη" πρώτα στο "3", τότε μπορείς να δοκιμάσεις το πρόγραμμά σου πιο εύκολα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3335,6 +3346,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Vermutung</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143446Z">
+        <seg>Υπόθεση</seg>
       </tuv>
     </tu>
     <tu>
@@ -3709,6 +3723,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Wird eine Entfernung unter 10 cm gemessen, erhöhe den Personenzähler um 1.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143524Z">
+        <seg>Αν μετρηθεί απόσταση κάτω από 10 εκ., αύξησε τον μετρητή ατόμων κατά 1.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3813,6 +3830,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>b) Miss dauerhaft die Entfernung.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143520Z">
+        <seg>β) Μέτρησε συνεχώς την απόσταση.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3854,10 +3874,16 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
       <tuv lang="de-DE">
         <seg>c) Gleiche die gezählten Personen mit der Variable „komplett“ ab.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143527Z">
+        <seg>γ) Σύγκρινε τα άτομα που μέτρησες με τη μεταβλητή «komplett».</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>d) Wird der Knopf A gedrückt, lasse dir den aktuellen Wert des Personenzählers anzeigen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143535Z">
+        <seg>d) Όταν πατήσεις το κουμπί A, εμφάνισε την τρέχουσα τιμή του μετρητή ατόμων.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,6 +3897,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>e) Übertrage dein Programm auf den Calliope mini und probiere deinen Personenzähler aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143517Z">
+        <seg>ε) Μεταφέρ το πρόγραμμά σου στο Calliope mini και δοκίμασε τον μετρητή ατόμων σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4005,6 +4034,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Überprüfe mit dem Ultraschallsensor, ob alle Kinder wieder im Klassenraum sind.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143452Z">
+        <seg>Ελέγξε με τον αισθητήρα υπερήχων αν όλα τα παιδιά είναι πάλι στην τάξη.</seg>
       </tuv>
     </tu>
     <tu>
