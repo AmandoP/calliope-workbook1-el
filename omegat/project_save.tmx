@@ -308,6 +308,9 @@
       <tuv lang="de-DE">
         <seg>Benenne dein Programm und klicke auf “Herunterladen”.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122100Z">
+        <seg>Ονόμασε το πρόγραμμά σου και κάνε κλικ στο "Λήψη".</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -591,6 +594,9 @@
       <tuv lang="de-DE">
         <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm auszuführen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122149Z">
+        <seg>Πάτησε το λευκό κουμπί Reset στο Calliope mini σου για να εκτελέσεις το πρόγραμμά σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -782,6 +788,9 @@
       <tuv lang="de-DE">
         <seg>Erstelle das abgebildete Programm.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122132Z">
+        <seg>Δημιούργησε το πρόγραμμα που φαίνεται στην εικόνα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -925,6 +934,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T121956Z">
+        <seg>Εκτέλεσε τα επιμέρους βήματα με τη σωστή σειρά και δοκίμασε στο Calliope mini σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1750,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Schau dir die einzelnen Schritte zum Übertragen deines Programms auf den Calliope mini genau an und bringe sie in die richtige Reihenfolge.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T121947Z">
+        <seg>Κοίταξε προσεκτικά τα μεμονωμένα βήματα για να μεταφέρεις το πρόγραμμά σου στο Calliope mini και βάλε τα στη σωστή σειρά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2059,6 +2074,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Verbinde deinen Calliope mini mit dem USB-Kabel mit deinem Computer.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122043Z">
+        <seg>Σύνδεσε το Calliope mini σου με το καλώδιο USB στον υπολογιστή σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2081,6 +2099,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Vergiss nicht “Knopf A” und “Knopf B” zu drücken.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122000Z">
+        <seg>Μην ξεχάσεις να πατήσεις το "Κουμπί A" και το "Κουμπί B".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2363,6 +2384,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Wähle als Speicherort&lt;x1/&gt;„MINI“ aus.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T122116Z">
+        <seg>Επίλεξε ως τοποθεσία αποθήκευσης το "MINI".</seg>
       </tuv>
     </tu>
     <tu>
