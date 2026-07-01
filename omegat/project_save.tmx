@@ -1403,8 +1403,8 @@
       <tuv lang="de-DE">
         <seg>Mit dem&lt;x1/&gt;Grove-Kabel wird der SCD40 über den Grove-Anschluss A0 mit dem Calliope mini verbunden.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260625T154120Z">
-        <seg>Με το καλώδιο Grove&lt;x1/&gt;, το SCD40 συνδέεται με το Calliope mini μέσω της θύρας Grove A0.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T105746Z">
+        <seg>Με τον καβλί χρήστη Grove συνδέεται το SCD40 μέσω της θύλακας Grove A0 με το Calliope mini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1679,8 +1679,8 @@
       <tuv lang="de-DE">
         <seg>Schließe die Platine an.</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260625T154115Z">
-        <seg>Συνδέστε την πλακέτα.</seg>
+      <tuv lang="el" changeid="amando" changedate="20260701T105709Z">
+        <seg>Συνδέσε την πλακέτα.</seg>
       </tuv>
     </tu>
     <tu>
