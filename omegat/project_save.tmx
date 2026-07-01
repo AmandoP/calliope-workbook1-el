@@ -199,6 +199,15 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x6/&gt;Entwickle ein Programm, das folgende Funktionen hat:&lt;x7/&gt;Bodenfeuchtigkeit&lt;x8/&gt; - Prüfe dauerhaft: Ist die Erde zu trocken, soll die RGB-LED rot leuchten, ansonsten soll sie grün leuchten.&lt;x9/&gt;Temperatur&lt;x10/&gt; - Wird Knopf B gedrückt, soll die Temperatur angezeigt werden.&lt;x11/&gt;Helligkeit &lt;x12/&gt;- Wird Knopf A gedrückt, soll angezeigt werden, ob genügend Licht zur Verfügung steht.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142756Z">
+        <seg>Δημιούργησε ένα πρόγραμμα που έχει τις εξής λειτουργίες:
+
+Υγρασία εδάφους - Ελέγχει συνεχώς: Αν το χώμα είναι πολύ ξηρό, το RGB LED πρέπει να ανάψει κόκκινο, διαφορετικά πρέπει να ανάψει πράσινο.
+
+Θερμοκρασία - Όταν πατάς το κουμπί B, πρέπει να εμφανιστεί η θερμοκρασία.
+
+Φωτεινότητα - Όταν πατάς το κουμπί A, πρέπει να εμφανιστεί αν υπάρχει αρκετό φως.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -393,10 +402,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Auswahl des Ausgabeformats</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142707Z">
+        <seg>Επιλογή της μορφής εξόδου</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Auswahl&lt;x2/&gt;des Sensors</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142659Z">
+        <seg>Επιλογή&lt;x2/&gt;του Αισθητήρας</seg>
       </tuv>
     </tu>
     <tu>
@@ -548,6 +563,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Benutze dafür den Platz auf der nächsten Seite.&lt;x3/&gt;b) Programmiere anhand deines Struktogramms.&lt;x4/&gt;c) Teste im Simulator.&lt;x5/&gt;d) Übertrage dein Programm auf den Calliope mini und probiere es aus.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142843Z">
+        <seg>Χρησιμοποίησε για αυτό το χώρο στην επόμενη σελίδα.&lt;x3/&gt;β) Προγραμμάτισε σύμφωνα με το διάγραμμά σου.&lt;x4/&gt;γ) Δοκίμασε στον προσομοιωτή.&lt;x5/&gt;δ) Μεταφέρ το πρόγραμμά σου στο Calliope mini και δοκίμασέ το.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -560,6 +578,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Bitte gießen!</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142821Z">
+        <seg>Παρακαλώ πότισε!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1436,6 +1457,9 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>Feuchtigkeitssensor</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142626Z">
+        <seg>Αισθητήρας υγρασίας</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1525,6 +1549,10 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Gehe Schritt für Schritt vor:&lt;x2/&gt;a) Erstelle ein Struktogramm.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142837Z">
+        <seg>Πήγαινε βήμα προς βήμα:
+α) Δημιούργησε ένα διάγραμμα δομής.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,6 +1814,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Häkchen</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142724Z">
+        <seg>Σημάδι</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1908,6 +1939,9 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Importiere die benötigten Programmblöcke:&lt;x2/&gt;Grove&lt;x3/&gt;(Erweiterungen)</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142643Z">
+        <seg>Εισάγετε τα απαραίτητα μπλοκ προγράμματος:&lt;x2/&gt;Grove&lt;x3/&gt;(Επεκτάσεις)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1963,10 +1997,16 @@ b) Προγραμμάτισε σύμφωνα με το διάγραμμά σου
       <tuv lang="de-DE">
         <seg>Ist es hell genug, lasse ein Häkchen erscheinen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142813Z">
+        <seg>Αν είναι αρκετά φωτεινό, εμφάνισε ένα σημάδι.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ist es zu dunkel, lasse eine Sonne auf der LED-Matrix erscheinen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142804Z">
+        <seg>Αν είναι πολύ σκοτεινά, άφησε ένα ήλιο να εμφανιστεί στη μήτρα LED.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2574,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Pflanzenstation</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142829Z">
+        <seg>Σταθμός φυτών</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2944,6 +2987,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Sonne</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142715Z">
+        <seg>Ήλιος</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3232,6 +3278,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Verbinde den Sensor mit dem&lt;x2/&gt;Grove-Kabel über den Grove-Anschluss A1 mit dem Calliope mini.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142602Z">
+        <seg>Συνδέστε τον αισθητήρα με το καλώδιο Grove μέσω της θύρας Grove A1 στο Calliope mini.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3294,6 +3343,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verwende den schwarzen Calliope Sensor oder den blauen Grove Sensor, um die Bodenfeuchtigkeit zu messen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142554Z">
+        <seg>Χρησιμοποίησε τον μαύρο αισθητήρα Calliope ή τον μπλε αισθητήρα Grove για να μετρήσεις την υγρασία του εδάφους.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,6 +3939,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>Über den Pin C16 können analoge Werte empfangen werden.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142651Z">
+        <seg>Μέσω του ακροδέκτη C16 μπορείς να λάβεις αναλογικές τιμές.</seg>
       </tuv>
     </tu>
     <tu>
