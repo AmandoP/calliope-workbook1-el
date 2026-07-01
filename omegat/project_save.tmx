@@ -97,6 +97,9 @@
       <tuv lang="de-DE">
         <seg>Abfragen&lt;x1/&gt;(mehrfach)</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113844Z">
+        <seg>Ερωτήσεις (πολλαπλές)</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1218,6 +1221,9 @@
       <tuv lang="de-DE">
         <seg>KENNENLERNEN</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114111Z">
+        <seg>ΓΝΩΡΙΜΙΑ</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1267,6 +1273,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>LUFTQUALITÄT</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T113855Z">
+        <seg>ΠΟΙΟΤΗΤΑ ΤΟΥ ΑΕΡΑ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1871,6 +1880,9 @@
       <tuv lang="de-DE">
         <seg>Teste im Editor und beschreibe.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114145Z">
+        <seg>Δοκίμασε στον επεξεργαστή και περίγραψε.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2069,15 +2081,24 @@
       <tuv lang="de-DE">
         <seg>Was funktioniert noch nicht so gut?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114025Z">
+        <seg>Τι δεν λειτουργεί ακόμα τόσο καλά;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Was funktioniert nocht nicht so gut?</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114020Z">
+        <seg>Τι δεν λειτουργεί ακόμα καλά;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Was funktioniert schon ziemlich gut?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114015Z">
+        <seg>Τι λειτουργεί ήδη αρκετά καλά;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2113,6 +2134,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Welche Funktionen haben die einzelnen &lt;x1/&gt;Schaltflächen?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114130Z">
+        <seg>Ποιες είναι οι λειτουργίες των επιμέρους κουμπιών;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,6 +2280,9 @@
     <tu>
       <tuv lang="de-DE">
         <seg>Woran hast du länger getüftelt?</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T114008Z">
+        <seg>Σε τι έχεις ασχοληθεί περισσότερο;</seg>
       </tuv>
     </tu>
     <tu>
