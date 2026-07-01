@@ -1,0 +1,16 @@
+EL - Greek - Untranslated MakeCode Blocks:
+
+Eingabe:
+input.onGesture(Gesture.LogoUp, function () \{\})\
+input.onGesture(Gesture.LogoDown, function () \{\})\
+input.soundLevel()\
+
+Musik:
+music.play(music.stringPlayable("- - - - - - - - ", 120), music.PlaybackMode.UntilDone)\
+music.play(music.tonePlayable(262, music.beat(BeatFraction.Whole)),music.PlaybackMode.UntilDone)\
+
+Logik:
+(false && false) - "and"
+(false || false) - "or"
+
+SDC40 & Grove Erweiterungen?}
