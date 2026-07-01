@@ -123,14 +123,6 @@ Please provide the German text you'd like me to translate.</seg>
     </tu>
     <tu>
       <tuv lang="de-DE">
-        <seg>&lt;x1/&gt;</seg>
-      </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T141031Z" creationid="amando" creationdate="20260701T140416Z">
-        <seg>I'm ready to help translate from German (DE) to Greek (EL) for the Calliope mini microcontroller workbook for children. Please provide the text you'd like me to translate.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="de-DE">
         <seg>&lt;x2/&gt;Setze die unten stehenden Bilder der Backanleitung in die richtige Reihenfolge, indem du sie von 1-5 durchnummerierst.</seg>
       </tuv>
       <tuv lang="el" changeid="amando" changedate="20260701T123047Z">
@@ -292,6 +284,9 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Angenehm fühlt es sich zwischen 30%&lt;x2/&gt;und 70% an.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143129Z">
+        <seg>Αισθάνεται ευχάριστα μεταξύ 30% και 70%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2385,6 +2380,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Mit dem Ultraschallsensor kann die Entfernung zwischen dem Sensor und einem Objekt gemessen werden.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142918Z">
+        <seg>Με τον αισθητήρα υπερήχων μπορείς να μετρήσεις την απόσταση ανάμεσα στον αισθητήρα και ένα αντικείμενο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2474,6 +2472,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Nutze die RGB-LED für die Anzeige des CO2-Gehalts und programmiere eine Ampel: rot, gelb, grün.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143123Z">
+        <seg>Χρησιμοποίησε το RGB-LED για να δείξεις το περιεχόμενο CO2 και προγραμμάτισε ένα φανάρι: κόκκινο, κίτρινο, πράσινο.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,6 +2983,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Sobald eine Bedingung erfüllt ist, werden alle weiteren für diesen Durchlauf übersprungen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143140Z">
+        <seg>Μόλις ικανοποιηθεί μια συνθήκη, όλες οι άλλες παραλείπονται για αυτόν τον κύκλο.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3339,6 +3343,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Verwende den Ultraschallsensor, um Entfernungen zu messen.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T142926Z">
+        <seg>Χρησιμοποίησε τον αισθητήρα υπερήχων για να μετρήσεις αποστάσεις.n</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3364,6 +3371,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Verwende die LED-Matrix für die Anzeige der Luftfeuchtigkeit.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T143133Z">
+        <seg>Χρησιμοποίησε τη μήτρα LED για να εμφανίσεις την υγρασία του αέρα.</seg>
       </tuv>
     </tu>
     <tu>
