@@ -32,13 +32,14 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T125339Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+      <tuv lang="el" changeid="amando" changedate="20260701T125744Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German (DE) to Greek (EL) following your specifications:
 
-- Use only "εσύ/σου/σε" (informal singular "you")
-- Never use "εσείς/σας" (formal/plural "you")
-- Keep the language simple and child-friendly
-- Provide only the translation without additions or explanations
+- Topic: Calliope mini microcontroller workbook for children (age 8-12)
+- Style: Simple, child-friendly
+- Always use εσύ/σου/σε (informal singular "you")
+- Never use εσείς/σας (formal/plural "you")
+- Output: Translation only, no additions or explanations
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -125,17 +126,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123655Z" creationid="amando" creationdate="20260701T122521Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T125630Z" creationid="amando" creationdate="20260701T122521Z">
         <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
 
 Please provide the German text you'd like me to translate. I will:
 - Translate ONLY the given text
 - Use simple, child-friendly language
-- Use εσύ/σου/σε (informal singular "you")
-- NEVER use εσείς/σας
-- Provide translation only, no explanations or additions
+- Use εσύ/σου/σε (informal you) instead of εσείς/σας
+- Provide translation only, without explanations or additions
 
-Please share the text to translate.</seg>
+Waiting for your text to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -469,6 +469,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Benenne dein Programm und klicke auf „Herunterladen”.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125655Z">
+        <seg>Ονόμασε το πρόγραμμά σου και κάνε κλικ στο «Λήψη».</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -583,6 +586,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Das Programm wird zunächst als .hex-Datei im Download-Ordner gespeichert.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125703Z">
+        <seg>Το πρόγραμμα αποθηκεύεται πρώτα ως αρχείο .hex στον φάκελο Λήψεις.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -616,6 +622,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Den Calliope mini steuern</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125752Z">
+        <seg>Τον Calliope mini να ελέγχεις</seg>
       </tuv>
     </tu>
     <tu>
@@ -820,6 +829,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Drücke die weiße Reset Taste auf deinem Calliope mini, um dein Programm erneut zu starten.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125727Z">
+        <seg>Πάτησε το λευκό κουμπί Reset στο Calliope mini σου, για να ξεκινήσει ξανά το πρόγραμμά σου.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -850,6 +862,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Du kannst diesen Link speichern oder mit anderen teilen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125525Z">
+        <seg>Μπορείς να αποθηκεύσεις αυτόν τον σύνδεσμο ή να τον μοιραστείς με άλλους.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1245,6 +1260,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Führe die einzelnen Schritte in der richtigen Reihenfolge aus und teste sie auf deinem Calliope mini.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125558Z">
+        <seg>Εκτέλεσε τα επιμέρους βήματα με τη σωστή σειρά και δοκίμασέ τα στο Calliope mini σου.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1647,6 +1665,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>JETZT</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125808Z">
+        <seg>ΤΩΡΑ</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1733,6 +1754,9 @@ Waiting for your text...</seg>
       <tuv lang="de-DE">
         <seg>LOS</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125816Z">
+        <seg>ΛΟΣ</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1806,6 +1830,9 @@ Waiting for your text...</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Lerne die einzelnen Aktoren und Sensoren des Calliope mini zu steuern und erstelle erste eigene Programme.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125800Z">
+        <seg>Μάθε να ελέγχεις τους μεμονωμένους ενεργοποιητές και αισθητήρες του Calliope mini και δημιούργησε τα πρώτα δικά σου προγράμματα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2077,6 +2104,9 @@ Calliope gGmbH</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Programme übertragen</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125638Z">
+        <seg>Μεταφόρτωση προγραμμάτων</seg>
       </tuv>
     </tu>
     <tu>
@@ -2651,6 +2681,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Vergiss nicht, Knopf A und Knopf B zu drücken.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125606Z">
+        <seg>Μην ξεχάσεις να πατήσεις το κουμπί A και το κουμπί B.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -2984,6 +3017,9 @@ Calliope gGmbH</seg>
       <tuv lang="de-DE">
         <seg>Ziehe nun die Datei auf das Laufwerk „MINI“ - fertig!</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125711Z">
+        <seg>Τράβηξε τώρα το αρχείο στη μονάδα "MINI" - έτοιμο!</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -3084,6 +3120,9 @@ d) Ορίστε την τιμή της μεταβλητής "Tempo" στο 500.<
     <tu>
       <tuv lang="de-DE">
         <seg>geht‘s</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T125824Z">
+        <seg>πάμε</seg>
       </tuv>
     </tu>
     <tu>
