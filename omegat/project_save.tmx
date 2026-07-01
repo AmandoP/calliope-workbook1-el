@@ -32,8 +32,13 @@
       <tuv lang="de-DE">
         <seg>2</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T122432Z" creationid="amando" creationdate="20260701T122432Z">
-        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I'll use simple, child-friendly language and always use the informal "εσύ" form instead of the formal "εσείς".
+      <tuv lang="el" changeid="amando" changedate="20260701T123136Z" creationid="amando" creationdate="20260701T122432Z">
+        <seg>I'm ready to translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. I will:
+
+- Use only "εσύ/σου/σε" (informal singular "you")
+- Never use "εσείς/σας" (formal/plural "you")
+- Keep the language simple and child-friendly
+- Provide only the translation without additions or explanations
 
 Please provide the German text you'd like me to translate.</seg>
       </tuv>
@@ -41,6 +46,14 @@ Please provide the German text you'd like me to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>2x Kniebeugen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de-DE">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123145Z" creationid="amando" creationdate="20260701T123145Z">
+        <seg>Δεν υπάρχει κείμενο για μετάφραση. Παρακαλώ δώσε το γερμανικό κείμενο που θέλεις να μεταφράσω στα ελληνικά.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,17 +75,16 @@ Please provide the German text you'd like me to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="el" changeid="amando" changedate="20260701T123104Z" creationid="amando" creationdate="20260701T122521Z">
+      <tuv lang="el" changeid="amando" changedate="20260701T123153Z" creationid="amando" creationdate="20260701T122521Z">
         <seg>I'm ready to help translate from German to Greek (DE→EL) for the Calliope mini microcontroller workbook for children aged 8-12. 
 
 Please provide the German text you'd like me to translate. I will:
 - Translate ONLY the given text
 - Use simple, child-friendly language
-- Use εσύ/σου/σε (informal singular "you")
-- NEVER use εσείς/σας
-- Provide translation only, no explanations or additions
+- Use εσύ/σου/σε (informal you) instead of εσείς/σας
+- Provide translation only, without explanations or additions
 
-Please share the text to translate.</seg>
+Waiting for your text to translate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95,6 +107,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>&lt;x3/&gt;a) Bringe die einzelnen Schritte in die richtige Reihenfolge.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123250Z">
+        <seg>α) Βάλε τα μεμονωμένα βήματα στη σωστή σειρά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -109,6 +124,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>&lt;x4/&gt;b) Kreise den Schritt ein, der wiederholt wird.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123258Z">
+        <seg>β) Κύκλωσε το βήμα που επαναλαμβάνεται.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +352,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Beim Programmieren werden Algorithmen, die der Computer ausführen soll, in Programme übersetzt, die der Computer versteht.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123209Z">
+        <seg>Όταν προγραμματίζεις, μεταφράζεις τους αλγορίθμους που θέλεις ο υπολογιστής να εκτελέσει σε προγράμματα που ο υπολογιστής καταλαβαίνει.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -520,6 +541,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Der Computer benötigt diese klaren, eindeutigen Anweisungen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123225Z">
+        <seg>Ο υπολογιστής χρειάζεται αυτές τις σαφείς, ξεκάθαρες οδηγίες.</seg>
       </tuv>
     </tu>
     <tu>
@@ -726,6 +750,10 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Du möchtest ein leckeres Marmeladenbrot zum Frühstück?&lt;x2/&gt;Bringe die Anweisungen in die richtige Reihenfolge.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123120Z">
+        <seg>Θέλεις ένα νόστιμο ψωμί με μαρμελάδα για το πρωινό;
+Βάλε τις οδηγίες στη σωστή σειρά.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -745,6 +773,9 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Ein Algorithmus ist eine Verarbeitungsvorschrift mit eindeutig ausführbaren Anweisungen.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123217Z">
+        <seg>Ένας αλγόριθμος είναι μια οδηγία επεξεργασίας με σαφείς εντολές που μπορείς να εκτελέσεις.</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,6 +967,11 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Es gibt Abläufe, die durch getroffene Entscheidungen unterschiedlich verlaufen.&lt;x2/&gt;Verbinde die &lt;x3/&gt;Bedingungen (wenn)&lt;x4/&gt; mit der passenden &lt;x5/&gt;Entscheidung (dann).</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123234Z">
+        <seg>Υπάρχουν διαδικασίες που εξελίσσονται διαφορετικά ανάλογα με τις αποφάσεις που παίρνεις.
+
+Σύνδεσε τις &lt;x3/&gt;συνθήκες (αν)&lt;x4/&gt; με την κατάλληλη &lt;x5/&gt;απόφαση (τότε).</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -973,6 +1009,17 @@ Please share the text to translate.</seg>
     <tu>
       <tuv lang="de-DE">
         <seg>Formuliere fünf Anweisungen, die den Ablauf des Zähneputzens beschreiben.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123128Z">
+        <seg>1. Βρες την οδοντόβουρτσά σου και βάλε λίγη οδοντόκρεμα πάνω της.
+
+2. Βρέξε την οδοντόβουρτσά σου με νερό και αρχίστε να καθαρίζεις τα δόντια σου με κυκλικές κινήσεις.
+
+3. Καθάρισε προσεκτικά όλα τα δόντια σου - πάνω, κάτω και στις πλευρές.
+
+4. Ξεπλύνε το στόμα σου με νερό και φτύσε την οδοντόκρεμα.
+
+5. Ξεπλύνε ξανά την οδοντόβουρτσά σου με νερό και άφησέ την να στεγνώσει.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1193,15 +1240,24 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ich beiße ein Stück der Banane ab.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123403Z">
+        <seg>Δαγκώνω ένα κομμάτι της μπανάνας.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich entferne die Schale.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123347Z">
+        <seg>Αφαιρώ το κέλυφος.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich gehe zur Tür.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123314Z">
+        <seg>Πηγαίνω στην πόρτα.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1213,10 +1269,16 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ich höre ein „Herein“.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123331Z">
+        <seg>Ακούω ένα «Μπες μέσα».</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich kaue.</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123412Z">
+        <seg>Μασώ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1228,6 +1290,9 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ich nehme die Banane.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123306Z">
+        <seg>Παίρνω τη μπανάνα.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
@@ -1238,15 +1303,24 @@ Please share the text to translate.</seg>
       <tuv lang="de-DE">
         <seg>Ich trete ein.</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123339Z">
+        <seg>Μπαίνω.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich wiederhole drei Mal:</seg>
       </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123323Z">
+        <seg>Επαναλαμβάνω τρεις φορές:</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="de-DE">
         <seg>Ich wiederhole folgende drei Vorgänge, bis die Banane aufgegessen ist:</seg>
+      </tuv>
+      <tuv lang="el" changeid="amando" changedate="20260701T123355Z">
+        <seg>Επαναλαμβάνω τις ακόλουθες τρεις ενέργειες, μέχρι να φάω όλη τη μπανάνα:</seg>
       </tuv>
     </tu>
     <tu>
